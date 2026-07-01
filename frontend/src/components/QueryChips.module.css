@@ -1,0 +1,186 @@
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  padding: 40px 24px;
+  animation: fadeIn 0.5s ease;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+/* ── Branding ───────────────────────────────────────────────────────────── */
+.brandRow {
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.brandName {
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-style: italic;
+  color: var(--text-primary);
+}
+
+.brandIcon {
+  font-style: normal;
+}
+
+.brandSub {
+  display: block;
+  font-size: 0.68rem;
+  letter-spacing: 1.5px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.badges {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+  margin-bottom: 32px;
+}
+
+.badgeGroq {
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.badgeFacts {
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--error);
+}
+
+/* ── Hero ───────────────────────────────────────────────────────────────── */
+.hero {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.shieldIcon {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: rgba(108, 99, 255, 0.1);
+  border: 1px solid rgba(108, 99, 255, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  margin: 0 auto 20px;
+}
+
+.heroTitle {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.3;
+  margin-bottom: 12px;
+}
+
+.heroSub {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  max-width: 440px;
+  margin: 0 auto;
+}
+
+/* ── Chip grid ──────────────────────────────────────────────────────────── */
+.chipGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+  margin-bottom: 36px;
+}
+
+.chip {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 16px;
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  text-align: left;
+  transition: all var(--transition-base);
+  cursor: pointer;
+}
+
+.chip:hover {
+  background: var(--surface-hover);
+  border-color: var(--surface-border-hover);
+  box-shadow: 0 0 16px rgba(108, 99, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.chipIcon {
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.chipText {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+/* ── Official sources ───────────────────────────────────────────────────── */
+.sourcesRow {
+  text-align: center;
+}
+
+.sourcesLabel {
+  display: block;
+  font-size: 0.65rem;
+  letter-spacing: 1.2px;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.sourceBadges {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sourceBadge {
+  padding: 5px 14px;
+  border-radius: var(--radius-full);
+  background: var(--bg-tertiary);
+  border: 1px solid var(--surface-border);
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 600px) {
+  .chipGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .heroTitle {
+    font-size: 1.2rem;
+  }
+}

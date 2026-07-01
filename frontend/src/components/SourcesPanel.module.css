@@ -1,0 +1,108 @@
+.panel {
+  width: var(--sources-width);
+  height: 100vh;
+  background: var(--bg-secondary);
+  border-left: 1px solid var(--surface-border);
+  display: flex;
+  flex-direction: column;
+  padding: 20px 16px;
+  flex-shrink: 0;
+  overflow-y: auto;
+  animation: slideInRight 0.3s ease;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.headerLeft h3 {
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 22px;
+  height: 22px;
+  border-radius: var(--radius-full);
+  background: var(--primary);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0 6px;
+}
+
+.closeBtn {
+  width: 30px;
+  height: 30px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  transition: all var(--transition-fast);
+}
+
+.closeBtn:hover {
+  background: var(--surface-hover);
+  color: var(--text-primary);
+}
+
+.cardList {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+/* ── Context card at bottom ─────────────────────────────────────────────── */
+.contextCard {
+  margin-top: auto;
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  border-left: 3px solid var(--primary);
+}
+
+.contextLabel {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  color: var(--primary);
+  margin-bottom: 6px;
+}
+
+.contextText {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(24px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+@media (max-width: 1024px) {
+  .panel {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 40;
+    box-shadow: -4px 0 24px rgba(0, 0, 0, 0.4);
+  }
+}

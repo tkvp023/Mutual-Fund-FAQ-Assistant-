@@ -1,0 +1,186 @@
+.container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-width: 0;
+  position: relative;
+}
+
+/* ── Status bar ─────────────────────────────────────────────────────────── */
+.statusBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 24px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--surface-border);
+  flex-shrink: 0;
+  animation: fadeIn 0.3s ease;
+}
+
+.statusLeft {
+  display: flex;
+  gap: 20px;
+}
+
+.statusItem {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.statusOnline {
+  font-size: 0.72rem;
+  color: var(--success);
+  font-weight: 500;
+}
+
+/* ── Messages area ──────────────────────────────────────────────────────── */
+.messagesArea {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 24px;
+  scroll-behavior: smooth;
+}
+
+.messagesList {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Input area ─────────────────────────────────────────────────────────── */
+.inputArea {
+  padding: 12px 24px 4px;
+  flex-shrink: 0;
+}
+
+.inputForm {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  transition: all var(--transition-fast);
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.inputForm:focus-within {
+  border-color: var(--primary);
+  box-shadow: 0 0 12px var(--primary-glow);
+}
+
+
+.input {
+  flex: 1;
+  padding: 8px 4px;
+  font-size: 0.88rem;
+  color: var(--text-primary);
+  min-width: 0;
+}
+
+.input::placeholder {
+  color: var(--text-muted);
+}
+
+.sourcesToggle {
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.sourcesToggle:hover {
+  background: var(--surface-hover);
+  color: var(--text-secondary);
+}
+
+.sendBtn {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--bg-tertiary);
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-fast);
+  flex-shrink: 0;
+}
+
+.sendBtnActive {
+  background: var(--gradient-primary);
+  color: #fff;
+}
+
+.sendBtnActive:hover {
+  box-shadow: var(--shadow-glow);
+  transform: scale(1.05);
+}
+
+.disclaimer {
+  text-align: center;
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  margin-top: 6px;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ── Bottom disclaimer bar ──────────────────────────────────────────────── */
+.disclaimerBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 24px;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--surface-border);
+  flex-shrink: 0;
+}
+
+.disclaimerText {
+  font-size: 0.65rem;
+  color: var(--error);
+  font-style: italic;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@media (max-width: 768px) {
+  .messagesArea {
+    padding: 16px;
+  }
+
+  .inputArea {
+    padding: 8px 12px 4px;
+  }
+
+  .disclaimerBar {
+    flex-direction: column;
+    gap: 4px;
+    text-align: center;
+  }
+
+  .statusBar {
+    flex-direction: column;
+    gap: 4px;
+    padding: 6px 16px;
+  }
+
+  .statusLeft {
+    gap: 12px;
+  }
+}

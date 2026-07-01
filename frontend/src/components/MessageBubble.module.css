@@ -1,0 +1,269 @@
+/* ── Container alignment ────────────────────────────────────────────────── */
+.userContainer {
+  display: flex;
+  justify-content: flex-end;
+  padding: 6px 0;
+  animation: slideUp 0.3s ease;
+}
+
+.assistantContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 6px 0;
+  animation: slideUp 0.35s ease;
+  gap: 10px;
+}
+
+/* ── User bubble ────────────────────────────────────────────────────────── */
+.userBubble {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--surface-border);
+  border-radius: var(--radius-lg) var(--radius-lg) 4px var(--radius-lg);
+  padding: 12px 18px;
+  max-width: 75%;
+  font-size: 0.88rem;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+/* ── Assistant bubble ───────────────────────────────────────────────────── */
+.assistantBubble {
+  background: var(--surface);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--surface-border);
+  border-radius: 4px var(--radius-lg) var(--radius-lg) var(--radius-lg);
+  padding: 16px 20px;
+  max-width: 85%;
+}
+
+/* ── Source badge row ───────────────────────────────────────────────────── */
+.sourceBadgeRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.sourceLabel {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.sourceBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  background: rgba(16, 185, 129, 0.12);
+  color: var(--success);
+  font-size: 0.73rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all var(--transition-fast);
+}
+
+.sourceBadge:hover {
+  background: rgba(16, 185, 129, 0.2);
+}
+
+/* ── Divider & Stats ────────────────────────────────────────────────────── */
+.divider {
+  height: 1px;
+  background: var(--surface-border);
+  margin: 12px 0 8px;
+}
+
+.statsRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modelInfo {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.actions {
+  display: flex;
+  gap: 4px;
+}
+
+.actionBtn {
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  transition: all var(--transition-fast);
+}
+
+.actionBtn:hover {
+  background: var(--surface-hover);
+  color: var(--text-primary);
+}
+
+/* ── Error bubble ───────────────────────────────────────────────────────── */
+.errorBubble {
+  background: rgba(239, 68, 68, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  max-width: 85%;
+}
+
+.errorHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--error);
+  margin-bottom: 8px;
+}
+
+.errorIcon {
+  font-size: 1rem;
+}
+
+.errorBubble p {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+/* ── Advisory bubble ────────────────────────────────────────────────────── */
+.advisoryWarning {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(245, 158, 11, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+}
+
+.advisoryBubble {
+  background: var(--advisory-bg);
+  border: 1px solid var(--advisory-border);
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  max-width: 85%;
+}
+
+.advisoryHeader {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: var(--advisory-text);
+  margin-bottom: 12px;
+}
+
+/* ── Advisory suggestion cards ──────────────────────────────────────────── */
+.advisoryCards {
+  display: flex;
+  gap: 12px;
+  max-width: 85%;
+}
+
+.advisoryCard,
+.advisoryCardAlt {
+  flex: 1;
+  display: flex;
+  gap: 10px;
+  padding: 14px;
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  border: 1px solid var(--advisory-border);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  text-decoration: none;
+  color: inherit;
+}
+
+.advisoryCardAlt {
+  border-color: var(--surface-border);
+}
+
+.advisoryCard:hover,
+.advisoryCardAlt:hover {
+  background: var(--surface-hover);
+  transform: translateY(-1px);
+}
+
+.advisoryCardIcon {
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.advisoryCard strong,
+.advisoryCardAlt strong {
+  display: block;
+  font-size: 0.82rem;
+  margin-bottom: 4px;
+  color: var(--text-primary);
+}
+
+.advisoryCard span,
+.advisoryCardAlt span {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+.externalIcon,
+.arrowIcon {
+  font-size: 1rem;
+  color: var(--text-muted);
+  flex-shrink: 0;
+  margin-left: auto;
+  align-self: center;
+}
+
+/* ── No sources row ─────────────────────────────────────────────────────── */
+.noSources {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  max-width: 85%;
+}
+
+.noSources span {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.noSources em {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Animations ─────────────────────────────────────────────────────────── */
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 768px) {
+  .userBubble,
+  .assistantBubble,
+  .advisoryBubble {
+    max-width: 95%;
+  }
+
+  .advisoryCards {
+    flex-direction: column;
+    max-width: 95%;
+  }
+}

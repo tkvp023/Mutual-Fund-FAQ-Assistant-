@@ -1,0 +1,16 @@
+# Don't deploy the frontend or dev files to Railway
+frontend/
+venv/
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+.git/
+DOCS/
+tests/
+scripts/
+.env
+.env.example
+*.log
+.DS_Store
+Thumbs.db
