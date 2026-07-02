@@ -22,9 +22,14 @@ The RAG-based Mutual Fund FAQ Chatbot is a **question-answering system** that us
 │  │             │     │                                     Vector Store    │     │
 │  └─────────────┘     └──────────────────────────────┬──────────────────────┘     │
 │                                                      │                           │
-│                                                      ▼                           │
-│  ┌─────────────┐     ┌─────────────────────────────────────────────────────┐     │
-│  │             │     │              ONLINE PIPELINE                        │     │
+│  ┌─────────────┐                                     │                           │
+│  │  Scheduler  │─── triggers daily ──────────────────┘                           │
+│  │  (GitHub    │     (cron: 2:00 AM IST)                                         │
+│  │   Actions)  │                                                                 │
+│  └─────────────┘                                     ▼                           │
+│                      ┌─────────────────────────────────────────────────────┐     │
+│  ┌─────────────┐     │              ONLINE PIPELINE                        │     │
+│  │             │     │  (NO ingestion — query only)                        │     │
 │  │    User     │────▶│  Chat UI ──▶ Query Encoder ──▶ Retriever ──▶       │     │
 │  │  (Browser)  │◀────│             Prompt Builder ──▶ LLM ──▶ Response    │     │
 │  │             │     │                                                     │     │
@@ -102,7 +107,7 @@ The system is divided into two major pipelines: **Offline (Ingestion)** and **On
 
 ### 3.1 Offline Pipeline — Data Ingestion & Indexing
 
-This pipeline runs periodically (or on-demand) to scrape, process, and index data from the 5 Groww URLs.
+This pipeline runs **once daily** (triggered by GitHub Actions scheduler) to scrape, process, and index data from the 5 Groww URLs. It does **not** run during user queries — this decoupling keeps query latency under 3 seconds.
 
 ```
 ┌────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
@@ -291,6 +296,49 @@ class VectorStore:
         """Retrieve top-k similar chunks."""
         pass
 ```
+
+---
+
+### 3.3 Scheduler Component — Daily Ingestion Trigger
+
+The scheduler is responsible for triggering the offline ingestion pipeline on a daily cron schedule. It ensures the vector store always has fresh data (NAV, AUM, holdings change daily on Groww) without impacting query latency.
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    SCHEDULER COMPONENT                          │
+│                                                                 │
+│   ┌──────────────────┐     ┌──────────────────┐                │
+│   │  GitHub Actions  │────▶│  Ingestion        │                │
+│   │  Cron Trigger    │     │  Pipeline         │                │
+│   │                  │     │  (pipeline/ingest) │                │
+│   │  Schedule:       │     │                    │                │
+│   │  Daily 2:00 AM   │     │  Scrape → Extract  │                │
+│   │  IST             │     │  → Chunk → Embed   │                │
+│   │                  │     │  → Store (ChromaDB) │                │
+│   └──────────────────┘     └────────┬───────────┘                │
+│                                      │                           │
+│   ┌──────────────────┐               │                           │
+│   │  Ingestion Guard │◀──────────────┘                           │
+│   │  (20-hour lock)  │  Prevents double-runs                     │
+│   └──────────────────┘                                           │
+│                                      │                           │
+│                                      ▼                           │
+│   ┌──────────────────┐     ┌──────────────────┐                │
+│   │  Git Commit      │     │  Railway Redeploy │                │
+│   │  (chroma_db/)    │     │  (webhook, opt.)  │                │
+│   └──────────────────┘     └──────────────────┘                │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Key design decisions:**
+
+| Decision | Choice | Rationale |
+|----------|--------|-----------|
+| **Trigger** | GitHub Actions cron | Free, no infrastructure, built into the repo |
+| **Schedule** | Daily at 2:00 AM IST | Low-traffic window; Groww updates NAV data end-of-day |
+| **Guard** | 20-hour lock file | Prevents accidental double-ingestion; allows cron drift |
+| **Persistence** | Commit `chroma_db/` to repo | Railway/Vercel picks up updated DB on redeploy |
+| **Failure mode** | Graceful — old DB persists | If scraping fails, users still get answers from yesterday's data |
 
 ---
 
@@ -602,10 +650,16 @@ RAG-based Mutual Fund FAQ Chatbot/
 ├── app/
 │   └── chatbot.py                  # Streamlit chat UI (main entry point)
 │
+├── .github/
+│   └── workflows/
+│       └── daily-ingestion.yml       # GitHub Actions cron: daily ingestion
+│
 ├── pipeline/
 │   ├── __init__.py
 │   ├── ingest.py                   # Full ingestion pipeline orchestrator
-│   └── query.py                    # Full query pipeline orchestrator
+│   ├── query.py                    # Full query pipeline orchestrator
+│   ├── .last_ingestion             # Timestamp of last successful ingestion
+│   └── .ingestion_lock             # Lock file to prevent concurrent runs
 │
 ├── chroma_db/                      # Persistent ChromaDB storage (auto-created)
 │
@@ -637,6 +691,7 @@ RAG-based Mutual Fund FAQ Chatbot/
 | **LLM** | Groq (`llama-3.1-8b-instant`) | Latest | Ultra-fast answer generation via LPU |
 | **LLM Framework** | LangChain | 0.2+ | Chain orchestration |
 | **Frontend** | Streamlit | 1.30+ | Chat UI |
+| **Scheduler** | GitHub Actions | N/A | Daily cron trigger for ingestion pipeline |
 | **Environment** | python-dotenv | Latest | API key management |
 | **Testing** | pytest | 8.0+ | Unit & integration tests |
 
@@ -860,7 +915,7 @@ LLM_MAX_TOKENS=800
 | Enhancement | Description | Priority |
 |-------------|-------------|----------|
 | More fund URLs | Add more HDFC or other AMC funds to config | High |
-| Scheduled re-scraping | Cron job to refresh data daily/weekly | High |
+| ~~Scheduled re-scraping~~ | ~~Cron job to refresh data daily/weekly~~ | ~~High~~ → ✅ **Done (Phase 6)** |
 | Conversation memory | Multi-turn chat with context window | Medium |
 | Reranking | Cross-encoder reranker for better retrieval | Medium |
 | Hybrid search | Combine vector search with BM25 keyword search | Medium |
@@ -900,6 +955,13 @@ LLM_MAX_TOKENS=800
 - **Context:** `requests` + `BeautifulSoup` is lighter but cannot render JavaScript.
 - **Rationale:** Groww.in is a Next.js app that renders most content via JavaScript; `requests` alone returns incomplete HTML.
 - **Consequences:** Heavier dependency, requires browser driver, slower scraping.
+
+### ADR-005: GitHub Actions for Scheduled Ingestion
+
+- **Decision:** Use GitHub Actions cron to trigger daily data ingestion, not run ingestion on every user query.
+- **Context:** The ingestion pipeline (Selenium scrape → BGE embed → ChromaDB store) takes ~2 minutes. Running it per-query would add unacceptable latency.
+- **Rationale:** Fund data (NAV, AUM, holdings) changes at most once daily. A daily cron at 2:00 AM IST refreshes the vector store during low-traffic hours, while the query pipeline only performs vector search + LLM call (<3s). GitHub Actions is free for public repos and requires no additional infrastructure.
+- **Consequences:** Data may be up to ~24 hours stale. Acceptable for FAQ-style queries about fund metrics. Manual trigger via `workflow_dispatch` available for urgent refreshes.
 
 ---
 

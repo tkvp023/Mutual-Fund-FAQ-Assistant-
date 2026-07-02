@@ -9,20 +9,20 @@
 
 ## Implementation Overview
 
-The project is divided into **5 phases**, each building on the previous one. Each phase has a clear deliverable and can be independently tested.
+The project is divided into **6 phases**, each building on the previous one. Each phase has a clear deliverable and can be independently tested.
 
 ```
-Phase 1          Phase 2          Phase 3          Phase 4          Phase 5
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
-│ Project  │───▶│ Data     │───▶│ RAG      │───▶│ Chat UI  │───▶│ Polish   │
-│ Setup &  │    │ Ingestion│    │ Pipeline │    │ & App    │    │ & Test   │
-│ Scraping │    │ Pipeline │    │ (Groq)   │    │ (Stream- │    │          │
-│          │    │ (BGE)    │    │          │    │  lit)    │    │          │
-└──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
-   ~2 days        ~2 days        ~2 days         ~1.5 days       ~1.5 days
+Phase 1          Phase 2          Phase 3          Phase 4          Phase 5          Phase 6
+┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
+│ Project  │───▶│ Data     │───▶│ RAG      │───▶│ Chat UI  │───▶│ Polish   │───▶│ Scheduler│
+│ Setup &  │    │ Ingestion│    │ Pipeline │    │ & App    │    │ & Test   │    │ (GitHub  │
+│ Scraping │    │ Pipeline │    │ (Groq)   │    │ (Stream- │    │          │    │ Actions) │
+│          │    │ (BGE)    │    │          │    │  lit)    │    │          │    │          │
+└──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
+   ~2 days        ~2 days        ~2 days         ~1.5 days       ~1.5 days       ~1 day
 ```
 
-**Total Estimated Duration:** ~9–10 days
+**Total Estimated Duration:** ~11–12 days
 
 ---
 
@@ -1870,6 +1870,200 @@ describe("MessageBubble", () => {
 
 ---
 
+## Phase 6: Scheduled Daily Ingestion (GitHub Actions)
+
+> **Goal:** Automate the ingestion pipeline to run once daily via GitHub Actions, ensuring the vector store always has the latest fund data from Groww.in without adding latency to user queries.
+> **Duration:** ~1 day
+
+### 6.1 Design Rationale
+
+The ingestion pipeline (scrape → extract → chunk → embed → store) is **expensive** (~2 min, requires Selenium + BGE model). Running it on every user query would add unacceptable latency. Instead, we decouple ingestion from querying:
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         DECOUPLED ARCHITECTURE                         │
+│                                                                         │
+│   ┌──────────────────────┐          ┌──────────────────────┐           │
+│   │  SCHEDULER (Offline) │          │   QUERY (Online)     │           │
+│   │                      │          │                      │           │
+│   │  GitHub Actions      │          │  User → FastAPI →    │           │
+│   │  cron: daily 2:00 AM │   ──▶    │  ChromaDB → Groq →   │           │
+│   │                      │  pushes  │  Response            │           │
+│   │  Scrape → Chunk →    │  updated │                      │           │
+│   │  Embed → ChromaDB    │  DB      │  (NO ingestion here, │           │
+│   │                      │          │   just vector search) │           │
+│   └──────────────────────┘          └──────────────────────┘           │
+│                                                                         │
+│   Runs: Once/day at 2:00 AM IST    Runs: Every user query              │
+│   Duration: ~2 minutes              Duration: <3 seconds               │
+│   Cost: Free (GitHub Actions)       Cost: Groq API (free tier)         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+**Key principle:** The ingestion pipeline runs **only once per day** (via scheduled GitHub Actions), not on every user query. This keeps query latency under 3 seconds while ensuring data freshness (NAV, AUM, holdings update daily on Groww).
+
+### 6.2 GitHub Actions Workflow
+
+**`.github/workflows/daily-ingestion.yml`:**
+
+```yaml
+name: Daily Data Ingestion
+
+on:
+  schedule:
+    # Run daily at 2:00 AM IST (8:30 PM UTC previous day)
+    - cron: '30 20 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Install Chrome for Selenium
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: 'stable'
+
+      - name: Run ingestion pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          CHROMA_PERSIST_DIR: ./chroma_db
+        run: |
+          python -m pipeline.ingest
+
+      - name: Verify ingestion
+        run: |
+          python -c "
+          from vectorstore.store import VectorStore
+          from config.settings import CHROMA_COLLECTION_NAME, CHROMA_PERSIST_DIR
+          store = VectorStore(collection_name=CHROMA_COLLECTION_NAME, persist_dir=CHROMA_PERSIST_DIR)
+          count = store.count()
+          print(f'✓ ChromaDB has {count} chunks')
+          assert count >= 100, f'Expected >=100 chunks, got {count}'
+          "
+
+      - name: Commit updated ChromaDB
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chroma_db/
+          git diff --staged --quiet || git commit -m "chore: daily data refresh $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Railway redeploy (optional)
+        if: success()
+        run: |
+          if [ -n "${{ secrets.RAILWAY_WEBHOOK_URL }}" ]; then
+            curl -X POST "${{ secrets.RAILWAY_WEBHOOK_URL }}"
+            echo "✓ Railway redeploy triggered"
+          else
+            echo "⚠ RAILWAY_WEBHOOK_URL not set, skipping redeploy"
+          fi
+```
+
+### 6.3 Ingestion Guard Script
+
+To prevent accidental ingestion during query time, add a guard to the backend:
+
+**Update `pipeline/ingest.py`** — add a lock file mechanism:
+
+```python
+import os
+import sys
+from datetime import datetime
+
+LOCK_FILE = os.path.join(os.path.dirname(__file__), ".ingestion_lock")
+LAST_RUN_FILE = os.path.join(os.path.dirname(__file__), ".last_ingestion")
+
+def is_ingestion_needed() -> bool:
+    """Check if ingestion should run (not run in last 20 hours)."""
+    if not os.path.exists(LAST_RUN_FILE):
+        return True
+    with open(LAST_RUN_FILE) as f:
+        last_run = datetime.fromisoformat(f.read().strip())
+    hours_since = (datetime.now() - last_run).total_seconds() / 3600
+    return hours_since >= 20  # Allow re-run after 20h (buffer for cron drift)
+
+def mark_ingestion_complete():
+    """Record the timestamp of successful ingestion."""
+    with open(LAST_RUN_FILE, "w") as f:
+        f.write(datetime.now().isoformat())
+
+def run_ingestion():
+    if not is_ingestion_needed():
+        print("⏭  Ingestion skipped — last run was less than 20 hours ago.")
+        return
+
+    # ... existing ingestion logic ...
+
+    mark_ingestion_complete()
+    print("✓ Ingestion complete. Next run allowed after 20 hours.")
+```
+
+### 6.4 Required GitHub Secrets
+
+| Secret | Purpose | Where to get it |
+|---|---|---|
+| `GROQ_API_KEY` | LLM API key for embedding/query | [console.groq.com](https://console.groq.com) |
+| `RAILWAY_WEBHOOK_URL` | (Optional) Trigger Railway redeploy after DB update | Railway dashboard → Deploy → Webhook |
+
+### 6.5 Monitoring & Failure Handling
+
+| Scenario | Handling |
+|---|---|
+| Scraper fails (Groww down) | GitHub Actions retries once; if both fail, the old ChromaDB persists (stale but functional) |
+| Embedding model download fails | `pip cache` in workflow ensures model is cached across runs |
+| ChromaDB corruption | `store.reset()` in `ingest.py` wipes and rebuilds from scratch each run |
+| Workflow failure notification | GitHub sends email notification on workflow failure by default |
+| Manual re-run needed | Click "Run workflow" in GitHub Actions UI (enabled by `workflow_dispatch`) |
+
+### 6.6 Phase 6 Deliverables
+
+| # | Deliverable | Verification |
+|---|-------------|-------------|
+| 1 | GitHub Actions workflow file created | `.github/workflows/daily-ingestion.yml` exists |
+| 2 | Workflow runs on schedule | Cron triggers at 2:00 AM IST daily |
+| 3 | Manual trigger works | "Run workflow" button in GitHub Actions UI |
+| 4 | Ingestion completes in CI | Logs show `✓ ChromaDB has 128 chunks` |
+| 5 | Updated DB is committed | Git log shows daily `chore: daily data refresh` commits |
+| 6 | Ingestion guard prevents double-runs | Running `python -m pipeline.ingest` twice skips second run |
+| 7 | Query latency unaffected | User queries still respond in <3 seconds |
+
+### 6.7 Phase 6 Test
+
+```bash
+# Test 1: Manual trigger from CLI
+python -m pipeline.ingest
+# Expected: Full ingestion runs, ChromaDB updated
+
+# Test 2: Run again immediately
+python -m pipeline.ingest
+# Expected: "Ingestion skipped — last run was less than 20 hours ago."
+
+# Test 3: Verify query latency is unaffected
+curl -X POST http://localhost:8000/api/chat \
+  -H "Content-Type: application/json" \
+  -d '{"query": "NAV of HDFC Mid Cap?"}'
+# Expected: response_time_ms < 3000
+```
+
+---
+
 ## Full Timeline Summary
 
 | Phase | Module | Tasks | Duration | Status |
@@ -1879,7 +2073,8 @@ describe("MessageBubble", () => {
 | **Phase 3** | Retriever + LLM + Pipeline | `IntentDetector`, `FundRetriever`, Groq, `QueryPipeline` | ~2 days | ✅ Done |
 | **Phase 4** | FastAPI Backend | REST API, CORS, session history, Pydantic schemas | ~2 days | ⬜ Next |
 | **Phase 5** | Next.js Frontend | Dark glass UI, chat interface, source cards, mobile | ~2.5 days | ⬜ Next |
-| | | **Total** | **~10.5 days** | |
+| **Phase 6** | Scheduler (GitHub Actions) | Daily cron workflow, ingestion guard, Railway redeploy | ~1 day | ⬜ Planned |
+| | | **Total** | **~11.5 days** | |
 
 ---
 
@@ -1904,6 +2099,9 @@ uvicorn app.api:app --host 0.0.0.0 --port 8000 --reload
 
 # Phase 5: Start the Next.js frontend (in /frontend)
 npm run dev
+
+# Phase 6: Manually trigger ingestion (or let GitHub Actions cron handle it)
+python -m pipeline.ingest
 
 # Tests (all phases)
 pytest tests/ -v
