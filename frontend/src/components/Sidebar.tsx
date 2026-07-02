@@ -4,13 +4,15 @@ import { ChatSession } from "@/hooks/useChat";
 import styles from "./Sidebar.module.css";
 
 interface SidebarProps {
-  chatHistory: ChatSession[];
-  onNewChat:   () => void;
-  isOpen:      boolean;
-  onToggle:    () => void;
+  chatHistory:      ChatSession[];
+  activeSessionId:  string;
+  onNewChat:        () => void;
+  onSelectSession:  (id: string) => void;
+  isOpen:           boolean;
+  onToggle:         () => void;
 }
 
-export default function Sidebar({ chatHistory, onNewChat, isOpen, onToggle }: SidebarProps) {
+export default function Sidebar({ chatHistory, activeSessionId, onNewChat, onSelectSession, isOpen, onToggle }: SidebarProps) {
   return (
     <>
       {/* Mobile hamburger */}
@@ -44,7 +46,12 @@ export default function Sidebar({ chatHistory, onNewChat, isOpen, onToggle }: Si
         {/* History items */}
         <div className={styles.historySection}>
           {chatHistory.slice(0, 10).map((session) => (
-            <button key={session.id} className={styles.historyItem}>
+            <button
+              key={session.id}
+              className={`${styles.historyItem} ${session.id === activeSessionId ? styles.historyItemActive : ""}`}
+              onClick={() => onSelectSession(session.id)}
+              title={session.title}
+            >
               {session.title}
               {session.fundTags.slice(0, 1).map((tag) => (
                 <span key={tag} className={styles.historyTag}>{tag}</span>

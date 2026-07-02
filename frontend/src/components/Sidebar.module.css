@@ -129,6 +129,14 @@
   background: var(--surface);
 }
 
+.historyItemActive {
+  color: var(--primary) !important;
+  background: rgba(108, 99, 255, 0.1);
+  border-left: 2px solid var(--primary);
+  padding-left: 6px;
+  font-weight: 500;
+}
+
 .historyItem::before {
   content: "\2022 ";
   color: var(--primary);

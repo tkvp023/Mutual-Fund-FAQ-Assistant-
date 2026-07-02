@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useRef } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import { sendMessage, ChatResponse } from "@/lib/api";
 
 /* ── Types ──────────────────────────────────────────────────────────────── */
@@ -50,6 +50,35 @@ function extractFundTags(funds: string[]): string[] {
   });
 }
 
+/* ── localStorage helpers ───────────────────────────────────────────────── */
+const MAX_SESSIONS = 20;
+
+function saveMessages(sessionId: string, messages: Message[]) {
+  try {
+    localStorage.setItem(`mf-messages-${sessionId}`, JSON.stringify(messages));
+  } catch {
+    // localStorage full — silently fail
+  }
+}
+
+function loadMessages(sessionId: string): Message[] {
+  try {
+    const stored = localStorage.getItem(`mf-messages-${sessionId}`);
+    return stored ? JSON.parse(stored) : [];
+  } catch {
+    return [];
+  }
+}
+
+function pruneOldSessions(sessions: ChatSession[]) {
+  // Remove messages for sessions beyond the cap
+  const toRemove = sessions.slice(MAX_SESSIONS);
+  for (const s of toRemove) {
+    localStorage.removeItem(`mf-messages-${s.id}`);
+  }
+  return sessions.slice(0, MAX_SESSIONS);
+}
+
 /* ── Hook ───────────────────────────────────────────────────────────────── */
 export function useChat() {
   const [messages, setMessages]     = useState<Message[]>([]);
@@ -74,6 +103,28 @@ export function useChat() {
   const [latestResponse, setLatestResponse] = useState<ChatResponse | null>(null);
 
   const abortRef = useRef<AbortController | null>(null);
+
+  /* ── Restore messages for the current session on mount ─────────────── */
+  useEffect(() => {
+    const restored = loadMessages(sessionId);
+    if (restored.length > 0) {
+      setMessages(restored);
+      // Restore latestResponse from the last assistant message
+      const lastAssistant = [...restored].reverse().find((m) => m.role === "assistant" && m.sources);
+      if (lastAssistant?.sources) {
+        setLatestResponse(lastAssistant.sources);
+      }
+    }
+    // Only run on mount
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  /* ── Persist messages whenever they change ─────────────────────────── */
+  useEffect(() => {
+    if (messages.length > 0) {
+      saveMessages(sessionId, messages);
+    }
+  }, [messages, sessionId]);
 
   /* ── Send a message ──────────────────────────────────────────────────── */
   const send = useCallback(async (query: string) => {
@@ -121,8 +172,9 @@ export function useChat() {
             ...prev,
           ];
         }
-        localStorage.setItem("mf-chat-history", JSON.stringify(updated.slice(0, 20)));
-        return updated;
+        const pruned = pruneOldSessions(updated);
+        localStorage.setItem("mf-chat-history", JSON.stringify(pruned));
+        return pruned;
       });
     } catch (err) {
       const errorMsg: Message = {
@@ -138,14 +190,41 @@ export function useChat() {
     }
   }, [isLoading, sessionId]);
 
+  /* ── Load a past session ─────────────────────────────────────────────── */
+  const loadSession = useCallback((targetSessionId: string) => {
+    if (targetSessionId === sessionId) return; // Already active
+
+    // Save current messages before switching
+    if (messages.length > 0) {
+      saveMessages(sessionId, messages);
+    }
+
+    // Switch to the target session
+    setSessionId(targetSessionId);
+    localStorage.setItem("mf-session-id", targetSessionId);
+
+    // Load messages from localStorage
+    const restored = loadMessages(targetSessionId);
+    setMessages(restored);
+
+    // Restore latestResponse from the last assistant message
+    const lastAssistant = [...restored].reverse().find((m) => m.role === "assistant" && m.sources);
+    setLatestResponse(lastAssistant?.sources ?? null);
+  }, [sessionId, messages]);
+
   /* ── New chat ────────────────────────────────────────────────────────── */
   const newChat = useCallback(() => {
+    // Save current messages before starting a new chat
+    if (messages.length > 0) {
+      saveMessages(sessionId, messages);
+    }
+
     const id = crypto.randomUUID();
     setSessionId(id);
     setMessages([]);
     setLatestResponse(null);
     localStorage.setItem("mf-session-id", id);
-  }, []);
+  }, [sessionId, messages]);
 
   return {
     messages,
@@ -155,5 +234,6 @@ export function useChat() {
     latestResponse,
     send,
     newChat,
+    loadSession,
   };
 }

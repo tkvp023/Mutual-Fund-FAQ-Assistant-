@@ -11,10 +11,12 @@ export default function Home() {
   const {
     messages,
     isLoading,
+    sessionId,
     chatHistory,
     latestResponse,
     send,
     newChat,
+    loadSession,
   } = useChat();
 
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -26,6 +28,12 @@ export default function Home() {
     // Sources panel will open when response arrives
   };
 
+  // Handle selecting a past session from sidebar
+  const handleSelectSession = (id: string) => {
+    loadSession(id);
+    setSidebarOpen(false); // Close sidebar on mobile
+  };
+
   // Toggle sources panel
   const toggleSources = () => setSourcesOpen((v) => !v);
 
@@ -33,7 +41,9 @@ export default function Home() {
     <main className={styles.main}>
       <Sidebar
         chatHistory={chatHistory}
+        activeSessionId={sessionId}
         onNewChat={newChat}
+        onSelectSession={handleSelectSession}
         isOpen={sidebarOpen}
         onToggle={() => setSidebarOpen((v) => !v)}
       />
@@ -55,3 +65,4 @@ export default function Home() {
     </main>
   );
 }
+
