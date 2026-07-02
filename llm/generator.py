@@ -46,6 +46,8 @@ class GroqGenerator:
             temperature=temperature,
             max_tokens=max_tokens,
             groq_api_key=GROQ_API_KEY,
+            timeout=10,
+            max_retries=1,
         )
 
     def generate(self, system_prompt: str, user_message: str) -> str:
