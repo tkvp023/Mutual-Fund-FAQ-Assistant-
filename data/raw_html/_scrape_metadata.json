@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T22:06:01.548923",
+  "scraped_at": "2026-07-02T14:18:01.729094",
   "total_urls": 5,
   "successful": 5,
   "failed": 0,
@@ -11,10 +11,10 @@
     "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
   ],
   "files": [
-    "data/raw_html\\hdfc-gold-etf-fund-of-fund-direct-plan-growth.html",
-    "data/raw_html\\hdfc-large-cap-fund-direct-growth.html",
-    "data/raw_html\\hdfc-small-cap-fund-direct-growth.html",
-    "data/raw_html\\hdfc-silver-etf-fof-direct-growth.html",
-    "data/raw_html\\hdfc-mid-cap-fund-direct-growth.html"
+    "data/raw_html/hdfc-gold-etf-fund-of-fund-direct-plan-growth.html",
+    "data/raw_html/hdfc-large-cap-fund-direct-growth.html",
+    "data/raw_html/hdfc-small-cap-fund-direct-growth.html",
+    "data/raw_html/hdfc-silver-etf-fof-direct-growth.html",
+    "data/raw_html/hdfc-mid-cap-fund-direct-growth.html"
   ]
 }
