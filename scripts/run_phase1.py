@@ -120,14 +120,13 @@ def run_phase1():
             "total_documents": len(documents),
             "documents": [
                 {
-                    "fund_name": doc["fund_name"],
-                    "source_url": doc["source_url"],
-                    "raw_text_length": doc["raw_text_length"],
-                    "nav_data": doc["nav"],
-                    "details_found": len(doc["details"]),
-                    "returns_found": len(doc["returns"]),
-                    "holdings_found": len(doc["holdings"]),
-                    "faqs_found": len(doc["faq"]),
+                    "fund_name": doc.get("fund_name"),
+                    "source_url": doc.get("source_url"),
+                    "raw_text_length": doc.get("raw_text_length", 0),
+                    "nav_data": doc.get("nav"),
+                    "returns_found": len(doc.get("returns_annualised", {})),
+                    "holdings_found": len(doc.get("holdings", [])),
+                    "faqs_found": len(doc.get("faq", [])),
                 }
                 for doc in documents
             ],
