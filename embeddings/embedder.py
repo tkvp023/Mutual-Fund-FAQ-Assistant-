@@ -7,13 +7,8 @@ Model selection rationale (from data analysis):
   - Corpus: 128 chunks, avg 347 chars — short, dense, factual
   - BGE-small vs BGE-large MTEB gap: 62.17 vs 64.23 (2 pts) — negligible at this scale
   - CPU embed time: ~3-5s (small) vs ~25-40s (large) — 8-10x difference matters on refresh
-  - Metadata pre-filtering by fund_name compensates for small model's disambiguation limits
   - Upgrade to bge-large when corpus exceeds ~1000 chunks or GPU is available
 """
-
-import os
-# Prevent HuggingFace from checking the internet (causes 10-30s latency stalls)
-os.environ["HF_HUB_OFFLINE"] = "1"
 
 from langchain_huggingface import HuggingFaceEmbeddings
 
