@@ -11,7 +11,11 @@ Model selection rationale (from data analysis):
   - Upgrade to bge-large when corpus exceeds ~1000 chunks or GPU is available
 """
 
-from langchain_community.embeddings import HuggingFaceBgeEmbeddings
+import os
+# Prevent HuggingFace from checking the internet (causes 10-30s latency stalls)
+os.environ["HF_HUB_OFFLINE"] = "1"
+
+from langchain_huggingface import HuggingFaceEmbeddings
 
 # ── Model constants ──────────────────────────────────────────────────────────
 RECOMMENDED_MODEL = "BAAI/bge-small-en-v1.5"
@@ -47,7 +51,7 @@ class BGEEmbedder:
         self.model_name = model_name
         self.device = device
         print(f"  Loading BGE model: {model_name} (device={device})...")
-        self.model = HuggingFaceBgeEmbeddings(
+        self.model = HuggingFaceEmbeddings(
             model_name=model_name,
             model_kwargs={"device": device},
             encode_kwargs={"normalize_embeddings": True},  # enables cosine via dot product
