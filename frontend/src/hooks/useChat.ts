@@ -226,6 +226,28 @@ export function useChat() {
     localStorage.setItem("mf-session-id", id);
   }, [sessionId, messages]);
 
+  /* ── Delete a session ───────────────────────────────────────────────── */
+  const deleteSession = useCallback((targetSessionId: string) => {
+    // Remove messages from localStorage
+    localStorage.removeItem(`mf-messages-${targetSessionId}`);
+
+    // Remove from chat history
+    setChatHistory((prev) => {
+      const updated = prev.filter((s) => s.id !== targetSessionId);
+      localStorage.setItem("mf-chat-history", JSON.stringify(updated));
+      return updated;
+    });
+
+    // If deleting the active session, start a new chat
+    if (targetSessionId === sessionId) {
+      const id = crypto.randomUUID();
+      setSessionId(id);
+      setMessages([]);
+      setLatestResponse(null);
+      localStorage.setItem("mf-session-id", id);
+    }
+  }, [sessionId]);
+
   return {
     messages,
     isLoading,
@@ -235,5 +257,6 @@ export function useChat() {
     send,
     newChat,
     loadSession,
+    deleteSession,
   };
 }

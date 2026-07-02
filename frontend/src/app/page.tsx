@@ -17,6 +17,7 @@ export default function Home() {
     send,
     newChat,
     loadSession,
+    deleteSession,
   } = useChat();
 
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -44,6 +45,7 @@ export default function Home() {
         activeSessionId={sessionId}
         onNewChat={newChat}
         onSelectSession={handleSelectSession}
+        onDeleteSession={deleteSession}
         isOpen={sidebarOpen}
         onToggle={() => setSidebarOpen((v) => !v)}
       />

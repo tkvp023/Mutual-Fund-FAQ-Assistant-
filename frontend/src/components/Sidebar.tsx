@@ -8,11 +8,12 @@ interface SidebarProps {
   activeSessionId:  string;
   onNewChat:        () => void;
   onSelectSession:  (id: string) => void;
+  onDeleteSession:  (id: string) => void;
   isOpen:           boolean;
   onToggle:         () => void;
 }
 
-export default function Sidebar({ chatHistory, activeSessionId, onNewChat, onSelectSession, isOpen, onToggle }: SidebarProps) {
+export default function Sidebar({ chatHistory, activeSessionId, onNewChat, onSelectSession, onDeleteSession, isOpen, onToggle }: SidebarProps) {
   return (
     <>
       {/* Mobile hamburger */}
@@ -46,17 +47,32 @@ export default function Sidebar({ chatHistory, activeSessionId, onNewChat, onSel
         {/* History items */}
         <div className={styles.historySection}>
           {chatHistory.slice(0, 10).map((session) => (
-            <button
+            <div
               key={session.id}
-              className={`${styles.historyItem} ${session.id === activeSessionId ? styles.historyItemActive : ""}`}
-              onClick={() => onSelectSession(session.id)}
-              title={session.title}
+              className={`${styles.historyRow} ${session.id === activeSessionId ? styles.historyRowActive : ""}`}
             >
-              {session.title}
-              {session.fundTags.slice(0, 1).map((tag) => (
-                <span key={tag} className={styles.historyTag}>{tag}</span>
-              ))}
-            </button>
+              <button
+                className={styles.historyItem}
+                onClick={() => onSelectSession(session.id)}
+                title={session.title}
+              >
+                {session.title}
+                {session.fundTags.slice(0, 1).map((tag) => (
+                  <span key={tag} className={styles.historyTag}>{tag}</span>
+                ))}
+              </button>
+              <button
+                className={styles.deleteBtn}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onDeleteSession(session.id);
+                }}
+                title="Delete chat"
+                aria-label={`Delete ${session.title}`}
+              >
+                ✕
+              </button>
+            </div>
           ))}
         </div>
 

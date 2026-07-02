@@ -110,36 +110,75 @@
   padding-left: 30px;
 }
 
+.historyRow {
+  display: flex;
+  align-items: center;
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast);
+  position: relative;
+}
+
+.historyRow:hover {
+  background: var(--surface);
+}
+
+.historyRow:hover .deleteBtn {
+  opacity: 1;
+}
+
+.historyRowActive {
+  background: rgba(108, 99, 255, 0.1);
+  border-left: 2px solid var(--primary);
+}
+
+.historyRowActive .historyItem {
+  color: var(--primary);
+  font-weight: 500;
+}
+
 .historyItem {
+  flex: 1;
   padding: 6px 8px;
   font-size: 0.75rem;
   color: var(--text-muted);
-  border-radius: var(--radius-sm);
   cursor: pointer;
-  transition: all var(--transition-fast);
+  transition: color var(--transition-fast);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   text-align: left;
-  width: 100%;
+  min-width: 0;
 }
 
 .historyItem:hover {
   color: var(--text-secondary);
-  background: var(--surface);
-}
-
-.historyItemActive {
-  color: var(--primary) !important;
-  background: rgba(108, 99, 255, 0.1);
-  border-left: 2px solid var(--primary);
-  padding-left: 6px;
-  font-weight: 500;
 }
 
 .historyItem::before {
   content: "\2022 ";
   color: var(--primary);
+}
+
+.deleteBtn {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  opacity: 0;
+  transition: all var(--transition-fast);
+  margin-right: 4px;
+  cursor: pointer;
+}
+
+.deleteBtn:hover {
+  background: rgba(239, 68, 68, 0.15);
+  color: #ef4444;
+  opacity: 1;
 }
 
 .historyTag {
