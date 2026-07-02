@@ -1887,14 +1887,14 @@ The ingestion pipeline (scrape → extract → chunk → embed → store) is **e
 │   │  SCHEDULER (Offline) │          │   QUERY (Online)     │           │
 │   │                      │          │                      │           │
 │   │  GitHub Actions      │          │  User → FastAPI →    │           │
-│   │  cron: daily 2:00 AM │   ──▶    │  ChromaDB → Groq →   │           │
+│   │  cron: daily 10:30  │   ──▶    │  ChromaDB → Groq →   │           │
 │   │                      │  pushes  │  Response            │           │
 │   │  Scrape → Chunk →    │  updated │                      │           │
 │   │  Embed → ChromaDB    │  DB      │  (NO ingestion here, │           │
 │   │                      │          │   just vector search) │           │
 │   └──────────────────────┘          └──────────────────────┘           │
 │                                                                         │
-│   Runs: Once/day at 2:00 AM IST    Runs: Every user query              │
+│   Runs: Once/day at 10:30 AM IST   Runs: Every user query              │
 │   Duration: ~2 minutes              Duration: <3 seconds               │
 │   Cost: Free (GitHub Actions)       Cost: Groq API (free tier)         │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -1911,8 +1911,8 @@ name: Daily Data Ingestion
 
 on:
   schedule:
-    # Run daily at 2:00 AM IST (8:30 PM UTC previous day)
-    - cron: '30 20 * * *'
+    # Run daily at 10:30 AM IST (5:00 AM UTC)
+    - cron: '0 5 * * *'
   workflow_dispatch:  # Allow manual trigger from GitHub UI
 
 jobs:
@@ -2037,7 +2037,7 @@ def run_ingestion():
 | # | Deliverable | Verification |
 |---|-------------|-------------|
 | 1 | GitHub Actions workflow file created | `.github/workflows/daily-ingestion.yml` exists |
-| 2 | Workflow runs on schedule | Cron triggers at 2:00 AM IST daily |
+| 2 | Workflow runs on schedule | Cron triggers at 10:30 AM IST daily |
 | 3 | Manual trigger works | "Run workflow" button in GitHub Actions UI |
 | 4 | Ingestion completes in CI | Logs show `✓ ChromaDB has 128 chunks` |
 | 5 | Updated DB is committed | Git log shows daily `chore: daily data refresh` commits |

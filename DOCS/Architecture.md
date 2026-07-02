@@ -24,7 +24,7 @@ The RAG-based Mutual Fund FAQ Chatbot is a **question-answering system** that us
 │                                                      │                           │
 │  ┌─────────────┐                                     │                           │
 │  │  Scheduler  │─── triggers daily ──────────────────┘                           │
-│  │  (GitHub    │     (cron: 2:00 AM IST)                                         │
+│  │  (GitHub    │     (cron: 10:30 AM IST)                                        │
 │  │   Actions)  │                                                                 │
 │  └─────────────┘                                     ▼                           │
 │                      ┌─────────────────────────────────────────────────────┐     │
@@ -335,7 +335,7 @@ The scheduler is responsible for triggering the offline ingestion pipeline on a 
 | Decision | Choice | Rationale |
 |----------|--------|-----------|
 | **Trigger** | GitHub Actions cron | Free, no infrastructure, built into the repo |
-| **Schedule** | Daily at 2:00 AM IST | Low-traffic window; Groww updates NAV data end-of-day |
+| **Schedule** | Daily at 10:30 AM IST | After Groww updates NAV data in the morning |
 | **Guard** | 20-hour lock file | Prevents accidental double-ingestion; allows cron drift |
 | **Persistence** | Commit `chroma_db/` to repo | Railway/Vercel picks up updated DB on redeploy |
 | **Failure mode** | Graceful — old DB persists | If scraping fails, users still get answers from yesterday's data |
@@ -960,7 +960,7 @@ LLM_MAX_TOKENS=800
 
 - **Decision:** Use GitHub Actions cron to trigger daily data ingestion, not run ingestion on every user query.
 - **Context:** The ingestion pipeline (Selenium scrape → BGE embed → ChromaDB store) takes ~2 minutes. Running it per-query would add unacceptable latency.
-- **Rationale:** Fund data (NAV, AUM, holdings) changes at most once daily. A daily cron at 2:00 AM IST refreshes the vector store during low-traffic hours, while the query pipeline only performs vector search + LLM call (<3s). GitHub Actions is free for public repos and requires no additional infrastructure.
+- **Rationale:** Fund data (NAV, AUM, holdings) changes at most once daily. A daily cron at 10:30 AM IST refreshes the vector store after Groww updates morning data, while the query pipeline only performs vector search + LLM call (<3s). GitHub Actions is free for public repos and requires no additional infrastructure.
 - **Consequences:** Data may be up to ~24 hours stale. Acceptable for FAQ-style queries about fund metrics. Manual trigger via `workflow_dispatch` available for urgent refreshes.
 
 ---

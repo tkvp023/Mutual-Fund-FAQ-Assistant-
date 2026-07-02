@@ -36,7 +36,29 @@ from config.settings import (
 
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-_CHUNKS_PATH = os.path.join(_project_root, "data", "chunks", "all_chunks.json")
+_CHUNKS_PATH    = os.path.join(_project_root, "data", "chunks", "all_chunks.json")
+_LAST_RUN_FILE  = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".last_ingestion")
+_GUARD_HOURS    = 20  # Minimum hours between ingestion runs
+
+
+# ── Ingestion guard ───────────────────────────────────────────────────────────
+def is_ingestion_needed() -> bool:
+    """Check if ingestion should run (not run in last 20 hours)."""
+    if not os.path.exists(_LAST_RUN_FILE):
+        return True
+    try:
+        with open(_LAST_RUN_FILE) as f:
+            last_run = datetime.fromisoformat(f.read().strip())
+        hours_since = (datetime.now() - last_run).total_seconds() / 3600
+        return hours_since >= _GUARD_HOURS
+    except (ValueError, OSError):
+        return True  # Corrupted file — allow re-run
+
+
+def mark_ingestion_complete():
+    """Record the timestamp of successful ingestion."""
+    with open(_LAST_RUN_FILE, "w") as f:
+        f.write(datetime.now().isoformat())
 
 
 def load_chunks(chunks_path: str = _CHUNKS_PATH) -> list[dict]:
@@ -200,6 +222,39 @@ def run_ingestion(
     }
 
 
+def guarded_ingestion(
+    force: bool = False,
+    reset: bool = True,
+    chunks_path: str = _CHUNKS_PATH,
+) -> dict | None:
+    """
+    Run ingestion with a 20-hour guard to prevent double-runs.
+
+    Args:
+        force:       Bypass the guard and run anyway.
+        reset:       Wipe ChromaDB before ingesting.
+        chunks_path: Path to chunks JSON file.
+
+    Returns:
+        Summary dict if ingestion ran, None if skipped.
+    """
+    if not force and not is_ingestion_needed():
+        try:
+            with open(_LAST_RUN_FILE) as f:
+                last_run = f.read().strip()
+        except OSError:
+            last_run = "unknown"
+        print(f"⏭  Ingestion skipped — last run was at {last_run} "
+              f"(less than {_GUARD_HOURS} hours ago).")
+        print(f"   Use --force to override.")
+        return None
+
+    result = run_ingestion(reset=reset, chunks_path=chunks_path)
+    mark_ingestion_complete()
+    print(f"\n✓ Ingestion guard updated. Next run allowed after {_GUARD_HOURS} hours.")
+    return result
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Ingest chunks into ChromaDB")
     parser.add_argument(
@@ -215,10 +270,16 @@ if __name__ == "__main__":
         help="Append to existing collection instead of resetting",
     )
     parser.add_argument(
+        "--force",
+        action="store_true",
+        default=False,
+        help="Bypass the 20-hour ingestion guard and run anyway",
+    )
+    parser.add_argument(
         "--chunks",
         default=_CHUNKS_PATH,
         help="Path to all_chunks.json (default: data/chunks/all_chunks.json)",
     )
     args = parser.parse_args()
 
-    run_ingestion(reset=args.reset, chunks_path=args.chunks)
+    guarded_ingestion(force=args.force, reset=args.reset, chunks_path=args.chunks)
