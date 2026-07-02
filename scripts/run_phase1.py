@@ -156,11 +156,11 @@ def run_phase1():
     print(f"     Phase 1 report:  {report_path}")
     print(f"\n  Document Summary:")
     for doc in documents:
-        print(f"     * {doc['fund_name']}")
-        print(f"       Text: {doc['raw_text_length']:,} chars | "
-              f"Returns: {len(doc['returns'])} | "
-              f"Holdings: {len(doc['holdings'])} | "
-              f"FAQs: {len(doc['faq'])}")
+        print(f"     * {doc.get('fund_name', 'Unknown Fund')}")
+        print(f"       Text: {doc.get('raw_text_length', 0):,} chars | "
+              f"Returns: {len(doc.get('returns_annualised', {}))} | "
+              f"Holdings: {len(doc.get('holdings', []))} | "
+              f"FAQs: {len(doc.get('faq', []))}")
     print()
 
 
