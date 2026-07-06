@@ -2,7 +2,7 @@
   "fund_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_slug": "hdfc-silver-etf-fof-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-07-05T07:58:52.600672",
+  "scraped_at": "2026-07-06T09:02:42.458178",
   "isin": "INF179KC1DU7",
   "scheme_code": "150737",
   "nav": 38.2606,
@@ -49,7 +49,7 @@
     "cat_return_1y": 154.77275140244063,
     "cat_return_3y": 47.07059763331896,
     "cat_return_5y": null,
-    "rank_1y": 5,
+    "rank_1y": 6,
     "rank_3y": 3,
     "rank_5y": null,
     "rank_10y": null
@@ -164,8 +164,7 @@
   "analysis": {
     "pros": [
       "Lower expense ratio: 0.22%",
-      "3Y annualised returns higher than category average by 0.14%",
-      "Consistently top ranked fund"
+      "3Y annualised returns higher than category average by 0.14%"
     ],
     "cons": [
       "1Y annualised returns lower than category average by 43.56%"
@@ -182,11 +181,11 @@
     },
     {
       "question": "How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 05 Jul 2026..."
+      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 06 Jul 2026..."
     },
     {
       "question": "What is the AUM of HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,893.86Cr as of 05 Jul 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,893.86Cr as of 06 Jul 2026."
     },
     {
       "question": "How to Redeem HDFC Silver ETF FoF Direct Growth?",
