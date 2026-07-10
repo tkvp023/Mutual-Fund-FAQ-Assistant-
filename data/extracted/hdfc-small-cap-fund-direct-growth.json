@@ -2,12 +2,12 @@
   "fund_name": "HDFC Small Cap Fund Direct Growth",
   "fund_slug": "hdfc-small-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-  "scraped_at": "2026-07-08T07:31:47.560881",
+  "scraped_at": "2026-07-10T08:25:24.428874",
   "isin": "INF179KA1RW5",
   "scheme_code": "130503",
-  "nav": 158.058,
-  "nav_date": "07-Jul-2026",
-  "aum_cr": 38809.4792,
+  "nav": 157.548,
+  "nav_date": "09-Jul-2026",
+  "aum_cr": 40416.8045,
   "expense_ratio": "0.77",
   "category": "Equity",
   "sub_category": "Small Cap",
@@ -22,16 +22,16 @@
   "lock_in": "None",
   "description": "The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.",
   "returns_annualised": {
-    "1d": -0.59,
-    "1w": 0.78,
-    "1m": 3.53,
-    "3m": 11.55,
-    "6m": -0.69,
-    "1y": -1.92,
-    "3y": 13.76,
-    "5y": 16.66,
-    "10y": 18.32,
-    "since_inception": 18.51
+    "1d": 1.39,
+    "1w": -0.76,
+    "1m": 3.11,
+    "3m": 8.22,
+    "6m": 1.59,
+    "1y": -2.43,
+    "3y": 13.61,
+    "5y": 16.5,
+    "10y": 18.28,
+    "since_inception": 18.47
   },
   "returns_sip": {
     "3m": 26.78,
@@ -54,7 +54,7 @@
     "cat_return_3y": 19.69509809136353,
     "cat_return_5y": 22.634728896983034,
     "rank_1y": 42,
-    "rank_3y": 32,
+    "rank_3y": 31,
     "rank_5y": 17,
     "rank_10y": 4
   },
@@ -810,32 +810,32 @@
   "peers": [
     {
       "name": "Bandhan Small Cap Fund Direct Growth",
-      "return_1y": 7.56,
-      "return_3y": 28.65,
+      "return_1y": 7.2,
+      "return_3y": 28.52,
       "aum_cr": 27219.133
     },
     {
       "name": "Invesco India Smallcap Fund Direct Growth",
-      "return_1y": 11.46,
-      "return_3y": 25.15,
+      "return_1y": 11.72,
+      "return_3y": 25.17,
       "aum_cr": 13420.41264155
     },
     {
       "name": "Sundaram Small Cap Fund Direct Growth",
-      "return_1y": 11.85,
-      "return_3y": 20.05,
+      "return_1y": 11.04,
+      "return_3y": 19.94,
       "aum_cr": 3680.99126713
     },
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
-      "return_1y": 4.77,
-      "return_3y": 18.56,
+      "return_1y": 4.07,
+      "return_3y": 18.39,
       "aum_cr": 74604.0674
     },
     {
       "name": "Axis Small Cap Fund Direct Growth",
-      "return_1y": 4.62,
-      "return_3y": 17.04,
+      "return_1y": 4.83,
+      "return_3y": 17.06,
       "aum_cr": 27840.051897
     }
   ],
@@ -855,15 +855,15 @@
     },
     {
       "question": "What kind of returns does HDFC Small Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.51% since its inception."
+      "answer": "The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.47% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.77% as of 08 Jul 2026..."
+      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.77% as of 10 Jul 2026..."
     },
     {
       "question": "What is the AUM of HDFC Small Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹38,809.48Cr as of 08 Jul 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 10 Jul 2026."
     },
     {
       "question": "How to Redeem HDFC Small Cap Fund Direct Growth?",
@@ -875,7 +875,7 @@
     },
     {
       "question": "What is the NAV of HDFC Small Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Small Cap Fund Direct Growth is ₹158.06 as of 07 Jul 2026."
+      "answer": "The NAV of HDFC Small Cap Fund Direct Growth is ₹157.55 as of 09 Jul 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?",
