@@ -1,6 +1,6 @@
 Fund: HDFC Small Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-Scraped: 2026-07-10T08:25:24.428874
+Scraped: 2026-07-11T07:13:42.469429
 ================================================================================
 
 HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -74,7 +74,7 @@ Equity
 Small Cap
 Very High Risk
 3Y annualised
-+1.39%
++1.72%
 1D
 1M
 6M
@@ -82,8 +82,8 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 09 Jul '26
-₹157.55
+NAV: 10 Jul '26
+₹160.27
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -125,307 +125,307 @@ Assets
 Repo
 Unspecified
 Repo
-10.28%
-Firstsource Solutions Ltd
-Industrials
-Equity
-3.92%
+10.22%
 Aster DM Healthcare Ltd
 Healthcare
 Equity
-3.80%
+3.83%
+Firstsource Solutions Ltd
+Industrials
+Equity
+3.31%
 Bank Of Baroda
 Financial
 Equity
-3.24%
+3.16%
 Gabriel India Ltd
 Consumer Discretionary
 Equity
-2.77%
-eClerx Services Ltd
-Technology
-Equity
-2.45%
+3.00%
 Eris Lifesciences Ltd
 Healthcare
 Equity
-2.37%
-Fortis Healthcare Ltd
-Healthcare
-Equity
-2.26%
+2.33%
 Krishna Institute Of Medical Sciences Ltd
 Healthcare
 Equity
-2.18%
-Indian Bank
-Financial
+2.24%
+Fortis Healthcare Ltd
+Healthcare
 Equity
-2.08%
+2.24%
+eClerx Services Ltd
+Technology
+Equity
+2.10%
 Apar Industries Ltd
 Diversified
 Equity
-1.71%
+1.96%
+Indian Bank
+Financial
+Equity
+1.96%
+The Federal Bank Ltd
+Financial
+Equity
+1.70%
+Home First Finance Company India Ltd
+Financial
+Equity
+1.68%
 The Great Eastern Shipping Company Ltd
 Energy & Utilities
 Equity
 1.66%
-Timken India Ltd
-Industrials
-Equity
-1.63%
 Kalpataru Power Transmission Ltd
 Industrials
 Equity
-1.56%
-The Federal Bank Ltd
-Financial
-Equity
-1.55%
-Home First Finance Company India Ltd
-Financial
-Equity
-1.47%
+1.57%
 Power Mech Projects Ltd
 Industrials
 Equity
-1.42%
-PVR Ltd
-Consumer Discretionary
+1.50%
+Timken India Ltd
+Industrials
 Equity
-1.42%
+1.50%
 Vardhman Textiles Ltd
 Consumer Discretionary
 Equity
-1.40%
-Sudarshan Chemical Industries Ltd
-Materials
+1.48%
+Aditya Vision Ltd
+Consumer Discretionary
+Equity
+1.43%
+Chalet Hotels Ltd
+Consumer Discretionary
 Equity
 1.40%
-Suprajit Engineering Ltd
+Pearl Global Industries Ltd
 Consumer Discretionary
 Equity
 1.39%
-Akzo Nobel India Ltd
-Materials
-Equity
-1.39%
-Godrej Consumer Products Ltd
-Consumer Staples
-Equity
-1.38%
-Sonata Software Ltd
-Technology
-Equity
-1.37%
 City Union Bank Ltd
 Financial
 Equity
-1.32%
+1.38%
+PVR Ltd
+Consumer Discretionary
+Equity
+1.36%
+Akzo Nobel India Ltd
+Materials
+Equity
+1.36%
+Suprajit Engineering Ltd
+Consumer Discretionary
+Equity
+1.35%
+Sonata Software Ltd
+Technology
+Equity
+1.33%
+Godrej Consumer Products Ltd
+Consumer Staples
+Equity
+1.30%
 Dodla Dairy Ltd
 Consumer Staples
 Equity
 1.30%
-Vishal Mega Mart Ltd.
-Consumer Staples
-Equity
-1.29%
-Chalet Hotels Ltd
-Consumer Discretionary
+Equitas Small Finance Bank Ltd
+Financial
 Equity
 1.27%
-Sharda Cropchem Ltd
+Sudarshan Chemical Industries Ltd
 Materials
 Equity
 1.26%
 Mahindra CIE Automotive Ltd
 Consumer Discretionary
 Equity
-1.25%
+1.23%
 Blue Dart Express Ltd
 Industrials
 Equity
-1.24%
+1.22%
 Fiem Industries Ltd
 Consumer Discretionary
 Equity
-1.23%
-Equitas Small Finance Bank Ltd
-Financial
-Equity
-1.23%
-Aditya Vision Ltd
-Consumer Discretionary
-Equity
 1.21%
-Pearl Global Industries Ltd
-Consumer Discretionary
+Vishal Mega Mart Ltd.
+Consumer Staples
 Equity
-1.19%
-JK Tyre & Industries Ltd
-Consumer Discretionary
+1.20%
+Sharda Cropchem Ltd
+Materials
 Equity
-1.14%
-Transport Corporation Of India Ltd
-Industrials
-Equity
-1.13%
+1.18%
 LG Balakrishnan & Brothers Ltd
 Industrials
 Equity
-1.08%
-Zensar Technologies Ltd
-Technology
+1.10%
+Transport Corporation Of India Ltd
+Industrials
+Equity
+1.09%
+JK Tyre & Industries Ltd
+Consumer Discretionary
 Equity
 1.07%
-Tega Industries Ltd
-Industrials
-Equity
-1.06%
-Chambal Fertilisers & Chemicals Ltd
-Materials
-Equity
-1.03%
-Voltamp Transformers Ltd
-Industrials
-Equity
-0.98%
-UTI Asset Management Company Ltd
-Financial
-Equity
-0.94%
-Shoppers Stop Ltd
-Consumer Discretionary
-Equity
-0.91%
-Kirloskar Ferrous Industries Ltd
-Materials
-Equity
-0.89%
-VRL Logistics Ltd
-Industrials
-Equity
-0.87%
-NRB Bearings Ltd
-Industrials
-Equity
-0.83%
-Tata Steel Ltd
-Materials
-Equity
-0.83%
-Redtape Ltd
-Consumer Discretionary
-Equity
-0.81%
-Redington Ltd
-Technology
-Equity
-0.78%
-Bajaj Consumer Care Ltd
-Consumer Staples
-Equity
-0.78%
-Lumax Industries Ltd
-Consumer Discretionary
-Equity
-0.77%
-Indigo Paints Ltd
-Materials
-Equity
-0.77%
 Vijaya Diagnostic Centre Ltd
 Healthcare
 Equity
-0.74%
+1.06%
+Voltamp Transformers Ltd
+Industrials
+Equity
+1.03%
+Chambal Fertilisers & Chemicals Ltd
+Materials
+Equity
+0.99%
+Tega Industries Ltd
+Industrials
+Equity
+0.98%
+NRB Bearings Ltd
+Industrials
+Equity
+0.96%
+Redington Ltd
+Technology
+Equity
+0.93%
+Kirloskar Ferrous Industries Ltd
+Materials
+Equity
+0.90%
+UTI Asset Management Company Ltd
+Financial
+Equity
+0.90%
+Shoppers Stop Ltd
+Consumer Discretionary
+Equity
+0.88%
+Zensar Technologies Ltd
+Technology
+Equity
+0.88%
 The Anup Engineering Ltd
 Industrials
 Equity
-0.70%
-DHFL VYSYA HOUSING FINANCE LIMITED EQ
-Financial
+0.85%
+VRL Logistics Ltd
+Industrials
 Equity
-0.69%
+0.84%
+Bajaj Consumer Care Ltd
+Consumer Staples
+Equity
+0.81%
+SKF India (Industrial) Ltd
+Industrials
+Equity
+0.79%
+Indigo Paints Ltd
+Materials
+Equity
+0.76%
+Redtape Ltd
+Consumer Discretionary
+Equity
+0.75%
 PNC Infratech Ltd
 Industrials
 Equity
-0.69%
+0.74%
+Lumax Industries Ltd
+Consumer Discretionary
+Equity
+0.73%
+Tata Steel Ltd
+Materials
+Equity
+0.72%
+DHFL VYSYA HOUSING FINANCE LIMITED EQ
+Financial
+Equity
+0.72%
 KEC International Ltd
 Diversified
 Equity
 0.64%
-SKF India (Industrial) Ltd
-Industrials
+Unichem Laboratories Ltd
+Healthcare
 Equity
 0.62%
-Awfis Space Solutions Ltd.
-Industrials
-Equity
-0.56%
-Kei Industries Ltd
-Industrials
-Equity
-0.54%
 Mastek Ltd
 Technology
 Equity
 0.53%
-Bajaj Electricals Ltd
-Consumer Discretionary
+Awfis Space Solutions Ltd.
+Industrials
 Equity
-0.51%
-Wakefit Innovations Ltd.
-Consumer Discretionary
+0.50%
+Ion Exchange (India) Ltd
+Industrials
 Equity
 0.49%
-Unichem Laboratories Ltd
-Healthcare
+Bajaj Electricals Ltd
+Consumer Discretionary
 Equity
 0.49%
 Gateway Distriparks Ltd
 Industrials
 Equity
-0.49%
-Insecticides (India) Ltd
-Materials
-Equity
-0.49%
-Vesuvius India Ltd
+0.48%
+Kei Industries Ltd
 Industrials
+Equity
+0.47%
+Wakefit Innovations Ltd.
+Consumer Discretionary
 Equity
 0.47%
 SKF India Ltd
 Industrials
 Equity
-0.47%
+0.46%
+Vesuvius India Ltd
+Industrials
+Equity
+0.45%
+Insecticides (India) Ltd
+Materials
+Equity
+0.42%
 La Opala RG Ltd
 Consumer Discretionary
 Equity
-0.44%
-Ion Exchange (India) Ltd
-Industrials
-Equity
-0.44%
+0.42%
 GMM Pfaudler Ltd
 Industrials
 Equity
-0.42%
-Gujarat Pipavav Port Ltd
-Industrials
-Equity
-0.36%
-G R Infraprojects Ltd
-Industrials
-Equity
-0.35%
-Emami Ltd
-Consumer Staples
-Equity
-0.35%
+0.41%
 GNA Axles Ltd
 Consumer Discretionary
 Equity
-0.31%
+0.36%
+Emami Ltd
+Consumer Staples
+Equity
+0.34%
+G R Infraprojects Ltd
+Industrials
+Equity
+0.34%
+Gujarat Pipavav Port Ltd
+Industrials
+Equity
+0.33%
 IFGL Refractories Ltd
 Industrials
 Equity
@@ -433,35 +433,35 @@ Equity
 Brainbees Solutions Ltd.
 Consumer Discretionary
 Equity
-0.29%
+0.27%
 DB Corp Ltd
 Industrials
 Equity
-0.26%
+0.23%
 Sula Vineyards Ltd
 Consumer Staples
 Equity
-0.24%
+0.23%
 Goodyear India Ltd
 Consumer Discretionary
 Equity
-0.24%
+0.23%
+Carborundum Universal Ltd
+Materials
+Equity
+0.19%
 BEML Ltd
 Industrials
 Equity
 0.18%
-Carborundum Universal Ltd
-Materials
-Equity
-0.17%
 TCI Express Ltd
 Industrials
 Equity
-0.14%
+0.13%
 Net Payables
 Unspecified
 Net Payables
--0.16%
+-0.06%
 See All
 Minimum investments
 Min. for 1st investment
@@ -484,10 +484,10 @@ Name
 10Y
 All
 Fund returns
-+13.6%
-+16.5%
-+18.3%
++14.4%
++16.9%
 +18.5%
++18.6%
 Category average (Equity Small Cap)
 +19.7%
 +22.6%
@@ -529,25 +529,25 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+7.20%
-+28.52%
++8.06%
++29.11%
 27,219.13
 Invesco India Smallcap Fund Direct Growth
-+11.72%
-+25.17%
++12.88%
++25.83%
 13,420.41
 Sundaram Small Cap Fund Direct Growth
-+11.04%
-+19.94%
-3,680.99
++12.71%
++20.65%
+3,871.80
 Nippon India Small Cap Fund Direct Growth
-+4.07%
-+18.39%
-74,604.07
++5.48%
++19.02%
+78,407.03
 Axis Small Cap Fund Direct Growth
-+4.83%
-+17.06%
-27,840.05
++6.31%
++17.65%
+29,393.79
 Compare
 Fund management
 DM
@@ -621,7 +621,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About HDFC Small Cap Fund Direct Growth
 HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 09 Jul 2026 is ₹157.55.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 10 Jul 2026 is ₹160.27.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
@@ -671,17 +671,17 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 What kind of returns does HDFC Small Cap Fund Direct Growth provide?
-The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.47% since its inception.
+The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.62% since its inception.
 How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.77% as of 10 Jul 2026...
+The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.77% as of 11 Jul 2026...
 What is the AUM of HDFC Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 10 Jul 2026.
+of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 11 Jul 2026.
 How to Redeem HDFC Small Cap Fund Direct Growth?
 If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -694,7 +694,7 @@ Lumpsum
 investment of HDFC Small Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Small Cap Fund Direct Growth?
-The NAV of HDFC Small Cap Fund Direct Growth is ₹157.55 as of 09 Jul 2026.
+The NAV of HDFC Small Cap Fund Direct Growth is ₹160.27 as of 10 Jul 2026.
 What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
 The
 PE ratio
