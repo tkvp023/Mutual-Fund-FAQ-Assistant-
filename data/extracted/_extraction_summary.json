@@ -1,5 +1,5 @@
 {
-  "extraction_timestamp": "2026-07-12T07:31:44.938821",
+  "extraction_timestamp": "2026-07-13T08:19:45.302976",
   "total_documents": 5,
   "documents_summary": [
     {
@@ -67,7 +67,7 @@
         "10y": 18.47,
         "since_inception": 18.62
       },
-      "raw_text_length": 22510
+      "raw_text_length": 22511
     },
     {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",

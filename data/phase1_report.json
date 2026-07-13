@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-07-12T07:30:27.971197",
-  "end_time": "2026-07-12T07:31:43.795003",
-  "duration_seconds": 75.8,
+  "start_time": "2026-07-13T08:18:48.367820",
+  "end_time": "2026-07-13T08:19:44.239954",
+  "duration_seconds": 55.9,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -33,7 +33,7 @@
       {
         "fund_name": "HDFC Small Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-        "raw_text_length": 22510,
+        "raw_text_length": 22511,
         "nav_data": 160.265,
         "returns_found": 10,
         "holdings_found": 85,
