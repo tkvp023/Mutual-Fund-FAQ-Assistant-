@@ -1,119 +1,119 @@
 {
-  "extraction_timestamp": "2026-07-15T07:16:56.785180",
+  "extraction_timestamp": "2026-07-16T07:25:02.472188",
   "total_documents": 5,
   "documents_summary": [
     {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "nav": 1228.902,
-      "nav_date": "14-Jul-2026",
+      "nav": 1233.56,
+      "nav_date": "15-Jul-2026",
       "aum_cr": 39023.6868,
       "expense_ratio": "1.03",
       "holdings_count": 47,
       "faq_count": 8,
       "returns": {
-        "1d": -0.66,
-        "1w": -1.11,
-        "1m": 3.54,
-        "3m": 3.88,
-        "6m": -3.45,
-        "1y": -0.35,
-        "3y": 11.28,
+        "1d": 0.38,
+        "1w": 1.24,
+        "1m": 2.9,
+        "3m": 2.75,
+        "6m": -3.09,
+        "1y": -0.43,
+        "3y": 11.41,
         "5y": 13.04,
-        "10y": 12.96,
-        "since_inception": 13.21
+        "10y": 13.03,
+        "since_inception": 13.24
       },
-      "raw_text_length": 20542
+      "raw_text_length": 20534
     },
     {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "nav": 35.9302,
-      "nav_date": "14-Jul-2026",
+      "nav": 36.12,
+      "nav_date": "15-Jul-2026",
       "aum_cr": 4326.5606,
       "expense_ratio": "0.22",
       "holdings_count": 3,
       "faq_count": 8,
       "returns": {
-        "1d": 0.22,
-        "1w": -3.78,
-        "1m": -9.6,
-        "3m": -7.57,
-        "6m": -21.37,
-        "1y": 86.91,
-        "3y": 40.79,
-        "since_inception": 41.47
+        "1d": 0.53,
+        "1w": -0.37,
+        "1m": -12.55,
+        "3m": -11.3,
+        "6m": -20.96,
+        "1y": 91.5,
+        "3y": 41.0,
+        "since_inception": 41.63
       },
-      "raw_text_length": 18917
-    },
-    {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "nav": 159.603,
-      "nav_date": "14-Jul-2026",
-      "aum_cr": 40416.8045,
-      "expense_ratio": "0.76",
-      "holdings_count": 85,
-      "faq_count": 8,
-      "returns": {
-        "1d": -0.89,
-        "1w": 0.98,
-        "1m": 3.94,
-        "3m": 9.06,
-        "6m": 3.08,
-        "1y": -1.29,
-        "3y": 13.67,
-        "5y": 16.3,
-        "10y": 18.26,
-        "since_inception": 18.57
-      },
-      "raw_text_length": 22560
-    },
-    {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "nav": 43.7747,
-      "nav_date": "14-Jul-2026",
-      "aum_cr": 11019.4542,
-      "expense_ratio": "0.2",
-      "holdings_count": 3,
-      "faq_count": 8,
-      "returns": {
-        "1d": -0.67,
-        "1w": -2.18,
-        "1m": -4.74,
-        "3m": -6.24,
-        "6m": -1.97,
-        "1y": 41.42,
-        "3y": 31.82,
-        "5y": 22.74,
-        "10y": 15.14,
-        "since_inception": 10.7
-      },
-      "raw_text_length": 19097
+      "raw_text_length": 18909
     },
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "nav": 230.008,
-      "nav_date": "14-Jul-2026",
+      "nav": 230.532,
+      "nav_date": "15-Jul-2026",
       "aum_cr": 100858.3136,
       "expense_ratio": "0.75",
       "holdings_count": 78,
       "faq_count": 8,
       "returns": {
-        "1d": -0.67,
-        "1w": -0.47,
-        "1m": 4.48,
-        "3m": 7.64,
-        "6m": 3.5,
-        "1y": 6.08,
-        "3y": 20.31,
-        "5y": 20.37,
-        "10y": 18.36,
-        "since_inception": 20.32
+        "1d": 0.23,
+        "1w": 1.75,
+        "1m": 3.36,
+        "3m": 5.98,
+        "6m": 3.74,
+        "1y": 5.46,
+        "3y": 20.38,
+        "5y": 20.45,
+        "10y": 18.43,
+        "since_inception": 20.33
       },
-      "raw_text_length": 21814
+      "raw_text_length": 21806
+    },
+    {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "nav": 160.349,
+      "nav_date": "15-Jul-2026",
+      "aum_cr": 40416.8045,
+      "expense_ratio": "0.76",
+      "holdings_count": 85,
+      "faq_count": 8,
+      "returns": {
+        "1d": 0.47,
+        "1w": 3.19,
+        "1m": 3.26,
+        "3m": 7.38,
+        "6m": 3.56,
+        "1y": -1.7,
+        "3y": 13.84,
+        "5y": 16.22,
+        "10y": 18.35,
+        "since_inception": 18.6
+      },
+      "raw_text_length": 22552
+    },
+    {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "nav": 43.9315,
+      "nav_date": "15-Jul-2026",
+      "aum_cr": 11019.4542,
+      "expense_ratio": "0.2",
+      "holdings_count": 3,
+      "faq_count": 8,
+      "returns": {
+        "1d": 0.36,
+        "1w": -0.53,
+        "1m": -6.12,
+        "3m": -7.06,
+        "6m": -1.62,
+        "1y": 42.5,
+        "3y": 31.94,
+        "5y": 22.64,
+        "10y": 15.35,
+        "since_inception": 10.72
+      },
+      "raw_text_length": 19089
     }
   ]
 }
