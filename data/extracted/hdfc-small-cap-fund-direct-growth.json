@@ -2,11 +2,11 @@
   "fund_name": "HDFC Small Cap Fund Direct Growth",
   "fund_slug": "hdfc-small-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-  "scraped_at": "2026-07-17T07:19:17.240565",
+  "scraped_at": "2026-07-18T07:03:33.471410",
   "isin": "INF179KA1RW5",
   "scheme_code": "130503",
-  "nav": 160.683,
-  "nav_date": "16-Jul-2026",
+  "nav": 160.53,
+  "nav_date": "17-Jul-2026",
   "aum_cr": 40416.8045,
   "expense_ratio": "0.76",
   "category": "Equity",
@@ -811,32 +811,32 @@
   "peers": [
     {
       "name": "Bandhan Small Cap Fund Direct Growth",
-      "return_1y": 5.91,
-      "return_3y": 28.21,
+      "return_1y": 5.2,
+      "return_3y": 27.9,
       "aum_cr": 28466.1785
     },
     {
       "name": "Invesco India Smallcap Fund Direct Growth",
-      "return_1y": 10.93,
-      "return_3y": 24.52,
+      "return_1y": 9.97,
+      "return_3y": 24.14,
       "aum_cr": 13384.8804
     },
     {
       "name": "Sundaram Small Cap Fund Direct Growth",
-      "return_1y": 10.18,
-      "return_3y": 19.6,
+      "return_1y": 9.08,
+      "return_3y": 19.12,
       "aum_cr": 3871.80037037
     },
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
-      "return_1y": 4.29,
-      "return_3y": 18.24,
+      "return_1y": 3.59,
+      "return_3y": 17.75,
       "aum_cr": 78407.0325
     },
     {
       "name": "Axis Small Cap Fund Direct Growth",
-      "return_1y": 5.4,
-      "return_3y": 16.91,
+      "return_1y": 4.12,
+      "return_3y": 16.56,
       "aum_cr": 29393.793798
     }
   ],
@@ -860,11 +860,11 @@
     },
     {
       "question": "How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 17 Jul 2026..."
+      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 18 Jul 2026..."
     },
     {
       "question": "What is the AUM of HDFC Small Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 17 Jul 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 18 Jul 2026."
     },
     {
       "question": "How to Redeem HDFC Small Cap Fund Direct Growth?",
@@ -876,7 +876,7 @@
     },
     {
       "question": "What is the NAV of HDFC Small Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Small Cap Fund Direct Growth is ₹160.68 as of 16 Jul 2026."
+      "answer": "The NAV of HDFC Small Cap Fund Direct Growth is ₹160.53 as of 17 Jul 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?",
@@ -890,7 +890,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 22552,
+  "raw_text_length": 22550,
   "section_names": [
     "fund_house",
     "overview",
