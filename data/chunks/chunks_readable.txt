@@ -24,22 +24,22 @@ Weaknesses: Consistently lower annualised returns than category average for the 
 
 --- Chunk 3 | HDFC Large Cap Fund Direct Growth | section: returns | type: returns_table ---
 Returns for HDFC Large Cap Fund Direct Growth:
-  1M: | Annualised +2.33%
-  3M: | Annualised +2.68% | SIP XIRR +32.07%
-  6M: | Annualised -3.25% | SIP XIRR +13.52%
-  1Y: | Annualised -0.57% | SIP XIRR +2.04%
-  3Y: | Annualised +11.34% | SIP XIRR +5.11%
-  5Y: | Annualised +13.01% | SIP XIRR +10.57%
-  10Y: | Annualised +13.01% | SIP XIRR +13.15%
-  Since Inception: | Annualised +13.23% | SIP XIRR +13.28%
+  1M: | Annualised +2.77%
+  3M: | Annualised +2.63% | SIP XIRR +37.68%
+  6M: | Annualised -2.67% | SIP XIRR +16.09%
+  1Y: | Annualised +0.26% | SIP XIRR +3.25%
+  3Y: | Annualised +11.38% | SIP XIRR +5.51%
+  5Y: | Annualised +13.14% | SIP XIRR +10.80%
+  10Y: | Annualised +13.08% | SIP XIRR +13.26%
+  Since Inception: | Annualised +13.27% | SIP XIRR +13.35%
 Vs Category:
   Category avg 1Y: +7.15%
   Category avg 3Y: +15.07%
   Category avg 5Y: +14.96%
 Category Ranking:
-  Rank 1Y: #45 in Large Cap
-  Rank 3Y: #38 in Large Cap
-  Rank 5Y: #15 in Large Cap
+  Rank 1Y: #46 in Large Cap
+  Rank 3Y: #39 in Large Cap
+  Rank 5Y: #14 in Large Cap
   Rank 10Y: #12 in Large Cap
 
 --- Chunk 4 | HDFC Large Cap Fund Direct Growth | section: exit_load_tax | type: exit_load_tax ---
@@ -65,12 +65,12 @@ Lock-in: None
 
 --- Chunk 6 | HDFC Large Cap Fund Direct Growth | section: performance_ranking | type: performance_ranking ---
 Performance & Rankings for HDFC Large Cap Fund Direct Growth
-  1Y: Fund -0.57% | Category avg +7.15%
-  3Y: Fund +11.34% | Category avg +15.07%
-  5Y: Fund +13.01% | Category avg +14.96%
-  Rank 1Y: #45 in Large Cap
-  Rank 3Y: #38 in Large Cap
-  Rank 5Y: #15 in Large Cap
+  1Y: Fund +0.26% | Category avg +7.15%
+  3Y: Fund +11.38% | Category avg +15.07%
+  5Y: Fund +13.14% | Category avg +14.96%
+  Rank 1Y: #46 in Large Cap
+  Rank 3Y: #39 in Large Cap
+  Rank 5Y: #14 in Large Cap
   Rank 10Y: #12 in Large Cap
 Sharpe Ratio: 0.4300
 Alpha: 1.0400
@@ -204,15 +204,15 @@ A: You can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free m
 
 --- Chunk 24 | HDFC Large Cap Fund Direct Growth | section: faq | type: faq ---
 Q: What kind of returns does HDFC Large Cap Fund Direct Growth provide?
-A: The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.23% since its inception.
+A: The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.27% since its inception.
 
 --- Chunk 25 | HDFC Large Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
-A: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 18 Jul 2026...
+A: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 19 Jul 2026...
 
 --- Chunk 26 | HDFC Large Cap Fund Direct Growth | section: faq | type: faq ---
 Q: What is the AUM of HDFC Large Cap Fund Direct Growth?
-A: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹39,023.69Cr as of 18 Jul 2026.
+A: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹39,023.69Cr as of 19 Jul 2026.
 
 --- Chunk 27 | HDFC Large Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How to Redeem HDFC Large Cap Fund Direct Growth?
@@ -248,7 +248,7 @@ ISIN: INF179KC1DU7
 --- Chunk 32 | HDFC Silver ETF FoF Direct Growth | section: about_fund | type: about ---
 About HDFC Silver ETF FoF Direct Growth
 The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).
-Strengths: Lower expense ratio: 0.22%; Consistently top ranked fund
+Strengths: Lower expense ratio: 0.22%
 Weaknesses: Consistently lower annualised returns than category average for the past 1Y and 3Y
 
 --- Chunk 33 | HDFC Silver ETF FoF Direct Growth | section: returns | type: returns_table ---
@@ -264,7 +264,7 @@ Vs Category:
   Category avg 3Y: +47.07%
 Category Ranking:
   Rank 1Y: #7 in Silver
-  Rank 3Y: #2 in Silver
+  Rank 3Y: #5 in Silver
 
 --- Chunk 34 | HDFC Silver ETF FoF Direct Growth | section: exit_load_tax | type: exit_load_tax ---
 Exit Load & Tax for HDFC Silver ETF FoF Direct Growth
@@ -294,7 +294,7 @@ Performance & Rankings for HDFC Silver ETF FoF Direct Growth
   1Y: Fund +89.35% | Category avg +154.77%
   3Y: Fund +39.94% | Category avg +47.07%
   Rank 1Y: #7 in Silver
-  Rank 3Y: #2 in Silver
+  Rank 3Y: #5 in Silver
 Sharpe Ratio: 1.1799
 Alpha: -0.8860
 Beta: 0.9739
@@ -333,11 +333,11 @@ A: The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the
 
 --- Chunk 43 | HDFC Silver ETF FoF Direct Growth | section: faq | type: faq ---
 Q: How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?
-A: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 18 Jul 2026...
+A: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 19 Jul 2026...
 
 --- Chunk 44 | HDFC Silver ETF FoF Direct Growth | section: faq | type: faq ---
 Q: What is the AUM of HDFC Silver ETF FoF Direct Growth?
-A: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 18 Jul 2026.
+A: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 19 Jul 2026.
 
 --- Chunk 45 | HDFC Silver ETF FoF Direct Growth | section: faq | type: faq ---
 Q: How to Redeem HDFC Silver ETF FoF Direct Growth?
@@ -392,8 +392,8 @@ Vs Category:
   Category avg 3Y: +21.62%
   Category avg 5Y: +21.53%
 Category Ranking:
-  Rank 1Y: #33 in Mid Cap
-  Rank 3Y: #13 in Mid Cap
+  Rank 1Y: #25 in Mid Cap
+  Rank 3Y: #14 in Mid Cap
   Rank 5Y: #3 in Mid Cap
   Rank 10Y: #5 in Mid Cap
 
@@ -421,8 +421,8 @@ Performance & Rankings for HDFC Mid Cap Fund Direct Growth
   1Y: Fund +4.76% | Category avg +1.96%
   3Y: Fund +20.05% | Category avg +21.62%
   5Y: Fund +20.20% | Category avg +21.53%
-  Rank 1Y: #33 in Mid Cap
-  Rank 3Y: #13 in Mid Cap
+  Rank 1Y: #25 in Mid Cap
+  Rank 3Y: #14 in Mid Cap
   Rank 5Y: #3 in Mid Cap
   Rank 10Y: #5 in Mid Cap
 Sharpe Ratio: 0.9185
@@ -596,11 +596,11 @@ A: The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the a
 
 --- Chunk 74 | HDFC Mid Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?
-A: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 18 Jul 2026...
+A: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 19 Jul 2026...
 
 --- Chunk 75 | HDFC Mid Cap Fund Direct Growth | section: faq | type: faq ---
 Q: What is the AUM of HDFC Mid Cap Fund Direct Growth?
-A: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,858.31Cr as of 18 Jul 2026.
+A: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,858.31Cr as of 19 Jul 2026.
 
 --- Chunk 76 | HDFC Mid Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How to Redeem HDFC Mid Cap Fund Direct Growth?
@@ -641,14 +641,14 @@ Weaknesses: 3Y and 5Y annualised returns lower than category average
 
 --- Chunk 82 | HDFC Small Cap Fund Direct Growth | section: returns | type: returns_table ---
 Returns for HDFC Small Cap Fund Direct Growth:
-  1M: | Annualised +2.94%
-  3M: | Annualised +6.52% | SIP XIRR +46.07%
-  6M: | Annualised +4.12% | SIP XIRR +31.77%
-  1Y: | Annualised -1.74% | SIP XIRR +7.32%
-  3Y: | Annualised +13.90% | SIP XIRR +7.54%
-  5Y: | Annualised +16.03% | SIP XIRR +14.77%
-  10Y: | Annualised +18.37% | SIP XIRR +18.75%
-  Since Inception: | Annualised +18.62% | SIP XIRR +18.85%
+  1M: | Annualised +2.54%
+  3M: | Annualised +5.13% | SIP XIRR +43.78%
+  6M: | Annualised +4.02% | SIP XIRR +30.89%
+  1Y: | Annualised -2.05% | SIP XIRR +7.08%
+  3Y: | Annualised +13.60% | SIP XIRR +7.46%
+  5Y: | Annualised +16.00% | SIP XIRR +14.72%
+  10Y: | Annualised +18.35% | SIP XIRR +18.72%
+  Since Inception: | Annualised +18.60% | SIP XIRR +18.84%
 Vs Category:
   Category avg 1Y: -6.29%
   Category avg 3Y: +19.70%
@@ -656,7 +656,7 @@ Vs Category:
 Category Ranking:
   Rank 1Y: #42 in Small Cap
   Rank 3Y: #32 in Small Cap
-  Rank 5Y: #18 in Small Cap
+  Rank 5Y: #17 in Small Cap
   Rank 10Y: #4 in Small Cap
 
 --- Chunk 83 | HDFC Small Cap Fund Direct Growth | section: exit_load_tax | type: exit_load_tax ---
@@ -683,12 +683,12 @@ Lock-in: None
 
 --- Chunk 85 | HDFC Small Cap Fund Direct Growth | section: performance_ranking | type: performance_ranking ---
 Performance & Rankings for HDFC Small Cap Fund Direct Growth
-  1Y: Fund -1.74% | Category avg -6.29%
-  3Y: Fund +13.90% | Category avg +19.70%
-  5Y: Fund +16.03% | Category avg +22.63%
+  1Y: Fund -2.05% | Category avg -6.29%
+  3Y: Fund +13.60% | Category avg +19.70%
+  5Y: Fund +16.00% | Category avg +22.63%
   Rank 1Y: #42 in Small Cap
   Rank 3Y: #32 in Small Cap
-  Rank 5Y: #18 in Small Cap
+  Rank 5Y: #17 in Small Cap
   Rank 10Y: #4 in Small Cap
 Sharpe Ratio: 0.5200
 Alpha: -0.9000
@@ -864,15 +864,15 @@ A: You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free m
 
 --- Chunk 104 | HDFC Small Cap Fund Direct Growth | section: faq | type: faq ---
 Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?
-A: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.62% since its inception.
+A: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.60% since its inception.
 
 --- Chunk 105 | HDFC Small Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?
-A: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 18 Jul 2026...
+A: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 19 Jul 2026...
 
 --- Chunk 106 | HDFC Small Cap Fund Direct Growth | section: faq | type: faq ---
 Q: What is the AUM of HDFC Small Cap Fund Direct Growth?
-A: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 18 Jul 2026.
+A: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 19 Jul 2026.
 
 --- Chunk 107 | HDFC Small Cap Fund Direct Growth | section: faq | type: faq ---
 Q: How to Redeem HDFC Small Cap Fund Direct Growth?
@@ -913,23 +913,23 @@ Weaknesses: Consistently lower annualised returns than category average for the 
 
 --- Chunk 113 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: returns | type: returns_table ---
 Returns for HDFC Gold ETF Fund of Fund Direct Plan Growth:
-  1M: | Annualised -6.13%
-  3M: | Annualised -7.14% | SIP XIRR -29.78%
-  6M: | Annualised -1.15% | SIP XIRR -21.69%
-  1Y: | Annualised +43.32% | SIP XIRR +15.87%
-  3Y: | Annualised +31.94% | SIP XIRR +35.85%
-  5Y: | Annualised +22.73% | SIP XIRR +29.18%
-  10Y: | Annualised +15.35% | SIP XIRR +20.37%
-  Since Inception: | Annualised +10.73% | SIP XIRR +16.49%
+  1M: | Annualised -6.37%
+  3M: | Annualised -7.11% | SIP XIRR -32.60%
+  6M: | Annualised -1.74% | SIP XIRR -23.39%
+  1Y: | Annualised +42.71% | SIP XIRR +14.43%
+  3Y: | Annualised +31.79% | SIP XIRR +35.32%
+  5Y: | Annualised +22.57% | SIP XIRR +28.89%
+  10Y: | Annualised +15.28% | SIP XIRR +20.25%
+  Since Inception: | Annualised +10.68% | SIP XIRR +16.40%
 Vs Category:
   Category avg 1Y: +76.00%
   Category avg 3Y: +34.07%
   Category avg 5Y: +20.95%
 Category Ranking:
   Rank 1Y: #7 in Gold
-  Rank 3Y: #7 in Gold
+  Rank 3Y: #8 in Gold
   Rank 5Y: #5 in Gold
-  Rank 10Y: #3 in Gold
+  Rank 10Y: #4 in Gold
 
 --- Chunk 114 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: exit_load_tax | type: exit_load_tax ---
 Exit Load & Tax for HDFC Gold ETF Fund of Fund Direct Plan Growth
@@ -955,13 +955,13 @@ Lock-in: None
 
 --- Chunk 116 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: performance_ranking | type: performance_ranking ---
 Performance & Rankings for HDFC Gold ETF Fund of Fund Direct Plan Growth
-  1Y: Fund +43.32% | Category avg +76.00%
-  3Y: Fund +31.94% | Category avg +34.07%
-  5Y: Fund +22.73% | Category avg +20.95%
+  1Y: Fund +42.71% | Category avg +76.00%
+  3Y: Fund +31.79% | Category avg +34.07%
+  5Y: Fund +22.57% | Category avg +20.95%
   Rank 1Y: #7 in Gold
-  Rank 3Y: #7 in Gold
+  Rank 3Y: #8 in Gold
   Rank 5Y: #5 in Gold
-  Rank 10Y: #3 in Gold
+  Rank 10Y: #4 in Gold
 Sharpe Ratio: 1.3400
 Alpha: 0.9800
 Beta: 0.9000
@@ -996,15 +996,15 @@ A: You can easily invest in HDFC Gold ETF Fund of Fund Direct Plan Growth in a h
 
 --- Chunk 122 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: faq | type: faq ---
 Q: What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?
-A: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.73% since its inception.
+A: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.68% since its inception.
 
 --- Chunk 123 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: faq | type: faq ---
 Q: How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?
-A: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 18 Jul 2026...
+A: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 19 Jul 2026...
 
 --- Chunk 124 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: faq | type: faq ---
 Q: What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?
-A: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,019.45Cr as of 18 Jul 2026.
+A: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,019.45Cr as of 19 Jul 2026.
 
 --- Chunk 125 | HDFC Gold ETF Fund of Fund Direct Plan Growth | section: faq | type: faq ---
 Q: How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?
