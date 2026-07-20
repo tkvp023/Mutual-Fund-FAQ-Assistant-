@@ -1,5 +1,5 @@
 {
-  "extraction_timestamp": "2026-07-19T07:29:03.948337",
+  "extraction_timestamp": "2026-07-20T08:00:56.161871",
   "total_documents": 5,
   "documents_summary": [
     {
@@ -44,7 +44,7 @@
         "3y": 39.94,
         "since_inception": 40.75
       },
-      "raw_text_length": 18909
+      "raw_text_length": 18987
     },
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
@@ -113,7 +113,7 @@
         "10y": 15.28,
         "since_inception": 10.68
       },
-      "raw_text_length": 19087
+      "raw_text_length": 19165
     }
   ]
 }
