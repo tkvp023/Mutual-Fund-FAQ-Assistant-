@@ -1,15 +1,15 @@
 {
   "phase": "Phase 2: Re-Extract + Chunk",
-  "timestamp": "2026-07-24T07:33:05.015536",
-  "duration_seconds": 0.8,
+  "timestamp": "2026-07-25T07:19:32.120238",
+  "duration_seconds": 0.6,
   "documents": 5,
   "total_chunks": 128,
   "chunks_per_fund": {
-    "HDFC Large Cap Fund Direct Growth": 30,
     "HDFC Silver ETF FoF Direct Growth": 18,
+    "HDFC Gold ETF Fund of Fund Direct Plan Growth": 18,
     "HDFC Mid Cap Fund Direct Growth": 31,
     "HDFC Small Cap Fund Direct Growth": 31,
-    "HDFC Gold ETF Fund of Fund Direct Plan Growth": 18
+    "HDFC Large Cap Fund Direct Growth": 30
   },
   "chunks_per_section": {
     "overview": 5,
@@ -18,78 +18,78 @@
     "exit_load_tax": 5,
     "investment_info": 5,
     "performance_ranking": 5,
-    "peer_comparison": 3,
     "holdings": 40,
     "fund_management": 10,
     "fund_house": 5,
-    "faq": 40
+    "faq": 40,
+    "peer_comparison": 3
   },
   "documents_detail": [
     {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "nav": 1220.849,
-      "nav_date": "23-Jul-2026",
-      "aum_cr": 39023.6868,
-      "expense_ratio": "1.03",
-      "holdings": 47,
-      "faq": 8,
-      "returns": {
-        "1d": -0.48,
-        "1w": -0.88,
-        "1m": 1.39,
-        "3m": 1.61,
-        "6m": -1.12,
-        "1y": -1.88,
-        "3y": 10.6,
-        "5y": 12.87,
-        "10y": 12.92,
-        "since_inception": 13.13
-      }
-    },
-    {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
-      "nav": 36.4331,
-      "nav_date": "23-Jul-2026",
+      "nav": 36.4001,
+      "nav_date": "24-Jul-2026",
       "aum_cr": 4326.5606,
       "expense_ratio": "0.22",
       "holdings": 3,
       "faq": 8,
       "returns": {
-        "1d": -1.08,
-        "1w": 1.93,
-        "1m": -1.8,
-        "3m": -8.19,
-        "6m": -28.38,
-        "1y": 86.59,
-        "3y": 41.49,
-        "since_inception": 41.67
+        "1d": -0.09,
+        "1w": 2.93,
+        "1m": -1.15,
+        "3m": -7.56,
+        "6m": -28.45,
+        "1y": 88.38,
+        "3y": 41.8,
+        "since_inception": 41.6
+      }
+    },
+    {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "nav": 44.4551,
+      "nav_date": "24-Jul-2026",
+      "aum_cr": 11019.4542,
+      "expense_ratio": "0.2",
+      "holdings": 3,
+      "faq": 8,
+      "returns": {
+        "1d": -0.29,
+        "1w": 1.86,
+        "1m": -0.2,
+        "3m": -4.28,
+        "6m": -7.06,
+        "1y": 41.56,
+        "3y": 32.71,
+        "5y": 23.46,
+        "10y": 15.64,
+        "since_inception": 10.86
       }
     },
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
-      "nav": 226.902,
-      "nav_date": "23-Jul-2026",
+      "nav": 227.323,
+      "nav_date": "24-Jul-2026",
       "aum_cr": 100858.3136,
       "expense_ratio": "0.75",
       "holdings": 78,
       "faq": 8,
       "returns": {
-        "1d": -0.75,
-        "1w": -1.17,
-        "1m": 0.12,
-        "3m": 2.85,
-        "6m": 4.42,
-        "1y": 4.16,
-        "3y": 19.47,
-        "5y": 19.98,
-        "10y": 18.13,
-        "since_inception": 20.16
+        "1d": 0.19,
+        "1w": -0.85,
+        "1m": -0.25,
+        "3m": 4.24,
+        "6m": 4.61,
+        "1y": 4.83,
+        "3y": 19.4,
+        "5y": 20.01,
+        "10y": 18.14,
+        "since_inception": 20.17
       }
     },
     {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "nav": 157.291,
-      "nav_date": "23-Jul-2026",
+      "nav": 157.649,
+      "nav_date": "24-Jul-2026",
       "aum_cr": 40416.8045,
       "expense_ratio": "0.76",
       "holdings": 85,
@@ -108,24 +108,24 @@
       }
     },
     {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "nav": 44.7803,
-      "nav_date": "23-Jul-2026",
-      "aum_cr": 11019.4542,
-      "expense_ratio": "0.2",
-      "holdings": 3,
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "nav": 1215.976,
+      "nav_date": "24-Jul-2026",
+      "aum_cr": 39023.6868,
+      "expense_ratio": "1.03",
+      "holdings": 47,
       "faq": 8,
       "returns": {
-        "1d": -0.29,
-        "1w": 1.86,
-        "1m": -0.2,
-        "3m": -4.28,
-        "6m": -7.06,
-        "1y": 41.56,
-        "3y": 32.71,
-        "5y": 23.46,
-        "10y": 15.64,
-        "since_inception": 10.86
+        "1d": -0.48,
+        "1w": -0.88,
+        "1m": 1.39,
+        "3m": 1.61,
+        "6m": -1.12,
+        "1y": -1.88,
+        "3y": 10.6,
+        "5y": 12.87,
+        "10y": 12.92,
+        "since_inception": 13.13
       }
     }
   ]
