@@ -1,11 +1,11 @@
 [
   {
-    "content": "Fund: HDFC Silver ETF FoF Direct Growth\nCategory: Commodities > Silver\nNAV: ₹35.6942 (as of 29-Jul-2026)\nAUM: ₹4,326.56 Cr\nExpense Ratio: 0.22%\nRisk: Very High (Rating: None/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Silver\nLaunch Date: 28-Oct-2022\nISIN: INF179KC1DU7",
+    "content": "Fund: HDFC Silver ETF FoF Direct Growth\nCategory: Commodities > Silver\nNAV: ₹35.6906 (as of 30-Jul-2026)\nAUM: ₹4,326.56 Cr\nExpense Ratio: 0.22%\nRisk: Very High (Rating: None/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Silver\nLaunch Date: 28-Oct-2022\nISIN: INF179KC1DU7",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
@@ -17,19 +17,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Silver ETF FoF Direct Growth:\n  1M: | Annualised -0.78%\n  3M: | Annualised -7.89% | SIP XIRR -49.24%\n  6M: | Annualised -41.86% | SIP XIRR -35.04%\n  1Y: | Annualised +87.09% | SIP XIRR +34.16%\n  3Y: | Annualised +41.19% | SIP XIRR +53.62%\n  Since Inception: | Annualised +40.68% | SIP XIRR +46.82%\nVs Category:\n  Category avg 1Y: +154.77%\n  Category avg 3Y: +47.07%\nCategory Ranking:\n  Rank 1Y: #7 in Silver\n  Rank 3Y: #5 in Silver",
+    "content": "Returns for HDFC Silver ETF FoF Direct Growth:\n  1M: | Annualised -3.09%\n  3M: | Annualised -9.31% | SIP XIRR -48.67%\n  6M: | Annualised -30.67% | SIP XIRR -34.78%\n  1Y: | Annualised +86.12% | SIP XIRR +33.95%\n  3Y: | Annualised +41.14% | SIP XIRR +53.51%\n  Since Inception: | Annualised +40.64% | SIP XIRR +46.75%\nVs Category:\n  Category avg 1Y: +154.77%\n  Category avg 3Y: +47.07%\nCategory Ranking:\n  Rank 1Y: #9 in Silver\n  Rank 3Y: #5 in Silver",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -41,7 +41,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -53,19 +53,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Silver ETF FoF Direct Growth\n  1Y: Fund +87.09% | Category avg +154.77%\n  3Y: Fund +41.19% | Category avg +47.07%\n  Rank 1Y: #7 in Silver\n  Rank 3Y: #5 in Silver\nSharpe Ratio: 1.0000\nAlpha: 0.9600\nBeta: 0.9000",
+    "content": "Performance & Rankings for HDFC Silver ETF FoF Direct Growth\n  1Y: Fund +86.12% | Category avg +154.77%\n  3Y: Fund +41.14% | Category avg +47.07%\n  Rank 1Y: #9 in Silver\n  Rank 3Y: #5 in Silver\nSharpe Ratio: 1.0000\nAlpha: 0.9600\nBeta: 0.9000",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
@@ -77,7 +77,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 6,
@@ -90,7 +90,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 7,
@@ -103,7 +103,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 8,
@@ -116,7 +116,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 9
@@ -128,43 +128,43 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 10
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Silver ETF FoF Direct Growth provide?\nA: The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 40.68% since its inception.",
+    "content": "Q: What kind of returns does HDFC Silver ETF FoF Direct Growth provide?\nA: The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 40.64% since its inception.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 11
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?\nA: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 30 Jul 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?\nA: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 31 Jul 2026...",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 12
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Silver ETF FoF Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 30 Jul 2026.",
+    "content": "Q: What is the AUM of HDFC Silver ETF FoF Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 31 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 13
@@ -176,7 +176,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 14
@@ -188,19 +188,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 15
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Silver ETF FoF Direct Growth?\nA: The NAV of HDFC Silver ETF FoF Direct Growth is ₹35.69 as of 29 Jul 2026.",
+    "content": "Q: What is the NAV of HDFC Silver ETF FoF Direct Growth?\nA: The NAV of HDFC Silver ETF FoF Direct Growth is ₹35.69 as of 30 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 16
@@ -212,43 +212,43 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.631056",
+      "scraped_at": "2026-07-31T07:52:46.773356",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 17
     }
   },
   {
-    "content": "Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth\nCategory: Commodities > Gold\nNAV: ₹44.0671 (as of 29-Jul-2026)\nAUM: ₹11,019.45 Cr\nExpense Ratio: 0.2%\nRisk: High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Gold\nLaunch Date: 01-Jan-2013\nISIN: INF179K01VX0",
+    "content": "Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth\nCategory: Commodities > Gold\nNAV: ₹44.2677 (as of 30-Jul-2026)\nAUM: ₹11,019.45 Cr\nExpense Ratio: 0.2%\nRisk: High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Gold\nLaunch Date: 01-Jan-2013\nISIN: INF179K01VX0",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
     }
   },
   {
-    "content": "About HDFC Gold ETF Fund of Fund Direct Plan Growth\nThe Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.\nStrengths: 5Y annualised returns higher than category average by 1.94%; Lower expense ratio: 0.2%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y and 3Y",
+    "content": "About HDFC Gold ETF Fund of Fund Direct Plan Growth\nThe Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.\nStrengths: 5Y annualised returns higher than category average by 1.9%; Lower expense ratio: 0.2%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y and 3Y",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Gold ETF Fund of Fund Direct Plan Growth:\n  1M: | Annualised +0.31%\n  3M: | Annualised -3.86% | SIP XIRR -22.71%\n  6M: | Annualised -20.32% | SIP XIRR -18.51%\n  1Y: | Annualised +42.59% | SIP XIRR +15.26%\n  3Y: | Annualised +32.11% | SIP XIRR +35.19%\n  5Y: | Annualised +22.89% | SIP XIRR +28.89%\n  10Y: | Annualised +15.38% | SIP XIRR +20.29%\n  Since Inception: | Annualised +10.72% | SIP XIRR +16.45%\nVs Category:\n  Category avg 1Y: +76.00%\n  Category avg 3Y: +34.07%\n  Category avg 5Y: +20.95%\nCategory Ranking:\n  Rank 1Y: #7 in Gold\n  Rank 3Y: #7 in Gold\n  Rank 5Y: #6 in Gold\n  Rank 10Y: #3 in Gold",
+    "content": "Returns for HDFC Gold ETF Fund of Fund Direct Plan Growth:\n  1M: | Annualised +1.25%\n  3M: | Annualised -4.92% | SIP XIRR -20.12%\n  6M: | Annualised -11.09% | SIP XIRR -17.01%\n  1Y: | Annualised +42.09% | SIP XIRR +16.14%\n  3Y: | Annualised +32.28% | SIP XIRR +35.48%\n  5Y: | Annualised +22.85% | SIP XIRR +29.05%\n  10Y: | Annualised +15.43% | SIP XIRR +20.36%\n  Since Inception: | Annualised +10.75% | SIP XIRR +16.50%\nVs Category:\n  Category avg 1Y: +76.00%\n  Category avg 3Y: +34.07%\n  Category avg 5Y: +20.95%\nCategory Ranking:\n  Rank 1Y: #9 in Gold\n  Rank 3Y: #6 in Gold\n  Rank 5Y: #5 in Gold\n  Rank 10Y: #3 in Gold",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -260,7 +260,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -272,19 +272,19 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Gold ETF Fund of Fund Direct Plan Growth\n  1Y: Fund +42.59% | Category avg +76.00%\n  3Y: Fund +32.11% | Category avg +34.07%\n  5Y: Fund +22.89% | Category avg +20.95%\n  Rank 1Y: #7 in Gold\n  Rank 3Y: #7 in Gold\n  Rank 5Y: #6 in Gold\n  Rank 10Y: #3 in Gold\nSharpe Ratio: 1.3400\nAlpha: 0.9800\nBeta: 0.9000",
+    "content": "Performance & Rankings for HDFC Gold ETF Fund of Fund Direct Plan Growth\n  1Y: Fund +42.09% | Category avg +76.00%\n  3Y: Fund +32.28% | Category avg +34.07%\n  5Y: Fund +22.85% | Category avg +20.95%\n  Rank 1Y: #9 in Gold\n  Rank 3Y: #6 in Gold\n  Rank 5Y: #5 in Gold\n  Rank 10Y: #3 in Gold\nSharpe Ratio: 1.3400\nAlpha: 0.9800\nBeta: 0.9000",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
@@ -296,7 +296,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 6,
@@ -309,7 +309,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 7,
@@ -322,7 +322,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 8,
@@ -335,7 +335,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 9
@@ -347,43 +347,43 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 10
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?\nA: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.72% since its inception.",
+    "content": "Q: What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?\nA: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.75% since its inception.",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 11
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 30 Jul 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 31 Jul 2026...",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 12
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,019.45Cr as of 30 Jul 2026.",
+    "content": "Q: What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,019.45Cr as of 31 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 13
@@ -395,7 +395,7 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 14
@@ -407,19 +407,19 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 15
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.07 as of 29 Jul 2026.",
+    "content": "Q: What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.27 as of 30 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 16
@@ -431,19 +431,19 @@
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-07-30T07:36:47.747357",
+      "scraped_at": "2026-07-31T07:52:46.929352",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 17
     }
   },
   {
-    "content": "Fund: HDFC Mid Cap Fund Direct Growth\nCategory: Equity > Mid Cap\nNAV: ₹232.805 (as of 29-Jul-2026)\nAUM: ₹100,858.31 Cr\nExpense Ratio: 0.75%\nRisk: Very High (Rating: 5/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY Midcap 150 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01XQ0",
+    "content": "Fund: HDFC Mid Cap Fund Direct Growth\nCategory: Equity > Mid Cap\nNAV: ₹232.749 (as of 30-Jul-2026)\nAUM: ₹100,858.31 Cr\nExpense Ratio: 0.75%\nRisk: Very High (Rating: 5/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY Midcap 150 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01XQ0",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
@@ -455,19 +455,19 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Mid Cap Fund Direct Growth:\n  1M: | Annualised +3.32%\n  3M: | Annualised +6.01% | SIP XIRR +37.26%\n  6M: | Annualised +5.79% | SIP XIRR +27.08%\n  1Y: | Annualised +8.60% | SIP XIRR +13.30%\n  3Y: | Annualised +19.76% | SIP XIRR +13.62%\n  5Y: | Annualised +20.56% | SIP XIRR +19.85%\n  10Y: | Annualised +18.14% | SIP XIRR +20.18%\n  Since Inception: | Annualised +20.36% | SIP XIRR +20.10%\nVs Category:\n  Category avg 1Y: +1.96%\n  Category avg 3Y: +21.62%\n  Category avg 5Y: +21.53%\nCategory Ranking:\n  Rank 1Y: #19 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #3 in Mid Cap\n  Rank 10Y: #5 in Mid Cap",
+    "content": "Returns for HDFC Mid Cap Fund Direct Growth:\n  1M: | Annualised +2.64%\n  3M: | Annualised +6.90% | SIP XIRR +36.32%\n  6M: | Annualised +5.11% | SIP XIRR +26.69%\n  1Y: | Annualised +8.39% | SIP XIRR +13.18%\n  3Y: | Annualised +19.73% | SIP XIRR +13.58%\n  5Y: | Annualised +20.41% | SIP XIRR +19.81%\n  10Y: | Annualised +18.13% | SIP XIRR +20.17%\n  Since Inception: | Annualised +20.35% | SIP XIRR +20.09%\nVs Category:\n  Category avg 1Y: +1.96%\n  Category avg 3Y: +21.62%\n  Category avg 5Y: +21.53%\nCategory Ranking:\n  Rank 1Y: #18 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #3 in Mid Cap\n  Rank 10Y: #5 in Mid Cap",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -479,7 +479,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -491,31 +491,31 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Mid Cap Fund Direct Growth\n  1Y: Fund +8.60% | Category avg +1.96%\n  3Y: Fund +19.76% | Category avg +21.62%\n  5Y: Fund +20.56% | Category avg +21.53%\n  Rank 1Y: #19 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #3 in Mid Cap\n  Rank 10Y: #5 in Mid Cap\nSharpe Ratio: 0.9200\nAlpha: 2.8300\nBeta: 0.8400",
+    "content": "Performance & Rankings for HDFC Mid Cap Fund Direct Growth\n  1Y: Fund +8.39% | Category avg +1.96%\n  3Y: Fund +19.73% | Category avg +21.62%\n  5Y: Fund +20.41% | Category avg +21.53%\n  Rank 1Y: #18 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #3 in Mid Cap\n  Rank 10Y: #5 in Mid Cap\nSharpe Ratio: 0.9200\nAlpha: 2.8300\nBeta: 0.8400",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
     }
   },
   {
-    "content": "Peer Comparison — HDFC Mid Cap Fund Direct Growth vs Similar Funds (Mid Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  WhiteOak Capital Mid Cap Fund Direct Growth         +15.82%  +23.85%    ₹6,932.99\n  Edelweiss Mid Cap Direct Plan Growth                +10.14%  +23.43%   ₹17,748.32\n  Sundaram Mid Cap Fund Direct Growth                 +10.79%  +21.73%   ₹14,026.07\n  Nippon India Growth Mid Cap Fund Direct Growth       +9.93%  +21.70%   ₹49,169.10\n  HDFC Mid Cap Fund Direct Growth                      +8.60%  +19.76%  ₹100,858.31",
+    "content": "Peer Comparison — HDFC Mid Cap Fund Direct Growth vs Similar Funds (Mid Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  WhiteOak Capital Mid Cap Fund Direct Growth         +14.99%  +23.71%    ₹6,932.99\n  Edelweiss Mid Cap Direct Plan Growth                 +9.55%  +23.32%   ₹17,748.32\n  Sundaram Mid Cap Fund Direct Growth                 +10.22%  +21.64%   ₹14,026.07\n  Nippon India Growth Mid Cap Fund Direct Growth       +9.64%  +21.61%   ₹49,169.10\n  HDFC Mid Cap Fund Direct Growth                      +8.39%  +19.73%  ₹100,858.31",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "peer_comparison",
       "chunk_type": "peer_comparison",
       "chunk_index": 6
@@ -527,7 +527,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 7,
@@ -540,7 +540,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 8,
@@ -553,7 +553,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 9,
@@ -566,7 +566,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 10,
@@ -579,7 +579,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 11,
@@ -592,7 +592,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 12,
@@ -605,7 +605,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 13,
@@ -618,7 +618,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 14,
@@ -631,7 +631,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 15,
@@ -644,7 +644,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 16,
@@ -657,7 +657,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 17,
@@ -670,7 +670,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 18,
@@ -683,7 +683,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 19,
@@ -696,7 +696,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 20,
@@ -709,7 +709,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 21,
@@ -722,7 +722,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 22
@@ -734,43 +734,43 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 23
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Mid Cap Fund Direct Growth provide?\nA: The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.36% since its inception.",
+    "content": "Q: What kind of returns does HDFC Mid Cap Fund Direct Growth provide?\nA: The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.35% since its inception.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 24
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 30 Jul 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 31 Jul 2026...",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 25
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Mid Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,858.31Cr as of 30 Jul 2026.",
+    "content": "Q: What is the AUM of HDFC Mid Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,00,858.31Cr as of 31 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 26
@@ -782,7 +782,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 27
@@ -794,19 +794,19 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 28
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Mid Cap Fund Direct Growth?\nA: The NAV of HDFC Mid Cap Fund Direct Growth is ₹232.81 as of 29 Jul 2026.",
+    "content": "Q: What is the NAV of HDFC Mid Cap Fund Direct Growth?\nA: The NAV of HDFC Mid Cap Fund Direct Growth is ₹232.75 as of 30 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 29
@@ -818,43 +818,43 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:47.915510",
+      "scraped_at": "2026-07-31T07:52:47.150357",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 30
     }
   },
   {
-    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹161.02 (as of 29-Jul-2026)\nAUM: ₹40,416.80 Cr\nExpense Ratio: 0.76%\nRisk: Very High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
+    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹160.046 (as of 30-Jul-2026)\nAUM: ₹40,416.80 Cr\nExpense Ratio: 0.75%\nRisk: Very High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
     }
   },
   {
-    "content": "About HDFC Small Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.\nStrengths: Lower expense ratio: 0.76%; 1Y and 10Y annualised returns higher than category average\nWeaknesses: 3Y and 5Y annualised returns lower than category average",
+    "content": "About HDFC Small Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.\nStrengths: Lower expense ratio: 0.75%; 1Y and 10Y annualised returns higher than category average\nWeaknesses: 3Y and 5Y annualised returns lower than category average",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised +2.72%\n  3M: | Annualised +6.27% | SIP XIRR +35.94%\n  6M: | Annualised +6.77% | SIP XIRR +28.27%\n  1Y: | Annualised -0.05% | SIP XIRR +7.24%\n  3Y: | Annualised +13.18% | SIP XIRR +7.51%\n  5Y: | Annualised +15.85% | SIP XIRR +14.66%\n  10Y: | Annualised +18.14% | SIP XIRR +18.67%\n  Since Inception: | Annualised +18.58% | SIP XIRR +18.80%\nVs Category:\n  Category avg 1Y: -6.29%\n  Category avg 3Y: +19.70%\n  Category avg 5Y: +22.63%\nCategory Ranking:\n  Rank 1Y: #43 in Small Cap\n  Rank 3Y: #31 in Small Cap\n  Rank 5Y: #17 in Small Cap\n  Rank 10Y: #4 in Small Cap",
+    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised +2.05%\n  3M: | Annualised +6.22% | SIP XIRR +30.23%\n  6M: | Annualised +4.67% | SIP XIRR +25.31%\n  1Y: | Annualised -0.91% | SIP XIRR +6.00%\n  3Y: | Annualised +12.94% | SIP XIRR +7.08%\n  5Y: | Annualised +15.65% | SIP XIRR +14.40%\n  10Y: | Annualised +18.06% | SIP XIRR +18.55%\n  Since Inception: | Annualised +18.52% | SIP XIRR +18.72%\nVs Category:\n  Category avg 1Y: -6.29%\n  Category avg 3Y: +19.70%\n  Category avg 5Y: +22.63%\nCategory Ranking:\n  Rank 1Y: #43 in Small Cap\n  Rank 3Y: #31 in Small Cap\n  Rank 5Y: #17 in Small Cap\n  Rank 10Y: #4 in Small Cap",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -866,7 +866,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -878,31 +878,31 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -0.05% | Category avg -6.29%\n  3Y: Fund +13.18% | Category avg +19.70%\n  5Y: Fund +15.85% | Category avg +22.63%\n  Rank 1Y: #43 in Small Cap\n  Rank 3Y: #31 in Small Cap\n  Rank 5Y: #17 in Small Cap\n  Rank 10Y: #4 in Small Cap\nSharpe Ratio: 0.5200\nAlpha: -0.9000\nBeta: 0.7900",
+    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -0.91% | Category avg -6.29%\n  3Y: Fund +12.94% | Category avg +19.70%\n  5Y: Fund +15.65% | Category avg +22.63%\n  Rank 1Y: #43 in Small Cap\n  Rank 3Y: #31 in Small Cap\n  Rank 5Y: #17 in Small Cap\n  Rank 10Y: #4 in Small Cap\nSharpe Ratio: 0.5200\nAlpha: -0.9000\nBeta: 0.7900",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
     }
   },
   {
-    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Bandhan Small Cap Fund Direct Growth                 +8.78%  +27.44%   ₹28,466.18\n  Invesco India Smallcap Fund Direct Growth           +14.32%  +24.16%   ₹13,384.88\n  Sundaram Small Cap Fund Direct Growth               +11.99%  +18.66%    ₹3,871.80\n  Nippon India Small Cap Fund Direct Growth            +6.34%  +17.08%   ₹78,407.03\n  Axis Small Cap Fund Direct Growth                    +7.72%  +17.08%   ₹29,393.79",
+    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Bandhan Small Cap Fund Direct Growth                 +7.95%  +27.21%   ₹28,466.18\n  Invesco India Smallcap Fund Direct Growth           +13.88%  +23.88%   ₹13,384.88\n  Sundaram Small Cap Fund Direct Growth               +10.44%  +18.28%    ₹3,871.80\n  Nippon India Small Cap Fund Direct Growth            +5.64%  +16.86%   ₹78,407.03\n  Axis Small Cap Fund Direct Growth                    +7.11%  +16.85%   ₹29,393.79",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "peer_comparison",
       "chunk_type": "peer_comparison",
       "chunk_index": 6
@@ -914,7 +914,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 7,
@@ -927,7 +927,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 8,
@@ -940,7 +940,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 9,
@@ -953,7 +953,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 10,
@@ -966,7 +966,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 11,
@@ -979,7 +979,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 12,
@@ -992,7 +992,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 13,
@@ -1005,7 +1005,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 14,
@@ -1018,7 +1018,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 15,
@@ -1031,7 +1031,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 16,
@@ -1044,7 +1044,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 17,
@@ -1057,7 +1057,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 18,
@@ -1070,7 +1070,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 19,
@@ -1083,7 +1083,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 20,
@@ -1096,7 +1096,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 21,
@@ -1109,7 +1109,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 22
@@ -1121,43 +1121,43 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 23
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.58% since its inception.",
+    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 18.52% since its inception.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 24
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 30 Jul 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.75% as of 31 Jul 2026...",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 25
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 30 Jul 2026.",
+    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 31 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 26
@@ -1169,7 +1169,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 27
@@ -1181,19 +1181,19 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 28
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹161.02 as of 29 Jul 2026.",
+    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹160.05 as of 30 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 29
@@ -1205,43 +1205,43 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.073096",
+      "scraped_at": "2026-07-31T07:52:47.362440",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 30
     }
   },
   {
-    "content": "Fund: HDFC Large Cap Fund Direct Growth\nCategory: Equity > Large Cap\nNAV: ₹1239.954 (as of 29-Jul-2026)\nAUM: ₹39,023.69 Cr\nExpense Ratio: 1.03%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY 100 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01YV8",
+    "content": "Fund: HDFC Large Cap Fund Direct Growth\nCategory: Equity > Large Cap\nNAV: ₹1240.96 (as of 30-Jul-2026)\nAUM: ₹39,023.69 Cr\nExpense Ratio: 1.02%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY 100 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01YV8",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
     }
   },
   {
-    "content": "About HDFC Large Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.\nStrengths: Lower expense ratio: 1.03%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y",
+    "content": "About HDFC Large Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.\nStrengths: Lower expense ratio: 1.02%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Large Cap Fund Direct Growth:\n  1M: | Annualised +2.39%\n  3M: | Annualised +3.82% | SIP XIRR +29.39%\n  6M: | Annualised -0.61% | SIP XIRR +14.38%\n  1Y: | Annualised +0.99% | SIP XIRR +3.18%\n  3Y: | Annualised +10.93% | SIP XIRR +5.44%\n  5Y: | Annualised +13.41% | SIP XIRR +10.69%\n  10Y: | Annualised +12.96% | SIP XIRR +13.20%\n  Since Inception: | Annualised +13.25% | SIP XIRR +13.31%\nVs Category:\n  Category avg 1Y: +7.15%\n  Category avg 3Y: +15.07%\n  Category avg 5Y: +14.96%\nCategory Ranking:\n  Rank 1Y: #48 in Large Cap\n  Rank 3Y: #41 in Large Cap\n  Rank 5Y: #14 in Large Cap\n  Rank 10Y: #11 in Large Cap",
+    "content": "Returns for HDFC Large Cap Fund Direct Growth:\n  1M: | Annualised +2.45%\n  3M: | Annualised +4.61% | SIP XIRR +29.48%\n  6M: | Annualised -0.26% | SIP XIRR +14.55%\n  1Y: | Annualised +1.01% | SIP XIRR +3.32%\n  3Y: | Annualised +10.95% | SIP XIRR +5.48%\n  5Y: | Annualised +13.39% | SIP XIRR +10.72%\n  10Y: | Annualised +12.96% | SIP XIRR +13.21%\n  Since Inception: | Annualised +13.25% | SIP XIRR +13.32%\nVs Category:\n  Category avg 1Y: +7.15%\n  Category avg 3Y: +15.07%\n  Category avg 5Y: +14.96%\nCategory Ranking:\n  Rank 1Y: #46 in Large Cap\n  Rank 3Y: #41 in Large Cap\n  Rank 5Y: #14 in Large Cap\n  Rank 10Y: #12 in Large Cap",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -1253,7 +1253,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -1265,31 +1265,31 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Large Cap Fund Direct Growth\n  1Y: Fund +0.99% | Category avg +7.15%\n  3Y: Fund +10.93% | Category avg +15.07%\n  5Y: Fund +13.41% | Category avg +14.96%\n  Rank 1Y: #48 in Large Cap\n  Rank 3Y: #41 in Large Cap\n  Rank 5Y: #14 in Large Cap\n  Rank 10Y: #11 in Large Cap\nSharpe Ratio: 0.4300\nAlpha: 1.0400\nBeta: 0.9500",
+    "content": "Performance & Rankings for HDFC Large Cap Fund Direct Growth\n  1Y: Fund +1.01% | Category avg +7.15%\n  3Y: Fund +10.95% | Category avg +15.07%\n  5Y: Fund +13.39% | Category avg +14.96%\n  Rank 1Y: #46 in Large Cap\n  Rank 3Y: #41 in Large Cap\n  Rank 5Y: #14 in Large Cap\n  Rank 10Y: #12 in Large Cap\nSharpe Ratio: 0.4300\nAlpha: 1.0400\nBeta: 0.9500",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
     }
   },
   {
-    "content": "Peer Comparison — HDFC Large Cap Fund Direct Growth vs Similar Funds (Large Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Largecap Fund Direct Growth            +6.29%  +15.11%    ₹1,847.38\n  WhiteOak Capital Large Cap Fund Direct Growth        +3.33%  +14.66%    ₹1,328.66\n  Nippon India Large Cap Fund Direct Growth            +1.21%  +12.93%   ₹53,227.04\n  ICICI Prudential Large Cap Fund Direct Growth        -0.07%  +12.71%   ₹79,420.74\n  DSP Large Cap Fund Direct Growth                     -1.59%  +12.44%    ₹7,190.45",
+    "content": "Peer Comparison — HDFC Large Cap Fund Direct Growth vs Similar Funds (Large Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Largecap Fund Direct Growth            +6.21%  +15.02%    ₹1,847.38\n  WhiteOak Capital Large Cap Fund Direct Growth        +3.50%  +14.76%    ₹1,328.66\n  Nippon India Large Cap Fund Direct Growth            +0.86%  +12.97%   ₹53,227.04\n  ICICI Prudential Large Cap Fund Direct Growth        -0.21%  +12.83%   ₹79,420.74\n  DSP Large Cap Fund Direct Growth                     -1.24%  +12.50%    ₹7,190.45",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "peer_comparison",
       "chunk_type": "peer_comparison",
       "chunk_index": 6
@@ -1301,7 +1301,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 7,
@@ -1314,7 +1314,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 8,
@@ -1327,7 +1327,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 9,
@@ -1340,7 +1340,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 10,
@@ -1353,7 +1353,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 11,
@@ -1366,7 +1366,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 12,
@@ -1379,7 +1379,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 13,
@@ -1392,7 +1392,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 14,
@@ -1405,7 +1405,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 15,
@@ -1418,7 +1418,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 16,
@@ -1431,7 +1431,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 17,
@@ -1444,7 +1444,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 18,
@@ -1457,7 +1457,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 19,
@@ -1470,7 +1470,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 20,
@@ -1483,7 +1483,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 21
@@ -1495,7 +1495,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 22
@@ -1507,31 +1507,31 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 23
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 30 Jul 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 31 Jul 2026...",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 24
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Large Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹39,023.69Cr as of 30 Jul 2026.",
+    "content": "Q: What is the AUM of HDFC Large Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹39,023.69Cr as of 31 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 25
@@ -1543,7 +1543,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 26
@@ -1555,19 +1555,19 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 27
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Large Cap Fund Direct Growth?\nA: The NAV of HDFC Large Cap Fund Direct Growth is ₹1,239.95 as of 29 Jul 2026.",
+    "content": "Q: What is the NAV of HDFC Large Cap Fund Direct Growth?\nA: The NAV of HDFC Large Cap Fund Direct Growth is ₹1,240.96 as of 30 Jul 2026.",
     "metadata": {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 28
@@ -1579,7 +1579,7 @@
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "fund_slug": "hdfc-large-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-07-30T07:36:48.213758",
+      "scraped_at": "2026-07-31T07:52:47.554576",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 29
