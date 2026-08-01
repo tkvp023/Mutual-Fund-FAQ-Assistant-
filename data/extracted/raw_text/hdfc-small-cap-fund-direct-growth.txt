@@ -1,6 +1,6 @@
 Fund: HDFC Small Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
-Scraped: 2026-07-31T07:52:47.362440
+Scraped: 2026-08-01T07:29:45.258428
 ================================================================================
 
 HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -84,14 +84,14 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 30 Jul '26
-₹160.05
+NAV: 31 Jul '26
+₹160.75
 Min. for SIP
 ₹100
 Fund size (AUM)
 ₹40,416.80 Cr
 Expense ratio
-0.75%
+0.76%
 Rating
 Return calculator
 Monthly SIP
@@ -531,24 +531,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+7.95%
-+27.21%
++9.37%
++27.03%
 28,466.18
 Invesco India Smallcap Fund Direct Growth
-+13.88%
-+23.88%
++14.88%
++23.55%
 13,384.88
 Sundaram Small Cap Fund Direct Growth
-+10.44%
-+18.28%
++12.04%
++18.09%
 3,871.80
 Nippon India Small Cap Fund Direct Growth
-+5.64%
-+16.86%
++6.99%
++16.74%
 78,407.03
 Axis Small Cap Fund Direct Growth
-+7.11%
-+16.85%
++7.81%
++16.50%
 29,393.79
 Compare
 Fund management
@@ -623,7 +623,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About HDFC Small Cap Fund Direct Growth
 HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 30 Jul 2026 is ₹160.05.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 31 Jul 2026 is ₹160.75.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
@@ -679,11 +679,11 @@ The term
 Expense Ratio
 used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.75% as of 31 Jul 2026...
+The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.76% as of 01 Aug 2026...
 What is the AUM of HDFC Small Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 31 Jul 2026.
+of HDFC Small Cap Fund Direct Growth is ₹40,416.80Cr as of 01 Aug 2026.
 How to Redeem HDFC Small Cap Fund Direct Growth?
 If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -696,7 +696,7 @@ Lumpsum
 investment of HDFC Small Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Small Cap Fund Direct Growth?
-The NAV of HDFC Small Cap Fund Direct Growth is ₹160.05 as of 30 Jul 2026.
+The NAV of HDFC Small Cap Fund Direct Growth is ₹160.75 as of 31 Jul 2026.
 What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?
 The
 PE ratio
@@ -744,7 +744,7 @@ Demat Account
 Groww AMC
 PMS
 © 2016-2026 Groww. All rights reserved.
-Version: 7.8.8
+Version: 7.8.9
 Share Market
 Indices
 F&O

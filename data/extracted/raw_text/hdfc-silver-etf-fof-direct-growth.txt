@@ -1,6 +1,6 @@
 Fund: HDFC Silver ETF FoF Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
-Scraped: 2026-07-31T07:52:46.773356
+Scraped: 2026-08-01T07:29:44.804889
 ================================================================================
 
 HDFC Silver ETF FoF Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -83,8 +83,8 @@ Very High Risk
 1Y
 3Y
 All
-NAV: 30 Jul '26
-₹35.69
+NAV: 31 Jul '26
+₹35.67
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -168,6 +168,7 @@ Category average (Commodities Silver)
 --
 Rank (Commodities Silver)
 --
+10
 --
 Understand terms
 Expense ratio
@@ -284,7 +285,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About HDFC Silver ETF FoF Direct Growth
 HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 30 Jul 2026 is ₹35.69.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 31 Jul 2026 is ₹35.67.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ...Read more
 Investment Objective
@@ -337,11 +338,11 @@ The term
 Expense Ratio
 used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 31 Jul 2026...
+The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 01 Aug 2026...
 What is the AUM of HDFC Silver ETF FoF Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 31 Jul 2026.
+of HDFC Silver ETF FoF Direct Growth is ₹4,326.56Cr as of 01 Aug 2026.
 How to Redeem HDFC Silver ETF FoF Direct Growth?
 If you want to sell your HDFC Silver ETF FoF Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -354,7 +355,7 @@ Lumpsum
 investment of HDFC Silver ETF FoF Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Silver ETF FoF Direct Growth?
-The NAV of HDFC Silver ETF FoF Direct Growth is ₹35.69 as of 30 Jul 2026.
+The NAV of HDFC Silver ETF FoF Direct Growth is ₹35.67 as of 31 Jul 2026.
 What is the PE and PB ratio of HDFC Silver ETF FoF Direct Growth?
 The
 PE ratio
@@ -402,7 +403,7 @@ Demat Account
 Groww AMC
 PMS
 © 2016-2026 Groww. All rights reserved.
-Version: 7.8.8
+Version: 7.8.9
 Share Market
 Indices
 F&O
