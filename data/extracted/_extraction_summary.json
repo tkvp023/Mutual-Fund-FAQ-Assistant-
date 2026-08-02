@@ -1,5 +1,5 @@
 {
-  "extraction_timestamp": "2026-08-01T07:29:45.409813",
+  "extraction_timestamp": "2026-08-02T07:33:57.142523",
   "total_documents": 5,
   "documents_summary": [
     {
@@ -12,16 +12,16 @@
       "holdings_count": 3,
       "faq_count": 8,
       "returns": {
-        "1d": -0.01,
-        "1w": -2.04,
-        "1m": -3.09,
-        "3m": -9.31,
-        "6m": -30.67,
-        "1y": 86.12,
-        "3y": 41.14,
-        "since_inception": 40.64
+        "1d": -0.04,
+        "1w": -1.99,
+        "1m": -3.13,
+        "3m": -9.35,
+        "6m": -30.7,
+        "1y": 91.56,
+        "3y": 41.07,
+        "since_inception": 40.59
       },
-      "raw_text_length": 19040
+      "raw_text_length": 19037
     },
     {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
@@ -33,18 +33,18 @@
       "holdings_count": 3,
       "faq_count": 8,
       "returns": {
-        "1d": 0.46,
-        "1w": -1.14,
-        "1m": 1.25,
-        "3m": -4.92,
-        "6m": -11.09,
-        "1y": 42.09,
-        "3y": 32.28,
-        "5y": 22.85,
-        "10y": 15.43,
-        "since_inception": 10.75
+        "1d": -0.22,
+        "1w": -0.64,
+        "1m": 1.04,
+        "3m": -5.12,
+        "6m": -11.28,
+        "1y": 42.43,
+        "3y": 32.16,
+        "5y": 22.78,
+        "10y": 15.4,
+        "since_inception": 10.73
       },
-      "raw_text_length": 19218
+      "raw_text_length": 19217
     },
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
@@ -56,16 +56,16 @@
       "holdings_count": 78,
       "faq_count": 8,
       "returns": {
-        "1d": -0.02,
-        "1w": 2.58,
-        "1m": 2.64,
-        "3m": 6.9,
-        "6m": 5.11,
-        "1y": 8.39,
-        "3y": 19.73,
-        "5y": 20.41,
-        "10y": 18.13,
-        "since_inception": 20.35
+        "1d": 0.32,
+        "1w": 2.71,
+        "1m": 2.96,
+        "3m": 7.24,
+        "6m": 5.44,
+        "1y": 9.34,
+        "3y": 19.53,
+        "5y": 20.47,
+        "10y": 18.16,
+        "since_inception": 20.37
       },
       "raw_text_length": 21861
     },
@@ -79,16 +79,16 @@
       "holdings_count": 85,
       "faq_count": 8,
       "returns": {
-        "1d": -0.6,
-        "1w": 1.75,
-        "1m": 2.05,
-        "3m": 6.22,
-        "6m": 4.67,
-        "1y": -0.91,
-        "3y": 12.94,
-        "5y": 15.65,
-        "10y": 18.06,
-        "since_inception": 18.52
+        "1d": 0.44,
+        "1w": 1.97,
+        "1m": 2.5,
+        "3m": 6.69,
+        "6m": 5.13,
+        "1y": 0.02,
+        "3y": 12.64,
+        "5y": 15.75,
+        "10y": 18.11,
+        "since_inception": 18.56
       },
       "raw_text_length": 22604
     },
@@ -102,16 +102,16 @@
       "holdings_count": 47,
       "faq_count": 8,
       "returns": {
-        "1d": 0.08,
-        "1w": 1.65,
-        "1m": 2.45,
-        "3m": 4.61,
-        "6m": -0.26,
-        "1y": 1.01,
-        "3y": 10.95,
-        "5y": 13.39,
-        "10y": 12.96,
-        "since_inception": 13.25
+        "1d": 0.57,
+        "1w": 2.64,
+        "1m": 3.04,
+        "3m": 5.21,
+        "6m": 0.31,
+        "1y": 2.07,
+        "3y": 10.92,
+        "5y": 13.51,
+        "10y": 13.02,
+        "since_inception": 13.29
       },
       "raw_text_length": 20586
     }
