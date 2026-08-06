@@ -1,12 +1,12 @@
 {
-  "extraction_timestamp": "2026-08-05T07:41:14.070555",
+  "extraction_timestamp": "2026-08-06T07:41:09.745409",
   "total_documents": 5,
   "documents_summary": [
     {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "nav": 35.7812,
-      "nav_date": "04-Aug-2026",
+      "nav": 36.8701,
+      "nav_date": "05-Aug-2026",
       "aum_cr": 4326.5606,
       "expense_ratio": "0.22",
       "holdings_count": 3,
@@ -26,8 +26,8 @@
     {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "nav": 44.2081,
-      "nav_date": "04-Aug-2026",
+      "nav": 45.055,
+      "nav_date": "05-Aug-2026",
       "aum_cr": 11019.4542,
       "expense_ratio": "0.2",
       "holdings_count": 3,
@@ -49,8 +49,8 @@
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "nav": 235.305,
-      "nav_date": "04-Aug-2026",
+      "nav": 235.979,
+      "nav_date": "05-Aug-2026",
       "aum_cr": 100858.3136,
       "expense_ratio": "0.75",
       "holdings_count": 78,
@@ -72,8 +72,8 @@
     {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "nav": 164.009,
-      "nav_date": "04-Aug-2026",
+      "nav": 164.873,
+      "nav_date": "05-Aug-2026",
       "aum_cr": 40416.8045,
       "expense_ratio": "0.76",
       "holdings_count": 85,
@@ -90,13 +90,13 @@
         "10y": 18.49,
         "since_inception": 18.72
       },
-      "raw_text_length": 22606
+      "raw_text_length": 22607
     },
     {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "nav": 1258.938,
-      "nav_date": "04-Aug-2026",
+      "nav": 1259.647,
+      "nav_date": "05-Aug-2026",
       "aum_cr": 39023.6868,
       "expense_ratio": "1.02",
       "holdings_count": 47,
