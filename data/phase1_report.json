@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-08-07T06:11:30.012357",
-  "end_time": "2026-08-07T06:12:44.532213",
-  "duration_seconds": 74.5,
+  "start_time": "2026-08-08T05:44:13.593445",
+  "end_time": "2026-08-08T05:45:04.571825",
+  "duration_seconds": 51.0,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -16,7 +16,7 @@
         "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
         "raw_text_length": 19219,
-        "nav_data": 46.1502,
+        "nav_data": 46.5187,
         "returns_found": 10,
         "holdings_found": 3,
         "faqs_found": 8
@@ -25,7 +25,7 @@
         "fund_name": "HDFC Large Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
         "raw_text_length": 20583,
-        "nav_data": 1260.093,
+        "nav_data": 1251.728,
         "returns_found": 10,
         "holdings_found": 47,
         "faqs_found": 8
@@ -34,7 +34,7 @@
         "fund_name": "HDFC Small Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
         "raw_text_length": 22606,
-        "nav_data": 163.991,
+        "nav_data": 163.673,
         "returns_found": 10,
         "holdings_found": 85,
         "faqs_found": 8
@@ -43,7 +43,7 @@
         "fund_name": "HDFC Silver ETF FoF Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
         "raw_text_length": 19038,
-        "nav_data": 37.0822,
+        "nav_data": 38.0632,
         "returns_found": 8,
         "holdings_found": 3,
         "faqs_found": 8
@@ -52,7 +52,7 @@
         "fund_name": "HDFC Mid Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
         "raw_text_length": 21862,
-        "nav_data": 235.895,
+        "nav_data": 236.719,
         "returns_found": 10,
         "holdings_found": 78,
         "faqs_found": 8
