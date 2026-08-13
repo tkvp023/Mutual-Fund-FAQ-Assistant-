@@ -1,15 +1,15 @@
 {
   "phase": "Phase 2: Re-Extract + Chunk",
-  "timestamp": "2026-08-12T06:16:02.415664",
-  "duration_seconds": 1.0,
+  "timestamp": "2026-08-13T06:18:58.947237",
+  "duration_seconds": 0.8,
   "documents": 5,
   "total_chunks": 128,
   "chunks_per_fund": {
+    "HDFC Mid Cap Fund Direct Growth": 31,
+    "HDFC Large Cap Fund Direct Growth": 30,
     "HDFC Silver ETF FoF Direct Growth": 18,
     "HDFC Gold ETF Fund of Fund Direct Plan Growth": 18,
-    "HDFC Mid Cap Fund Direct Growth": 31,
-    "HDFC Small Cap Fund Direct Growth": 31,
-    "HDFC Large Cap Fund Direct Growth": 30
+    "HDFC Small Cap Fund Direct Growth": 31
   },
   "chunks_per_section": {
     "overview": 5,
@@ -18,114 +18,114 @@
     "exit_load_tax": 5,
     "investment_info": 5,
     "performance_ranking": 5,
+    "peer_comparison": 3,
     "holdings": 40,
     "fund_management": 10,
     "fund_house": 5,
-    "faq": 40,
-    "peer_comparison": 3
+    "faq": 40
   },
   "documents_detail": [
     {
-      "fund_name": "HDFC Silver ETF FoF Direct Growth",
-      "nav": 38.437,
-      "nav_date": "11-Aug-2026",
-      "aum_cr": 4282.385,
-      "expense_ratio": "0.22",
-      "holdings": 3,
-      "faq": 8,
-      "returns": {
-        "1d": 0.86,
-        "1w": 7.42,
-        "1m": 6.51,
-        "3m": -7.96,
-        "6m": -10.01,
-        "1y": 101.5,
-        "3y": 46.89,
-        "since_inception": 43.0
-      }
-    },
-    {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "nav": 47.3463,
-      "nav_date": "11-Aug-2026",
-      "aum_cr": 11197.0455,
-      "expense_ratio": "0.2",
-      "holdings": 3,
-      "faq": 8,
-      "returns": {
-        "1d": 0.74,
-        "1w": 7.1,
-        "1m": 6.24,
-        "3m": 1.85,
-        "6m": -2.5,
-        "1y": 50.76,
-        "3y": 35.66,
-        "5y": 25.51,
-        "10y": 16.03,
-        "since_inception": 11.27
-      }
-    },
-    {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
-      "nav": 237.096,
-      "nav_date": "11-Aug-2026",
+      "nav": 236.891,
+      "nav_date": "12-Aug-2026",
       "aum_cr": 105142.6943,
       "expense_ratio": "0.75",
       "holdings": 78,
       "faq": 8,
       "returns": {
-        "1d": 0.11,
-        "1w": 0.76,
-        "1m": 2.21,
-        "3m": 7.16,
-        "6m": 4.37,
-        "1y": 13.01,
-        "3y": 20.41,
-        "5y": 21.22,
-        "10y": 18.3,
-        "since_inception": 20.46
-      }
-    },
-    {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "nav": 163.51,
-      "nav_date": "11-Aug-2026",
-      "aum_cr": 41679.0037,
-      "expense_ratio": "0.76",
-      "holdings": 85,
-      "faq": 8,
-      "returns": {
-        "1d": 0.01,
-        "1w": -0.3,
-        "1m": 2.02,
-        "3m": 5.13,
-        "6m": 3.53,
-        "1y": 3.66,
-        "3y": 13.47,
-        "5y": 17.13,
-        "10y": 18.42,
-        "since_inception": 18.66
+        "1d": -0.09,
+        "1w": 0.39,
+        "1m": 2.12,
+        "3m": 9.36,
+        "6m": 4.77,
+        "1y": 12.87,
+        "3y": 20.35,
+        "5y": 20.87,
+        "10y": 18.19,
+        "since_inception": 20.45
       }
     },
     {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "nav": 1249.684,
-      "nav_date": "11-Aug-2026",
+      "nav": 1249.478,
+      "nav_date": "12-Aug-2026",
       "aum_cr": 40197.8895,
       "expense_ratio": "1.02",
       "holdings": 47,
       "faq": 8,
       "returns": {
-        "1d": -0.33,
-        "1w": -0.74,
-        "1m": 1.04,
-        "3m": 5.42,
-        "6m": -2.81,
-        "1y": 3.18,
-        "3y": 11.43,
-        "5y": 13.06,
-        "10y": 13.14,
+        "1d": -0.02,
+        "1w": -0.81,
+        "1m": 1.03,
+        "3m": 7.49,
+        "6m": -2.59,
+        "1y": 3.47,
+        "3y": 11.41,
+        "5y": 12.97,
+        "10y": 12.99,
         "since_inception": 13.27
+      }
+    },
+    {
+      "fund_name": "HDFC Silver ETF FoF Direct Growth",
+      "nav": 39.0034,
+      "nav_date": "12-Aug-2026",
+      "aum_cr": 4282.385,
+      "expense_ratio": "0.22",
+      "holdings": 3,
+      "faq": 8,
+      "returns": {
+        "1d": 1.47,
+        "1w": 5.79,
+        "1m": 8.08,
+        "3m": -10.51,
+        "6m": -8.17,
+        "1y": 104.86,
+        "3y": 47.56,
+        "since_inception": 43.52
+      }
+    },
+    {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "nav": 47.6709,
+      "nav_date": "12-Aug-2026",
+      "aum_cr": 11197.0455,
+      "expense_ratio": "0.2",
+      "holdings": 3,
+      "faq": 8,
+      "returns": {
+        "1d": 0.69,
+        "1w": 5.81,
+        "1m": 6.97,
+        "3m": 1.49,
+        "6m": -1.76,
+        "1y": 52.25,
+        "3y": 35.93,
+        "5y": 25.49,
+        "10y": 16.13,
+        "since_inception": 11.32
+      }
+    },
+    {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "nav": 162.811,
+      "nav_date": "12-Aug-2026",
+      "aum_cr": 41679.0037,
+      "expense_ratio": "0.76",
+      "holdings": 85,
+      "faq": 8,
+      "returns": {
+        "1d": -0.43,
+        "1w": -1.25,
+        "1m": 1.59,
+        "3m": 7.16,
+        "6m": 4.07,
+        "1y": 2.66,
+        "3y": 13.29,
+        "5y": 16.45,
+        "10y": 18.3,
+        "since_inception": 18.62
       }
     }
   ]
