@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-08-13T06:18:00.484251",
-  "end_time": "2026-08-13T06:18:58.032429",
-  "duration_seconds": 57.5,
+  "start_time": "2026-08-14T06:15:03.394706",
+  "end_time": "2026-08-14T06:16:01.454367",
+  "duration_seconds": 58.1,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -16,7 +16,7 @@
         "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
         "raw_text_length": 19225,
-        "nav_data": 47.6709,
+        "nav_data": 47.3202,
         "returns_found": 10,
         "holdings_found": 3,
         "faqs_found": 8
@@ -24,8 +24,8 @@
       {
         "fund_name": "HDFC Large Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "raw_text_length": 20590,
-        "nav_data": 1249.478,
+        "raw_text_length": 20589,
+        "nav_data": 1247.915,
         "returns_found": 10,
         "holdings_found": 47,
         "faqs_found": 8
@@ -34,7 +34,7 @@
         "fund_name": "HDFC Small Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
         "raw_text_length": 22612,
-        "nav_data": 162.811,
+        "nav_data": 162.66,
         "returns_found": 10,
         "holdings_found": 85,
         "faqs_found": 8
@@ -42,8 +42,8 @@
       {
         "fund_name": "HDFC Silver ETF FoF Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "raw_text_length": 19045,
-        "nav_data": 39.0034,
+        "raw_text_length": 19044,
+        "nav_data": 38.143,
         "returns_found": 8,
         "holdings_found": 3,
         "faqs_found": 8
@@ -52,7 +52,7 @@
         "fund_name": "HDFC Mid Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
         "raw_text_length": 21868,
-        "nav_data": 236.891,
+        "nav_data": 237.08,
         "returns_found": 10,
         "holdings_found": 78,
         "faqs_found": 8
