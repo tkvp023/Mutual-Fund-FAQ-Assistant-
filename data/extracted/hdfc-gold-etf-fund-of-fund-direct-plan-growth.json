@@ -2,11 +2,11 @@
   "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-08-14T06:16:01.863841",
+  "scraped_at": "2026-08-15T05:25:59.795508",
   "isin": "INF179K01VX0",
   "scheme_code": "119132",
-  "nav": 47.3202,
-  "nav_date": "13-Aug-2026",
+  "nav": 47.2031,
+  "nav_date": "14-Aug-2026",
   "aum_cr": 11197.0455,
   "expense_ratio": "0.2",
   "category": "Commodities",
@@ -22,24 +22,24 @@
   "lock_in": "None",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "returns_annualised": {
-    "1d": -0.74,
-    "1w": 2.54,
-    "1m": 7.37,
-    "3m": -4.51,
-    "6m": -0.6,
-    "1y": 50.64,
-    "3y": 35.56,
-    "5y": 25.34,
-    "10y": 16.04,
-    "since_inception": 11.26
+    "1d": -0.25,
+    "1w": 1.47,
+    "1m": 7.83,
+    "3m": -5.01,
+    "6m": -0.85,
+    "1y": 50.39,
+    "3y": 35.52,
+    "5y": 25.26,
+    "10y": 16.01,
+    "since_inception": 11.24
   },
   "returns_sip": {
-    "3m": 48.26,
-    "6m": 6.32,
-    "1y": 25.66,
-    "3y": 40.11,
-    "5y": 31.77,
-    "10y": 21.59
+    "3m": 43.92,
+    "6m": 5.17,
+    "1y": 24.9,
+    "3y": 39.84,
+    "5y": 31.63,
+    "10y": 21.54
   },
   "stats": {
     "risk": "High",
@@ -54,9 +54,9 @@
     "cat_return_3y": 34.06922462588724,
     "cat_return_5y": 20.95384843351483,
     "rank_1y": 9,
-    "rank_3y": 7,
+    "rank_3y": 8,
     "rank_5y": 6,
-    "rank_10y": 5
+    "rank_10y": 3
   },
   "holdings": [
     {
@@ -183,15 +183,15 @@
     },
     {
       "question": "What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?",
-      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.26% since its inception."
+      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 11.24% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 14 Aug 2026..."
+      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 15 Aug 2026..."
     },
     {
       "question": "What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,197.05Cr as of 14 Aug 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,197.05Cr as of 15 Aug 2026."
     },
     {
       "question": "How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -203,7 +203,7 @@
     },
     {
       "question": "What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹47.32 as of 13 Aug 2026."
+      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹47.20 as of 14 Aug 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
