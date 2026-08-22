@@ -2,11 +2,11 @@
   "fund_name": "HDFC Large Cap Fund Direct Growth",
   "fund_slug": "hdfc-large-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-08-21T05:34:48.833402",
+  "scraped_at": "2026-08-22T05:28:50.442968",
   "isin": "INF179K01YV8",
   "scheme_code": "119018",
-  "nav": 1244.631,
-  "nav_date": "20-Aug-2026",
+  "nav": 1245.125,
+  "nav_date": "21-Aug-2026",
   "aum_cr": 40197.8895,
   "expense_ratio": "1.03",
   "category": "Equity",
@@ -22,22 +22,22 @@
   "lock_in": "None",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
   "returns_annualised": {
-    "1d": 0.54,
-    "1w": -0.26,
-    "1m": 0.65,
-    "3m": 5.88,
-    "6m": -1.75,
-    "1y": 0.55,
-    "3y": 11.4,
+    "1d": 0.04,
+    "1w": -0.13,
+    "1m": 0.56,
+    "3m": 5.95,
+    "6m": -1.71,
+    "1y": 0.59,
+    "3y": 11.23,
     "5y": 13.15,
     "10y": 12.79,
     "since_inception": 13.22
   },
   "returns_sip": {
-    "3m": 19.92,
+    "3m": 19.84,
     "6m": 15.56,
-    "1y": 3.36,
-    "3y": 5.12,
+    "1y": 3.43,
+    "3y": 5.14,
     "5y": 10.49,
     "10y": 13.13
   },
@@ -53,9 +53,9 @@
     "cat_return_1y": 7.147399676288311,
     "cat_return_3y": 15.067319511020838,
     "cat_return_5y": 14.963175625273163,
-    "rank_1y": 50,
+    "rank_1y": 48,
     "rank_3y": 43,
-    "rank_5y": 16,
+    "rank_5y": 17,
     "rank_10y": 14
   },
   "holdings": [
@@ -506,32 +506,32 @@
   "peers": [
     {
       "name": "Invesco India Largecap Fund Direct Growth",
-      "return_1y": 6.85,
-      "return_3y": 16.18,
+      "return_1y": 6.9,
+      "return_3y": 15.92,
       "aum_cr": 1931.4024
     },
     {
       "name": "Bandhan Large Cap Fund Direct Growth",
-      "return_1y": 3.52,
-      "return_3y": 14.89,
+      "return_1y": 3.48,
+      "return_3y": 14.7,
       "aum_cr": 2144.5586
     },
     {
       "name": "Nippon India Large Cap Fund Direct Growth",
-      "return_1y": -1.01,
-      "return_3y": 13.23,
+      "return_1y": -1.11,
+      "return_3y": 13.05,
       "aum_cr": 54224.565
     },
     {
       "name": "ICICI Prudential Large Cap Fund Direct Growth",
-      "return_1y": -1.32,
-      "return_3y": 13.16,
+      "return_1y": -1.47,
+      "return_3y": 13.05,
       "aum_cr": 80960.34229763
     },
     {
       "name": "Edelweiss Large Cap Fund Direct Growth",
-      "return_1y": 1.9,
-      "return_3y": 12.2,
+      "return_1y": 1.85,
+      "return_3y": 12.05,
       "aum_cr": 1443.24370609
     }
   ],
@@ -554,11 +554,11 @@
     },
     {
       "question": "How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 21 Aug 2026..."
+      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 22 Aug 2026..."
     },
     {
       "question": "What is the AUM of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 21 Aug 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 22 Aug 2026."
     },
     {
       "question": "How to Redeem HDFC Large Cap Fund Direct Growth?",
@@ -570,7 +570,7 @@
     },
     {
       "question": "What is the NAV of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Large Cap Fund Direct Growth is ₹1,244.63 as of 20 Aug 2026."
+      "answer": "The NAV of HDFC Large Cap Fund Direct Growth is ₹1,245.13 as of 21 Aug 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?",
