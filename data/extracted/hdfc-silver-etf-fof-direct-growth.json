@@ -2,11 +2,11 @@
   "fund_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_slug": "hdfc-silver-etf-fof-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-08-24T05:40:07.180470",
+  "scraped_at": "2026-08-25T05:33:27.393570",
   "isin": "INF179KC1DU7",
   "scheme_code": "150737",
-  "nav": 40.1751,
-  "nav_date": "21-Aug-2026",
+  "nav": 40.0093,
+  "nav_date": "24-Aug-2026",
   "aum_cr": 4282.385,
   "expense_ratio": "0.22",
   "category": "Commodities",
@@ -22,14 +22,14 @@
   "lock_in": "None",
   "description": "The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).",
   "returns_annualised": {
-    "1d": 3.09,
-    "1w": 5.19,
-    "1m": 9.55,
-    "3m": -7.67,
-    "6m": -1.8,
-    "1y": 111.32,
-    "3y": 48.66,
-    "since_inception": 44.3
+    "1d": -0.41,
+    "1w": 3.61,
+    "1m": 9.92,
+    "3m": -8.33,
+    "6m": -7.68,
+    "1y": 107.8,
+    "3y": 46.66,
+    "since_inception": 44.03
   },
   "returns_sip": {
     "3m": 25.25,
@@ -157,6 +157,7 @@
         "HDFC Nifty Top 20 Equal Weight Index Fund Direct Growth",
         "HDFC BSE India Sector Leaders Index Fund Direct Growth",
         "HDFC Nifty India Consumption Index Fund Direct Growth",
+        "HDFC Gold Silver Passive FoF Direct Growth",
         "HDFC Nifty Auto Index Fund Direct Growth",
         "HDFC Nifty Metal ETF FoF Direct Growth"
       ]
@@ -165,11 +166,10 @@
   "peers": [],
   "analysis": {
     "pros": [
-      "Lower expense ratio: 0.22%",
-      "3Y annualised returns higher than category average by 1.59%"
+      "Lower expense ratio: 0.22%"
     ],
     "cons": [
-      "1Y annualised returns lower than category average by 43.45%"
+      "Consistently lower annualised returns than category average for the past 1Y and 3Y"
     ]
   },
   "faq": [
@@ -179,15 +179,15 @@
     },
     {
       "question": "What kind of returns does HDFC Silver ETF FoF Direct Growth provide?",
-      "answer": "The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 44.30% since its inception."
+      "answer": "The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 44.03% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 24 Aug 2026..."
+      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.22% as of 25 Aug 2026..."
     },
     {
       "question": "What is the AUM of HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,282.39Cr as of 24 Aug 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,282.39Cr as of 25 Aug 2026."
     },
     {
       "question": "How to Redeem HDFC Silver ETF FoF Direct Growth?",
@@ -199,7 +199,7 @@
     },
     {
       "question": "What is the NAV of HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The NAV of HDFC Silver ETF FoF Direct Growth is ₹40.18 as of 21 Aug 2026."
+      "answer": "The NAV of HDFC Silver ETF FoF Direct Growth is ₹40.01 as of 24 Aug 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Silver ETF FoF Direct Growth?",
@@ -213,7 +213,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 19052,
+  "raw_text_length": 19095,
   "section_names": [
     "fund_house",
     "overview",
