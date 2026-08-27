@@ -2,11 +2,11 @@
   "fund_name": "HDFC Large Cap Fund Direct Growth",
   "fund_slug": "hdfc-large-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-08-26T05:36:16.832781",
+  "scraped_at": "2026-08-27T16:09:37.412702",
   "isin": "INF179K01YV8",
   "scheme_code": "119018",
-  "nav": 1249.864,
-  "nav_date": "25-Aug-2026",
+  "nav": 1247.076,
+  "nav_date": "26-Aug-2026",
   "aum_cr": 40197.8895,
   "expense_ratio": "1.02",
   "category": "Equity",
@@ -22,24 +22,24 @@
   "lock_in": "None",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
   "returns_annualised": {
-    "1d": 0.5,
-    "1w": 0.83,
-    "1m": 2.79,
-    "3m": 4.61,
-    "6m": -1.69,
-    "1y": 1.33,
-    "3y": 11.53,
+    "1d": -0.22,
+    "1w": 0.73,
+    "1m": 2.56,
+    "3m": 4.93,
+    "6m": -2.18,
+    "1y": 2.22,
+    "3y": 11.43,
     "5y": 12.96,
-    "10y": 12.95,
-    "since_inception": 13.24
+    "10y": 12.97,
+    "since_inception": 13.21
   },
   "returns_sip": {
-    "3m": 21.31,
-    "6m": 16.49,
-    "1y": 4.1,
-    "3y": 5.36,
-    "5y": 10.6,
-    "10y": 13.18
+    "3m": 19.12,
+    "6m": 15.39,
+    "1y": 3.64,
+    "3y": 5.2,
+    "5y": 10.5,
+    "10y": 13.13
   },
   "stats": {
     "risk": "Very High",
@@ -56,7 +56,7 @@
     "rank_1y": 48,
     "rank_3y": 43,
     "rank_5y": 17,
-    "rank_10y": 13
+    "rank_10y": 12
   },
   "holdings": [
     {
@@ -64,168 +64,152 @@
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 9.73,
-      "portfolio_date": "2026-06-29"
+      "pct": 9.86,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 7.92,
-      "portfolio_date": "2026-06-29"
+      "pct": 7.21,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Bharti Airtel Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 5.66,
-      "portfolio_date": "2026-06-29"
+      "pct": 5.85,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 5.46,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Reliance Industries Ltd",
-      "sector": "Energy & Utilities",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 4.96,
-      "portfolio_date": "2026-06-29"
+      "pct": 5.28,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Titan Company Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 4.65,
-      "portfolio_date": "2026-06-29"
+      "pct": 5,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "Energy & Utilities",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 4.86,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Torrent Pharmaceuticals Ltd",
       "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 3.77,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Axis Bank Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 3.69,
-      "portfolio_date": "2026-06-29"
+      "pct": 4.05,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Bajaj Finserv Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 3,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.32,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Lupin Ltd",
-      "sector": "Healthcare",
+      "name": "Axis Bank Ltd",
+      "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.86,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Bajaj Auto Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.8,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.28,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Repo",
       "sector": "Unspecified",
       "instrument": "Repo",
       "type": "CASH",
-      "pct": 2.64,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.08,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Lupin Ltd",
+      "sector": "Healthcare",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 2.77,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 2.76,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Infosys Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.49,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Ambuja Cements Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.41,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.73,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Cholamandalam Investment & Finance Company Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
+      "pct": 2.41,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Ambuja Cements Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
       "pct": 2.4,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "State Bank of India",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.29,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Larsen & Toubro Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.09,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Interglobe Aviation Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.06,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Zomato Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.05,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.28,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.93,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "NTPC Ltd",
       "sector": "Energy & Utilities",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.04,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.93,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Max Healthcare Institute Ltd",
-      "sector": "Healthcare",
+      "name": "Interglobe Aviation Ltd",
+      "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.91,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.93,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Tata Motors Ltd",
@@ -233,183 +217,207 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 1.86,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Mankind Pharma Ltd.",
+      "name": "State Bank of India",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.82,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Max Healthcare Institute Ltd",
       "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.79,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.81,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "United Spirits Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.65,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.8,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Vishal Mega Mart Ltd.",
-      "sector": "Consumer Staples",
+      "name": "Mankind Pharma Ltd.",
+      "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.49,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.68,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Indusind Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.46,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Tata Consumer Products Ltd",
-      "sector": "Consumer Staples",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.39,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.56,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Havells India Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.29,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.36,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "ICICI Prudential Asset Management Company Ltd.",
-      "sector": "Financial",
+      "name": "Tata Consumer Products Ltd",
+      "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.17,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.36,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Vishal Mega Mart Ltd.",
+      "sector": "Consumer Staples",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.31,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Swiggy Ltd.",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.13,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.31,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Hyundai Motor India Ltd.",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.07,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.19,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Adani Ports and Special Economic Zone Ltd",
-      "sector": "Industrials",
+      "name": "ICICI Prudential Asset Management Company Ltd.",
+      "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.01,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "SRF Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.97,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.06,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Eicher Motors Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.94,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.01,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Adani Ports and Special Economic Zone Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.92,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "SRF Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.91,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "TATA CAPITAL LIMITED EQ",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.77,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.74,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Dabur India Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.74,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.72,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Maruti Suzuki India Ltd",
-      "sector": "Consumer Discretionary",
+      "name": "SBI Funds Management Ltd",
+      "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.66,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "CG Power & Industrial Solutions Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.66,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.68,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Mahindra & Mahindra Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.62,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.67,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "CG Power & Industrial Solutions Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.58,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
       "sector": "Entities",
       "instrument": "GOI Securities",
       "type": "DEBT",
-      "pct": 0.5,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.48,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Tata Motors Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.48,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.45,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "DLF Ltd",
       "sector": "Real Estate",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.34,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.35,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Cummins India Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.33,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.32,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Billionbrains Garage Ventures Ltd.",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.3,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.28,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Maruti Suzuki India Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.25,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Hindalco Industries Ltd",
@@ -417,23 +425,23 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.22,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "SBI Life Insurance Company Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.18,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.19,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Net Current Assets",
       "sector": "Unspecified",
       "instrument": "Net Current Assets",
       "type": "CASH",
-      "pct": 0.1,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.18,
+      "portfolio_date": "2026-07-30"
     }
   ],
   "fund_managers": [
@@ -456,40 +464,40 @@
       "funds_managed": [
         "HDFC Flexi Cap Direct Plan Growth",
         "HDFC Value Fund Direct Plan Growth",
-        "HDFC Low Duration Fund Direct Growth",
+        "HDFC Ultra Short to Short Term Fund Direct Growth",
         "HDFC Focused Fund Direct Growth",
-        "HDFC Floating Rate Debt Fund Direct Plan Growth",
+        "HDFC Floating Interest Rates Fund Direct Plan Growth",
         "HDFC Balanced Advantage Fund Direct Growth",
-        "HDFC Dynamic Debt Fund Direct Plan Growth",
-        "HDFC Medium Term Debt Fund Direct Growth",
-        "HDFC Income Fund Direct Growth",
+        "HDFC Dynamic Term Fund Direct Plan Growth",
+        "HDFC Medium Term Fund Direct Growth",
+        "HDFC Medium to Long Term Fund Direct Growth",
         "HDFC Infrastructure Fund Direct Growth",
         "HDFC Corporate Bond Fund Direct Plan Growth",
-        "HDFC Hybrid Debt Fund Direct Growth",
+        "HDFC Conservative Hybrid Fund Direct Growth",
         "HDFC Mid Cap Fund Direct Growth",
         "HDFC Equity Savings Direct Plan Growth",
         "HDFC Multi Asset Allocation Fund Direct Growth",
-        "HDFC Hybrid Equity Fund Direct Plan Growth",
-        "HDFC Short Term Debt Fund Direct Plan Growth",
+        "HDFC Aggressive Hybrid Fund Direct Plan Growth",
+        "HDFC Short Term Fund Direct Plan Growth",
         "HDFC ELSS Tax Saver Fund Direct Plan Growth",
         "HDFC Large Cap Fund Direct Growth",
-        "HDFC Credit Risk Debt Fund Direct Growth",
+        "HDFC Credit Risk Fund Direct Growth",
         "HDFC Banking and PSU Debt Fund Direct Growth",
         "HDFC Arbitrage Fund Direct Growth",
-        "HDFC Large and Mid Cap Fund Direct Growth",
+        "HDFC Large & Mid Cap Fund Direct Growth",
         "HDFC Small Cap Fund Direct Growth",
         "HDFC Ultra Short Term Fund Direct Growth",
         "HDFC Liquid Direct Plan Growth",
         "HDFC Overnight Fund Direct Growth",
         "HDFC Money Market Fund Direct Growth",
-        "HDFC Retirement Savings Fund Equity Plan Direct Growth",
-        "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
-        "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+        "HDFC Retirement Fund Equity Plan Direct Growth",
+        "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
+        "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
         "HDFC Housing Opportunities Fund Direct Growth",
         "HDFC Banking & Financial Services Fund Direct Growth",
         "HDFC Multi Cap Fund Direct Growth",
         "HDFC Business Cycle Fund Direct Growth",
-        "HDFC Long Duration Debt Fund Direct Growth",
+        "HDFC Long Term Fund Direct Growth",
         "HDFC MNC Fund Direct Growth",
         "HDFC Defence Fund Direct Growth",
         "HDFC Consumption Fund Direct Growth",
@@ -506,32 +514,32 @@
   "peers": [
     {
       "name": "Invesco India Largecap Fund Direct Growth",
-      "return_1y": 7.55,
-      "return_3y": 16.2,
+      "return_1y": 8.14,
+      "return_3y": 16.04,
       "aum_cr": 1931.4024
     },
     {
       "name": "Bandhan Large Cap Fund Direct Growth",
-      "return_1y": 4.06,
-      "return_3y": 14.94,
+      "return_1y": 5,
+      "return_3y": 14.78,
       "aum_cr": 2144.5586
     },
     {
       "name": "ICICI Prudential Large Cap Fund Direct Growth",
-      "return_1y": -0.81,
-      "return_3y": 13.3,
+      "return_1y": -0.13,
+      "return_3y": 13.15,
       "aum_cr": 80960.34229763
     },
     {
       "name": "Nippon India Large Cap Fund Direct Growth",
-      "return_1y": -0.36,
-      "return_3y": 13.22,
+      "return_1y": 0.33,
+      "return_3y": 13.1,
       "aum_cr": 54224.565
     },
     {
       "name": "Edelweiss Large Cap Fund Direct Growth",
-      "return_1y": 2.57,
-      "return_3y": 12.26,
+      "return_1y": 3.38,
+      "return_3y": 12.13,
       "aum_cr": 1443.24370609
     }
   ],
@@ -550,15 +558,15 @@
     },
     {
       "question": "What kind of returns does HDFC Large Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.24% since its inception."
+      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.21% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 26 Aug 2026..."
+      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 27 Aug 2026..."
     },
     {
       "question": "What is the AUM of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 26 Aug 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹40,197.89Cr as of 27 Aug 2026."
     },
     {
       "question": "How to Redeem HDFC Large Cap Fund Direct Growth?",
@@ -570,7 +578,7 @@
     },
     {
       "question": "What is the NAV of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Large Cap Fund Direct Growth is ₹1,249.86 as of 25 Aug 2026."
+      "answer": "The NAV of HDFC Large Cap Fund Direct Growth is ₹1,247.08 as of 26 Aug 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?",
@@ -584,7 +592,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 20625,
+  "raw_text_length": 20666,
   "section_names": [
     "fund_house",
     "overview",

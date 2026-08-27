@@ -1,6 +1,6 @@
 Fund: HDFC Mid Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-Scraped: 2026-08-26T05:36:16.673865
+Scraped: 2026-08-27T16:09:37.203742
 ================================================================================
 
 HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -76,7 +76,7 @@ Equity
 Mid Cap
 Very High Risk
 3Y annualised
-+0.21%
+-0.11%
 1D
 1M
 6M
@@ -84,8 +84,8 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 25 Aug '26
-₹237.63
+NAV: 26 Aug '26
+₹237.36
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -105,21 +105,21 @@ Historic returns
 Returns
 1 year
 ₹1,200
-₹1,285
-+7.08%
+₹1,283
++6.92%
 3 years
 ₹3,600
-₹4,385
-+21.81%
+₹4,379
++21.64%
 5 years
 ₹6,000
-₹9,749
-+62.48%
+₹9,733
++62.22%
 10 years
 ₹12,000
-₹34,570
-+188.08%
-Holdings (78)
+₹34,514
++187.62%
+Holdings (81)
 Name
 Sector
 Instruments
@@ -127,243 +127,235 @@ Assets
 Repo
 Unspecified
 Repo
-8.11%
+6.92%
 The Federal Bank Ltd
 Financial
 Equity
-4.18%
-Max Financial Services Ltd
-Financial
-Equity
-4.10%
+4.36%
 AU Small Finance Bank Ltd
 Financial
 Equity
-4.08%
+3.96%
+Max Financial Services Ltd
+Financial
+Equity
+3.72%
 Balkrishna Industries Ltd
 Consumer Discretionary
 Equity
-3.10%
-Fortis Healthcare Ltd
-Healthcare
-Equity
-3.07%
+3.37%
 Ipca Laboratories Ltd
 Healthcare
 Equity
-3.05%
+3.01%
 Indian Bank
 Financial
 Equity
-2.98%
+2.93%
+Fortis Healthcare Ltd
+Healthcare
+Equity
+2.91%
 Glenmark Pharmaceuticals Ltd
 Healthcare
 Equity
-2.93%
-Vishal Mega Mart Ltd.
-Consumer Staples
+2.85%
+Coforge Ltd
+Technology
 Equity
-2.64%
-Cummins India Ltd
-Industrials
-Equity
-2.52%
+2.56%
 Marico Ltd
 Consumer Staples
 Equity
 2.51%
-Coforge Ltd
-Technology
-Equity
-2.27%
-Hindustan Petroleum Corporation Ltd
-Energy & Utilities
-Equity
-2.27%
-Tata Communications Ltd
-Technology
-Equity
-2.18%
-Aurobindo Pharma Ltd
-Healthcare
-Equity
-2.09%
 Mahindra & Mahindra Financial Services Ltd
 Financial
 Equity
-2.07%
-Apollo Tyres Ltd
-Consumer Discretionary
+2.43%
+Vishal Mega Mart Ltd.
+Consumer Staples
 Equity
-1.79%
-Alkem Laboratories Ltd
-Healthcare
+2.30%
+Hindustan Petroleum Corporation Ltd
+Energy & Utilities
 Equity
-1.75%
-AIA Engineering Ltd
+2.26%
+Cummins India Ltd
 Industrials
 Equity
-1.68%
+2.19%
+Aurobindo Pharma Ltd
+Healthcare
+Equity
+2.01%
 United Spirits Ltd
 Consumer Staples
 Equity
-1.60%
-Gland Pharma Ltd
+1.98%
+Tata Communications Ltd
+Technology
+Equity
+1.86%
+Persistent Systems Ltd
+Technology
+Equity
+1.81%
+Alkem Laboratories Ltd
 Healthcare
 Equity
-1.56%
+1.73%
+Apollo Tyres Ltd
+Consumer Discretionary
+Equity
+1.71%
+Mphasis Ltd
+Technology
+Equity
+1.59%
 Dabur India Ltd
 Consumer Staples
 Equity
-1.56%
+1.55%
 Jindal Steel & Power Ltd
 Materials
-Equity
-1.55%
-Union Bank of India
-Financial
 Equity
 1.54%
 PB Fintech Ltd
 Financial
 Equity
-1.53%
-Delhivery Ltd
+1.49%
+AIA Engineering Ltd
 Industrials
 Equity
 1.48%
-Mphasis Ltd
-Technology
+Union Bank of India
+Financial
 Equity
-1.46%
-Persistent Systems Ltd
-Technology
+1.47%
+Delhivery Ltd
+Industrials
+Equity
+1.45%
+Gland Pharma Ltd
+Healthcare
 Equity
 1.44%
 Bharat Forge Ltd
 Consumer Discretionary
 Equity
-1.37%
-Bosch Ltd
-Consumer Discretionary
-Equity
-1.24%
-Star Health & Allied Insurance Co. Ltd
-Financial
-Equity
-1.20%
+1.35%
 Karur Vysya Bank Ltd
 Financial
 Equity
-1.17%
-Nippon Life India Asset Management Ltd
-Financial
-Equity
-1.14%
-Coromandel International Ltd
-Materials
-Equity
-1.06%
+1.28%
 Zomato Ltd
 Technology
 Equity
-1.05%
-The Indian Hotels Company Ltd
+1.24%
+Bosch Ltd
 Consumer Discretionary
 Equity
-1.00%
+1.22%
+Star Health & Allied Insurance Co. Ltd
+Financial
+Equity
+1.18%
 Indusind Bank Ltd
 Financial
+Equity
+1.14%
+Nippon Life India Asset Management Ltd
+Financial
+Equity
+1.10%
+Coromandel International Ltd
+Materials
+Equity
+1.09%
+The Indian Hotels Company Ltd
+Consumer Discretionary
 Equity
 0.99%
 Escorts Kubota Ltd
 Industrials
 Equity
-0.84%
-Indraprastha Gas Ltd
-Energy & Utilities
-Equity
-0.84%
+0.87%
 Godrej Consumer Products Ltd
 Consumer Staples
 Equity
-0.83%
-Crompton Greaves Consumer Electricals Ltd
-Consumer Discretionary
-Equity
-0.78%
+0.84%
 Redington Ltd
 Technology
 Equity
-0.78%
-Timken India Ltd
-Industrials
+0.84%
+ICICI Lombard General Insurance Company Ltd
+Financial
 Equity
-0.76%
+0.83%
 HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-
 Technology
 Equity
-0.76%
-City Union Bank Ltd
-Financial
+0.80%
+Indraprastha Gas Ltd
+Energy & Utilities
+Equity
+0.74%
+Sona BLW Precision Forgings Ltd
+Consumer Discretionary
+Equity
+0.74%
+Crompton Greaves Consumer Electricals Ltd
+Consumer Discretionary
+Equity
+0.71%
+Havells India Ltd
+Consumer Discretionary
+Equity
+0.70%
+Dixon Technologies (India) Ltd
+Consumer Discretionary
 Equity
 0.69%
 Sundram Fasteners Ltd
 Industrials
 Equity
 0.67%
-SKF India (Industrial) Ltd
-Industrials
+City Union Bank Ltd
+Financial
 Equity
-0.67%
+0.65%
 ACC Ltd
 Materials
 Equity
-0.62%
-Sona BLW Precision Forgings Ltd
-Consumer Discretionary
-Equity
-0.62%
-Dixon Technologies (India) Ltd
-Consumer Discretionary
+0.61%
+SKF India (Industrial) Ltd
+Industrials
 Equity
 0.61%
+Timken India Ltd
+Industrials
+Equity
+0.58%
 Gujarat Fluorochemicals Ltd
 Materials
 Equity
-0.54%
+0.58%
 Supreme Industries Ltd
 Materials
 Equity
-0.52%
-KEC International Ltd
-Diversified
-Equity
-0.47%
-Arvind Ltd
-Consumer Discretionary
-Equity
-0.47%
-ICICI Lombard General Insurance Company Ltd
-Financial
-Equity
-0.45%
-Vardhman Textiles Ltd
-Consumer Discretionary
-Equity
-0.39%
-SKF India Ltd
-Industrials
-Equity
-0.39%
+0.55%
 Aster DM Healthcare Ltd
 Healthcare
 Equity
-0.39%
-Cholamandalam Financial Holdings Ltd
-Financial
+0.42%
+KEC International Ltd
+Diversified
 Equity
-0.37%
+0.40%
+Arvind Ltd
+Consumer Discretionary
+Equity
+0.40%
 Oracle Financial Services Software Ltd
 Technology
 Equity
@@ -371,59 +363,79 @@ Equity
 Aarti Industries Ltd
 Materials
 Equity
+0.36%
+Vardhman Textiles Ltd
+Consumer Discretionary
+Equity
 0.35%
-Vesuvius India Ltd
+Cholamandalam Financial Holdings Ltd
+Financial
+Equity
+0.33%
+SKF India Ltd
 Industrials
 Equity
 0.33%
+Vesuvius India Ltd
+Industrials
+Equity
+0.30%
+Mahindra CIE Automotive Ltd
+Consumer Discretionary
+Equity
+0.28%
 Emami Ltd
 Consumer Staples
 Equity
-0.30%
+0.28%
 Symphony Ltd
 Consumer Discretionary
 Equity
-0.25%
-Navneet Education Ltd
-Consumer Discretionary
-Equity
-0.22%
+0.24%
 Bharti Hexacom Ltd.
 Technology
 Equity
-0.20%
-Billionbrains Garage Ventures Ltd.
-Financial
+0.21%
+Colgate-Palmolive (India) Ltd
+Consumer Staples
+Equity
+0.21%
+Petronet LNG Ltd
+Energy & Utilities
 Equity
 0.20%
 Five-Star Business Finance Ltd
 Financial
 Equity
+0.20%
+Billionbrains Garage Ventures Ltd.
+Financial
+Equity
 0.19%
+Navneet Education Ltd
+Consumer Discretionary
+Equity
+0.18%
 Greenlam Industries Ltd
 Materials
 Equity
-0.16%
+0.15%
 Greenply Industries Ltd
 Materials
 Equity
-0.16%
-Colgate-Palmolive (India) Ltd
-Consumer Staples
-Equity
-0.16%
+0.15%
 LG Electronics India Ltd.
 Consumer Discretionary
 Equity
-0.15%
+0.14%
 KNR Constructions Ltd
 Industrials
 Equity
-0.14%
+0.12%
 Dhanuka Agritech Ltd
 Materials
 Equity
-0.11%
+0.10%
 Greenpanel Industries Ltd
 Materials
 Equity
@@ -431,11 +443,11 @@ Equity
 Jagran Prakashan Ltd
 Industrials
 Equity
-0.04%
-Net Payables
+0.03%
+Net Current Assets
 Unspecified
-Net Payables
--0.17%
+Net Current Assets
+0.02%
 See All
 Minimum investments
 Min. for 1st investment
@@ -459,7 +471,7 @@ Name
 All
 Fund returns
 +19.7%
-+21.3%
++21.2%
 +17.9%
 +20.4%
 Category average (Equity Mid Cap)
@@ -496,24 +508,24 @@ Name
 3Y
 Fund Size(Cr)
 WhiteOak Capital Mid Cap Fund Direct Growth
-+17.00%
++18.55%
 +24.19%
 6,792.14
 Edelweiss Mid Cap Direct Plan Growth
-+10.34%
-+23.32%
++12.19%
++23.35%
 18,693.49
 Sundaram Mid Cap Fund Direct Growth
-+10.83%
-+21.33%
++12.42%
++21.37%
 14,504.36
 Nippon India Growth Mid Cap Fund Direct Growth
-+11.19%
-+21.28%
++12.38%
++21.15%
 50,750.81
 HDFC Mid Cap Fund Direct Growth
-+11.05%
-+19.73%
++12.11%
++19.66%
 1,05,142.69
 Compare
 Fund management
@@ -542,40 +554,40 @@ Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd
 Also manages these schemes
 HDFC Flexi Cap Direct Plan Growth
 HDFC Value Fund Direct Plan Growth
-HDFC Low Duration Fund Direct Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
 HDFC Focused Fund Direct Growth
-HDFC Floating Rate Debt Fund Direct Plan Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
 HDFC Balanced Advantage Fund Direct Growth
-HDFC Dynamic Debt Fund Direct Plan Growth
-HDFC Medium Term Debt Fund Direct Growth
-HDFC Income Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
 HDFC Infrastructure Fund Direct Growth
 HDFC Corporate Bond Fund Direct Plan Growth
-HDFC Hybrid Debt Fund Direct Growth
+HDFC Conservative Hybrid Fund Direct Growth
 HDFC Mid Cap Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
-HDFC Hybrid Equity Fund Direct Plan Growth
-HDFC Short Term Debt Fund Direct Plan Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
 HDFC ELSS Tax Saver Fund Direct Plan Growth
 HDFC Large Cap Fund Direct Growth
-HDFC Credit Risk Debt Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
 HDFC Banking and PSU Debt Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Large and Mid Cap Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
 HDFC Small Cap Fund Direct Growth
 HDFC Ultra Short Term Fund Direct Growth
 HDFC Liquid Direct Plan Growth
 HDFC Overnight Fund Direct Growth
 HDFC Money Market Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC Housing Opportunities Fund Direct Growth
 HDFC Banking & Financial Services Fund Direct Growth
 HDFC Multi Cap Fund Direct Growth
 HDFC Business Cycle Fund Direct Growth
-HDFC Long Duration Debt Fund Direct Growth
+HDFC Long Term Fund Direct Growth
 HDFC MNC Fund Direct Growth
 HDFC Defence Fund Direct Growth
 HDFC Consumption Fund Direct Growth
@@ -588,7 +600,7 @@ HDFC Innovation Fund Direct Growth
 HDFC Diversified Equity All Cap Active FoF Direct Growth
 About HDFC Mid Cap Fund Direct Growth
 HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 25 Aug 2026 is ₹237.63.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹237.36.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ...Read more
 Investment Objective
@@ -638,17 +650,17 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Mid Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 What kind of returns does HDFC Mid Cap Fund Direct Growth provide?
-The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.42% since its inception.
+The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.40% since its inception.
 How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 26 Aug 2026...
+The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 27 Aug 2026...
 What is the AUM of HDFC Mid Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Mid Cap Fund Direct Growth is ₹1,05,142.69Cr as of 26 Aug 2026.
+of HDFC Mid Cap Fund Direct Growth is ₹1,05,142.69Cr as of 27 Aug 2026.
 How to Redeem HDFC Mid Cap Fund Direct Growth?
 If you want to sell your HDFC Mid Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -661,7 +673,7 @@ Lumpsum
 investment of HDFC Mid Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Mid Cap Fund Direct Growth?
-The NAV of HDFC Mid Cap Fund Direct Growth is ₹237.63 as of 25 Aug 2026.
+The NAV of HDFC Mid Cap Fund Direct Growth is ₹237.36 as of 26 Aug 2026.
 What is the PE and PB ratio of HDFC Mid Cap Fund Direct Growth?
 The
 PE ratio

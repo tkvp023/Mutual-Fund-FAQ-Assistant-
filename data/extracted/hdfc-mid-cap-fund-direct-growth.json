@@ -2,11 +2,11 @@
   "fund_name": "HDFC Mid Cap Fund Direct Growth",
   "fund_slug": "hdfc-mid-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-08-26T05:36:16.673865",
+  "scraped_at": "2026-08-27T16:09:37.203742",
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
-  "nav": 237.629,
-  "nav_date": "25-Aug-2026",
+  "nav": 237.356,
+  "nav_date": "26-Aug-2026",
   "aum_cr": 105142.6943,
   "expense_ratio": "0.74",
   "category": "Equity",
@@ -22,24 +22,24 @@
   "lock_in": "None",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
   "returns_annualised": {
-    "1d": 0.21,
-    "1w": 0.74,
-    "1m": 4.53,
-    "3m": 6.86,
-    "6m": 5.21,
-    "1y": 11.05,
-    "3y": 19.73,
-    "5y": 21.31,
-    "10y": 17.93,
-    "since_inception": 20.42
+    "1d": -0.11,
+    "1w": 0.78,
+    "1m": 4.41,
+    "3m": 6.37,
+    "6m": 4.65,
+    "1y": 12.11,
+    "3y": 19.66,
+    "5y": 21.21,
+    "10y": 17.9,
+    "since_inception": 20.4
   },
   "returns_sip": {
-    "3m": 34.81,
-    "6m": 31.86,
-    "1y": 15.92,
-    "3y": 13.99,
-    "5y": 20.12,
-    "10y": 20.36
+    "3m": 33.08,
+    "6m": 30.97,
+    "1y": 15.59,
+    "3y": 13.88,
+    "5y": 20.05,
+    "10y": 20.33
   },
   "stats": {
     "risk": "Very High",
@@ -53,10 +53,10 @@
     "cat_return_1y": 1.9589569430918827,
     "cat_return_3y": 21.621655585469462,
     "cat_return_5y": 21.52750809939988,
-    "rank_1y": 15,
+    "rank_1y": 16,
     "rank_3y": 14,
     "rank_5y": 3,
-    "rank_10y": 8
+    "rank_10y": 7
   },
   "holdings": [
     {
@@ -64,88 +64,80 @@
       "sector": "Unspecified",
       "instrument": "Repo",
       "type": "CASH",
-      "pct": 8.11,
-      "portfolio_date": "2026-06-29"
+      "pct": 6.92,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "The Federal Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 4.18,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Max Financial Services Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 4.1,
-      "portfolio_date": "2026-06-29"
+      "pct": 4.36,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "AU Small Finance Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 4.08,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.96,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Max Financial Services Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 3.72,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Balkrishna Industries Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 3.1,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Fortis Healthcare Ltd",
-      "sector": "Healthcare",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 3.07,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.37,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Ipca Laboratories Ltd",
       "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 3.05,
-      "portfolio_date": "2026-06-29"
+      "pct": 3.01,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Indian Bank",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.98,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.93,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Fortis Healthcare Ltd",
+      "sector": "Healthcare",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 2.91,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Glenmark Pharmaceuticals Ltd",
       "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.93,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.85,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Vishal Mega Mart Ltd.",
-      "sector": "Consumer Staples",
+      "name": "Coforge Ltd",
+      "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.64,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Cummins India Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.52,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.56,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Marico Ltd",
@@ -153,279 +145,303 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 2.51,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Coforge Ltd",
-      "sector": "Technology",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.27,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Hindustan Petroleum Corporation Ltd",
-      "sector": "Energy & Utilities",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.27,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Tata Communications Ltd",
-      "sector": "Technology",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.18,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Aurobindo Pharma Ltd",
-      "sector": "Healthcare",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 2.09,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Mahindra & Mahindra Financial Services Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 2.07,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.43,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Apollo Tyres Ltd",
-      "sector": "Consumer Discretionary",
+      "name": "Vishal Mega Mart Ltd.",
+      "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.79,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.3,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Alkem Laboratories Ltd",
-      "sector": "Healthcare",
+      "name": "Hindustan Petroleum Corporation Ltd",
+      "sector": "Energy & Utilities",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.75,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.26,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "AIA Engineering Ltd",
+      "name": "Cummins India Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.68,
-      "portfolio_date": "2026-06-29"
+      "pct": 2.19,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Aurobindo Pharma Ltd",
+      "sector": "Healthcare",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 2.01,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "United Spirits Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.6,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.98,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Gland Pharma Ltd",
-      "sector": "Healthcare",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.56,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Dabur India Ltd",
-      "sector": "Consumer Staples",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.56,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Jindal Steel & Power Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.55,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Union Bank of India",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.54,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "PB Fintech Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.53,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Delhivery Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.48,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Mphasis Ltd",
+      "name": "Tata Communications Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.46,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.86,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Persistent Systems Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
+      "pct": 1.81,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Alkem Laboratories Ltd",
+      "sector": "Healthcare",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.73,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Apollo Tyres Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.71,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Mphasis Ltd",
+      "sector": "Technology",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.59,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Dabur India Ltd",
+      "sector": "Consumer Staples",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.55,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Jindal Steel & Power Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.54,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "PB Fintech Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.49,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "AIA Engineering Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.48,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Union Bank of India",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.47,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Delhivery Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.45,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Gland Pharma Ltd",
+      "sector": "Healthcare",
+      "instrument": "Equity",
+      "type": "EQUITY",
       "pct": 1.44,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Bharat Forge Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.37,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Bosch Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.24,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Star Health & Allied Insurance Co. Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.2,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.35,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Karur Vysya Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.17,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Nippon Life India Asset Management Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.14,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Coromandel International Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 1.06,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.28,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Zomato Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1.05,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.24,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "The Indian Hotels Company Ltd",
+      "name": "Bosch Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 1,
-      "portfolio_date": "2026-06-29"
+      "pct": 1.22,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Star Health & Allied Insurance Co. Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.18,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Indusind Bank Ltd",
       "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
+      "pct": 1.14,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Nippon Life India Asset Management Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.1,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Coromandel International Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 1.09,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "The Indian Hotels Company Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
       "pct": 0.99,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Escorts Kubota Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.84,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Indraprastha Gas Ltd",
-      "sector": "Energy & Utilities",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.84,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.87,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Godrej Consumer Products Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.83,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Crompton Greaves Consumer Electricals Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.78,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.84,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Redington Ltd",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.78,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.84,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Timken India Ltd",
-      "sector": "Industrials",
+      "name": "ICICI Lombard General Insurance Company Ltd",
+      "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.76,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.83,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.76,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.8,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "City Union Bank Ltd",
-      "sector": "Financial",
+      "name": "Indraprastha Gas Ltd",
+      "sector": "Energy & Utilities",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.74,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Sona BLW Precision Forgings Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.74,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Crompton Greaves Consumer Electricals Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.71,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Havells India Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.7,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Dixon Technologies (India) Ltd",
+      "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.69,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Sundram Fasteners Ltd",
@@ -433,111 +449,79 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.67,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "SKF India (Industrial) Ltd",
-      "sector": "Industrials",
+      "name": "City Union Bank Ltd",
+      "sector": "Financial",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.67,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.65,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "ACC Ltd",
       "sector": "Materials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.62,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.61,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Sona BLW Precision Forgings Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.62,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Dixon Technologies (India) Ltd",
-      "sector": "Consumer Discretionary",
+      "name": "SKF India (Industrial) Ltd",
+      "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.61,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Timken India Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.58,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Gujarat Fluorochemicals Ltd",
       "sector": "Materials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.54,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.58,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Supreme Industries Ltd",
       "sector": "Materials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.52,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "KEC International Ltd",
-      "sector": "Diversified",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.47,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Arvind Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.47,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "ICICI Lombard General Insurance Company Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.45,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Vardhman Textiles Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.39,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "SKF India Ltd",
-      "sector": "Industrials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.39,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.55,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Aster DM Healthcare Ltd",
       "sector": "Healthcare",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.39,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.42,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Cholamandalam Financial Holdings Ltd",
-      "sector": "Financial",
+      "name": "KEC International Ltd",
+      "sector": "Diversified",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.37,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.4,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Arvind Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.4,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Oracle Financial Services Software Ltd",
@@ -545,119 +529,159 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.36,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Aarti Industries Ltd",
       "sector": "Materials",
       "instrument": "Equity",
       "type": "EQUITY",
+      "pct": 0.36,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Vardhman Textiles Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
       "pct": 0.35,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Cholamandalam Financial Holdings Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.33,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "SKF India Ltd",
+      "sector": "Industrials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.33,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Vesuvius India Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.33,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.3,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Mahindra CIE Automotive Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.28,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Emami Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.3,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.28,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Symphony Ltd",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.25,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Navneet Education Ltd",
-      "sector": "Consumer Discretionary",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.22,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.24,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Bharti Hexacom Ltd.",
       "sector": "Technology",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.2,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Billionbrains Garage Ventures Ltd.",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.2,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Five-Star Business Finance Ltd",
-      "sector": "Financial",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.19,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Greenlam Industries Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.16,
-      "portfolio_date": "2026-06-29"
-    },
-    {
-      "name": "Greenply Industries Ltd",
-      "sector": "Materials",
-      "instrument": "Equity",
-      "type": "EQUITY",
-      "pct": 0.16,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.21,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Colgate-Palmolive (India) Ltd",
       "sector": "Consumer Staples",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.16,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.21,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Petronet LNG Ltd",
+      "sector": "Energy & Utilities",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.2,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Five-Star Business Finance Ltd",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.2,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Billionbrains Garage Ventures Ltd.",
+      "sector": "Financial",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.19,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Navneet Education Ltd",
+      "sector": "Consumer Discretionary",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.18,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Greenlam Industries Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.15,
+      "portfolio_date": "2026-07-30"
+    },
+    {
+      "name": "Greenply Industries Ltd",
+      "sector": "Materials",
+      "instrument": "Equity",
+      "type": "EQUITY",
+      "pct": 0.15,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "LG Electronics India Ltd.",
       "sector": "Consumer Discretionary",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.15,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.14,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "KNR Constructions Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.14,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.12,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Dhanuka Agritech Ltd",
       "sector": "Materials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.11,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.1,
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Greenpanel Industries Ltd",
@@ -665,23 +689,23 @@
       "instrument": "Equity",
       "type": "EQUITY",
       "pct": 0.08,
-      "portfolio_date": "2026-06-29"
+      "portfolio_date": "2026-07-30"
     },
     {
       "name": "Jagran Prakashan Ltd",
       "sector": "Industrials",
       "instrument": "Equity",
       "type": "EQUITY",
-      "pct": 0.04,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.03,
+      "portfolio_date": "2026-07-30"
     },
     {
-      "name": "Net Payables",
+      "name": "Net Current Assets",
       "sector": "Unspecified",
-      "instrument": "Net Payables",
+      "instrument": "Net Current Assets",
       "type": "CASH",
-      "pct": -0.17,
-      "portfolio_date": "2026-06-29"
+      "pct": 0.01757707,
+      "portfolio_date": "2026-07-30"
     }
   ],
   "fund_managers": [
@@ -704,40 +728,40 @@
       "funds_managed": [
         "HDFC Flexi Cap Direct Plan Growth",
         "HDFC Value Fund Direct Plan Growth",
-        "HDFC Low Duration Fund Direct Growth",
+        "HDFC Ultra Short to Short Term Fund Direct Growth",
         "HDFC Focused Fund Direct Growth",
-        "HDFC Floating Rate Debt Fund Direct Plan Growth",
+        "HDFC Floating Interest Rates Fund Direct Plan Growth",
         "HDFC Balanced Advantage Fund Direct Growth",
-        "HDFC Dynamic Debt Fund Direct Plan Growth",
-        "HDFC Medium Term Debt Fund Direct Growth",
-        "HDFC Income Fund Direct Growth",
+        "HDFC Dynamic Term Fund Direct Plan Growth",
+        "HDFC Medium Term Fund Direct Growth",
+        "HDFC Medium to Long Term Fund Direct Growth",
         "HDFC Infrastructure Fund Direct Growth",
         "HDFC Corporate Bond Fund Direct Plan Growth",
-        "HDFC Hybrid Debt Fund Direct Growth",
+        "HDFC Conservative Hybrid Fund Direct Growth",
         "HDFC Mid Cap Fund Direct Growth",
         "HDFC Equity Savings Direct Plan Growth",
         "HDFC Multi Asset Allocation Fund Direct Growth",
-        "HDFC Hybrid Equity Fund Direct Plan Growth",
-        "HDFC Short Term Debt Fund Direct Plan Growth",
+        "HDFC Aggressive Hybrid Fund Direct Plan Growth",
+        "HDFC Short Term Fund Direct Plan Growth",
         "HDFC ELSS Tax Saver Fund Direct Plan Growth",
         "HDFC Large Cap Fund Direct Growth",
-        "HDFC Credit Risk Debt Fund Direct Growth",
+        "HDFC Credit Risk Fund Direct Growth",
         "HDFC Banking and PSU Debt Fund Direct Growth",
         "HDFC Arbitrage Fund Direct Growth",
-        "HDFC Large and Mid Cap Fund Direct Growth",
+        "HDFC Large & Mid Cap Fund Direct Growth",
         "HDFC Small Cap Fund Direct Growth",
         "HDFC Ultra Short Term Fund Direct Growth",
         "HDFC Liquid Direct Plan Growth",
         "HDFC Overnight Fund Direct Growth",
         "HDFC Money Market Fund Direct Growth",
-        "HDFC Retirement Savings Fund Equity Plan Direct Growth",
-        "HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth",
-        "HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth",
+        "HDFC Retirement Fund Equity Plan Direct Growth",
+        "HDFC Retirement Fund Hybrid Equity Plan Direct Growth",
+        "HDFC Retirement Fund Hybrid Debt Plan Direct Growth",
         "HDFC Housing Opportunities Fund Direct Growth",
         "HDFC Banking & Financial Services Fund Direct Growth",
         "HDFC Multi Cap Fund Direct Growth",
         "HDFC Business Cycle Fund Direct Growth",
-        "HDFC Long Duration Debt Fund Direct Growth",
+        "HDFC Long Term Fund Direct Growth",
         "HDFC MNC Fund Direct Growth",
         "HDFC Defence Fund Direct Growth",
         "HDFC Consumption Fund Direct Growth",
@@ -754,32 +778,32 @@
   "peers": [
     {
       "name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "return_1y": 17,
+      "return_1y": 18.55,
       "return_3y": 24.19,
       "aum_cr": 6792.14244992
     },
     {
       "name": "Edelweiss Mid Cap Direct Plan Growth",
-      "return_1y": 10.34,
-      "return_3y": 23.32,
+      "return_1y": 12.19,
+      "return_3y": 23.35,
       "aum_cr": 18693.4923
     },
     {
       "name": "Sundaram Mid Cap Fund Direct Growth",
-      "return_1y": 10.83,
-      "return_3y": 21.33,
+      "return_1y": 12.42,
+      "return_3y": 21.37,
       "aum_cr": 14504.3585905
     },
     {
       "name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "return_1y": 11.19,
-      "return_3y": 21.28,
+      "return_1y": 12.38,
+      "return_3y": 21.15,
       "aum_cr": 50750.80584713
     },
     {
       "name": "HDFC Mid Cap Fund Direct Growth",
-      "return_1y": 11.05,
-      "return_3y": 19.73,
+      "return_1y": 12.11,
+      "return_3y": 19.66,
       "aum_cr": 105142.6943
     }
   ],
@@ -800,15 +824,15 @@
     },
     {
       "question": "What kind of returns does HDFC Mid Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.42% since its inception."
+      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 20.40% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 26 Aug 2026..."
+      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 27 Aug 2026..."
     },
     {
       "question": "What is the AUM of HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,05,142.69Cr as of 26 Aug 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,05,142.69Cr as of 27 Aug 2026."
     },
     {
       "question": "How to Redeem HDFC Mid Cap Fund Direct Growth?",
@@ -820,7 +844,7 @@
     },
     {
       "question": "What is the NAV of HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Mid Cap Fund Direct Growth is ₹237.63 as of 25 Aug 2026."
+      "answer": "The NAV of HDFC Mid Cap Fund Direct Growth is ₹237.36 as of 26 Aug 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Mid Cap Fund Direct Growth?",
@@ -834,7 +858,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 21904,
+  "raw_text_length": 22075,
   "section_names": [
     "fund_house",
     "overview",
