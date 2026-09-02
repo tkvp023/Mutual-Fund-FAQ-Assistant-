@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-08-31T11:24:19.583465",
-  "end_time": "2026-08-31T11:25:21.693138",
-  "duration_seconds": 62.1,
+  "start_time": "2026-09-02T09:20:57.882205",
+  "end_time": "2026-09-02T09:21:57.700177",
+  "duration_seconds": 59.8,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -16,7 +16,7 @@
         "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
         "raw_text_length": 19257,
-        "nav_data": 49.3748,
+        "nav_data": 47.3372,
         "returns_found": 10,
         "holdings_found": 3,
         "faqs_found": 8
@@ -24,8 +24,8 @@
       {
         "fund_name": "HDFC Large Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "raw_text_length": 20666,
-        "nav_data": 1245.288,
+        "raw_text_length": 20510,
+        "nav_data": 1237.344,
         "returns_found": 10,
         "holdings_found": 48,
         "faqs_found": 8
@@ -33,8 +33,8 @@
       {
         "fund_name": "HDFC Small Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-        "raw_text_length": 22708,
-        "nav_data": 161.226,
+        "raw_text_length": 22707,
+        "nav_data": 160.972,
         "returns_found": 10,
         "holdings_found": 86,
         "faqs_found": 8
@@ -42,8 +42,8 @@
       {
         "fund_name": "HDFC Silver ETF FoF Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "raw_text_length": 19076,
-        "nav_data": 39.7713,
+        "raw_text_length": 19079,
+        "nav_data": 37.5387,
         "returns_found": 8,
         "holdings_found": 3,
         "faqs_found": 8
@@ -51,8 +51,8 @@
       {
         "fund_name": "HDFC Mid Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "raw_text_length": 22075,
-        "nav_data": 237.066,
+        "raw_text_length": 22080,
+        "nav_data": 236.391,
         "returns_found": 10,
         "holdings_found": 81,
         "faqs_found": 8
