@@ -1,7 +1,7 @@
 {
   "phase": "Phase 2: Re-Extract + Chunk",
-  "timestamp": "2026-09-13T10:03:54.417068",
-  "duration_seconds": 0.6,
+  "timestamp": "2026-09-14T10:23:25.830404",
+  "duration_seconds": 1.0,
   "documents": 5,
   "total_chunks": 128,
   "chunks_per_fund": {
