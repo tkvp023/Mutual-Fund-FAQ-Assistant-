@@ -1,6 +1,6 @@
 Fund: HDFC Large Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-Scraped: 2026-09-19T09:14:36.134876
+Scraped: 2026-09-20T09:39:32.714612
 ================================================================================
 
 HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -105,20 +105,20 @@ Historic returns
 Returns
 1 year
 ₹1,200
-₹1,174
--2.17%
+₹1,180
+-1.67%
 3 years
 ₹3,600
-₹3,697
-+2.69%
+₹3,716
++3.22%
 5 years
 ₹6,000
-₹7,385
-+23.08%
+₹7,419
++23.65%
 10 years
 ₹12,000
-₹22,451
-+87.09%
+₹22,558
++87.98%
 Holdings (50)
 Name
 Sector
@@ -346,17 +346,17 @@ Name
 10Y
 All
 Fund returns
-+8.1%
-+10.6%
-+12.2%
++8.4%
++10.7%
++12.3%
 +12.8%
 Category average (Equity Large Cap)
-+9.5%
-+9.0%
-+12.0%
-+12.7%
++9.8%
++9.1%
++12.1%
++12.8%
 Rank (Equity Large Cap)
-43
+45
 16
 14
 --
@@ -528,17 +528,17 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 What kind of returns does HDFC Large Cap Fund Direct Growth provide?
-The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.81% since its inception.
+The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.85% since its inception.
 How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 19 Sep 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.03% as of 20 Sep 2026...
 What is the AUM of HDFC Large Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Large Cap Fund Direct Growth is ₹39,933.37Cr as of 19 Sep 2026.
+of HDFC Large Cap Fund Direct Growth is ₹39,933.37Cr as of 20 Sep 2026.
 How to Redeem HDFC Large Cap Fund Direct Growth?
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
