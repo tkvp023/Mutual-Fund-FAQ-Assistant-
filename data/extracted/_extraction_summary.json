@@ -1,5 +1,5 @@
 {
-  "extraction_timestamp": "2026-09-20T09:39:32.886163",
+  "extraction_timestamp": "2026-09-21T10:27:57.368559",
   "total_documents": 5,
   "documents_summary": [
     {
@@ -21,7 +21,7 @@
         "3y": 45.95,
         "since_inception": 41.85
       },
-      "raw_text_length": 19208
+      "raw_text_length": 19211
     },
     {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
@@ -67,7 +67,7 @@
         "10y": 16.23,
         "since_inception": 11.24
       },
-      "raw_text_length": 19391
+      "raw_text_length": 19394
     },
     {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
