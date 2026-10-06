@@ -1,6 +1,6 @@
 Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth
 Source: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-Scraped: 2026-10-05T12:06:37.249248
+Scraped: 2026-10-06T11:51:33.093564
 ================================================================================
 
 HDFC Gold ETF Fund of Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
@@ -76,7 +76,7 @@ Commodities
 Gold
 High Risk
 3Y annualised
--0.14%
++0.11%
 1D
 1M
 6M
@@ -84,8 +84,8 @@ High Risk
 3Y
 5Y
 All
-NAV: 01 Oct '26
-₹45.82
+NAV: 05 Oct '26
+₹45.87
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -109,16 +109,16 @@ Returns
 +2.92%
 3 years
 ₹3,600
-₹5,719
-+58.86%
+₹5,706
++58.50%
 5 years
 ₹6,000
-₹12,088
-+101.47%
+₹12,066
++101.10%
 10 years
 ₹12,000
-₹35,315
-+194.29%
+₹35,277
++193.98%
 Holdings (3)
 Name
 Sector
@@ -157,9 +157,9 @@ Name
 10Y
 All
 Fund returns
-+35.0%
++35.6%
 +24.7%
-+15.6%
++15.9%
 +10.9%
 Category average (Commodities Gold)
 +36.6%
@@ -167,6 +167,7 @@ Category average (Commodities Gold)
 +16.6%
 +12.8%
 Rank (Commodities Gold)
+10
 --
 Understand terms
 Expense ratio
@@ -239,6 +240,7 @@ HDFC Nifty India Consumption Index Fund Direct Growth
 HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 NM
 Nandita Menezes
 Mar 2025
@@ -282,9 +284,10 @@ HDFC Gold Silver Passive FoF Direct Growth
 HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
+HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About HDFC Gold ETF Fund of Fund Direct Plan Growth
 HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹45.82.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 05 Oct 2026 is ₹45.87.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ...Read more
 Investment Objective
@@ -337,11 +340,11 @@ The term
 Expense Ratio
 used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 05 Oct 2026...
+The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 06 Oct 2026...
 What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,359.15Cr as of 05 Oct 2026.
+of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,359.15Cr as of 06 Oct 2026.
 How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?
 If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -354,7 +357,7 @@ Lumpsum
 investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?
-The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹45.82 as of 01 Oct 2026.
+The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹45.87 as of 05 Oct 2026.
 What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?
 The
 PE ratio

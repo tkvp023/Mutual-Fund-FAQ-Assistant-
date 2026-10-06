@@ -2,11 +2,11 @@
   "fund_name": "HDFC Mid Cap Fund Direct Growth",
   "fund_slug": "hdfc-mid-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-10-05T12:06:37.624182",
+  "scraped_at": "2026-10-06T11:51:33.272774",
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
-  "nav": 219.441,
-  "nav_date": "01-Oct-2026",
+  "nav": 220.493,
+  "nav_date": "05-Oct-2026",
   "aum_cr": 108324.5467,
   "expense_ratio": "0.76",
   "category": "Equity",
@@ -22,25 +22,25 @@
   "lock_in": "None",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
   "returns_annualised": {
-    "1d": -0.52,
-    "1w": -3.26,
-    "1m": -7.17,
-    "3m": -3.41,
-    "6m": 8.23,
-    "1y": 3.29,
-    "3y": 15.11,
-    "5y": 17.5,
-    "10y": 16.72,
-    "since_inception": 19.56
+    "1d": 0.48,
+    "1w": -1.2,
+    "1m": -6.01,
+    "3m": -3.96,
+    "6m": 9.02,
+    "1y": 3.19,
+    "3y": 15.69,
+    "5y": 17.23,
+    "10y": 16.4,
+    "since_inception": 19.58
   },
   "returns_sip": {
-    "3m": -45.95,
-    "6m": -13.15,
-    "1y": -2.92,
-    "3y": 6.81,
-    "5y": 16.03,
-    "10y": 18.66,
-    "since_inception": 18.94
+    "3m": -38.55,
+    "6m": -10.56,
+    "1y": -1.84,
+    "3y": 7.09,
+    "5y": 16.16,
+    "10y": 18.71,
+    "since_inception": 18.97
   },
   "stats": {
     "risk": "Very High",
@@ -54,10 +54,10 @@
     "cat_return_1y": 3.72,
     "cat_return_3y": 14.33,
     "cat_return_5y": 14.5,
-    "rank_1y": 23,
-    "rank_3y": 16,
+    "rank_1y": 22,
+    "rank_3y": 17,
     "rank_5y": 4,
-    "rank_10y": 7
+    "rank_10y": 8
   },
   "holdings": [
     {
@@ -777,33 +777,33 @@
   ],
   "peers": [
     {
-      "name": "Invesco India Mid Cap Fund Direct Growth",
-      "return_1y": 6.63,
-      "return_3y": 21.81,
-      "aum_cr": 15905.311
-    },
-    {
       "name": "HSBC Midcap Fund Direct Growth",
-      "return_1y": 15.93,
-      "return_3y": 21.79,
+      "return_1y": 16.53,
+      "return_3y": 22.71,
       "aum_cr": 17188.237
     },
     {
+      "name": "Invesco India Mid Cap Fund Direct Growth",
+      "return_1y": 6.51,
+      "return_3y": 22,
+      "aum_cr": 15905.311
+    },
+    {
       "name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "return_1y": 10.74,
-      "return_3y": 20.04,
+      "return_1y": 10.59,
+      "return_3y": 20.55,
       "aum_cr": 7485.3680556
     },
     {
       "name": "Edelweiss Mid Cap Direct Plan Growth",
-      "return_1y": 4.47,
-      "return_3y": 18.94,
+      "return_1y": 4.3,
+      "return_3y": 19.65,
       "aum_cr": 19890.9984
     },
     {
       "name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "return_1y": 4.45,
-      "return_3y": 16.46,
+      "return_1y": 4.65,
+      "return_3y": 17.12,
       "aum_cr": 52270.5519
     }
   ],
@@ -825,15 +825,15 @@
     },
     {
       "question": "What kind of returns does HDFC Mid Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.56% since its inception."
+      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.58% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.76% as of 05 Oct 2026..."
+      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.76% as of 06 Oct 2026..."
     },
     {
       "question": "What is the AUM of HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,08,324.54Cr as of 05 Oct 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,08,324.54Cr as of 06 Oct 2026."
     },
     {
       "question": "How to Redeem HDFC Mid Cap Fund Direct Growth?",
@@ -845,7 +845,7 @@
     },
     {
       "question": "What is the NAV of HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The NAV of HDFC Mid Cap Fund Direct Growth is ₹219.44 as of 01 Oct 2026."
+      "answer": "The NAV of HDFC Mid Cap Fund Direct Growth is ₹220.49 as of 05 Oct 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Mid Cap Fund Direct Growth?",
