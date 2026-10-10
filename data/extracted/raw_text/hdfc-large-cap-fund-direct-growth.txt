@@ -1,6 +1,6 @@
 Fund: HDFC Large Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-Scraped: 2026-10-09T11:43:07.775197
+Scraped: 2026-10-10T11:00:21.693816
 ================================================================================
 
 HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -76,7 +76,7 @@ Equity
 Large Cap
 Very High Risk
 3Y annualised
--1.78%
++1.08%
 1D
 1M
 6M
@@ -84,12 +84,12 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 08 Oct '26
-₹1,140.67
+NAV: 09 Oct '26
+₹1,152.95
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹39,933.36 Cr
+₹37,293.95 Cr
 Expense ratio
 1.04%
 Rating
@@ -119,7 +119,7 @@ Returns
 ₹12,000
 ₹21,270
 +77.25%
-Holdings (50)
+Holdings (49)
 Name
 Sector
 Instruments
@@ -127,163 +127,163 @@ Assets
 ICICI Bank Ltd
 Financial
 Equity
-10.05%
+9.79%
 HDFC Bank Ltd
 Financial
 Equity
-6.88%
+7.36%
 Bharti Airtel Ltd
 Technology
 Equity
-6.23%
+6.46%
 Kotak Mahindra Bank Ltd
 Financial
 Equity
-5.71%
+6.08%
 Titan Company Ltd
 Consumer Discretionary
 Equity
-5.27%
+5.07%
 Reliance Industries Ltd
 Energy & Utilities
 Equity
-4.78%
+4.76%
 Torrent Pharmaceuticals Ltd
 Healthcare
 Equity
-4.04%
+4.09%
 Axis Bank Ltd
 Financial
 Equity
-3.49%
+3.52%
 Bajaj Finserv Ltd
 Financial
 Equity
-3.33%
+3.05%
 Bajaj Auto Ltd
 Consumer Discretionary
 Equity
-2.93%
-Infosys Ltd
-Technology
-Equity
-2.76%
-Lupin Ltd
-Healthcare
-Equity
-2.53%
+2.81%
 Zomato Ltd
 Technology
 Equity
-2.49%
+2.60%
+Infosys Ltd
+Technology
+Equity
+2.59%
+Lupin Ltd
+Healthcare
+Equity
+2.51%
 Cholamandalam Investment & Finance Company Ltd
 Financial
 Equity
-2.44%
+2.28%
 Ambuja Cements Ltd
 Materials
 Equity
 2.24%
-Tata Motors Ltd
-Industrials
-Equity
-2.02%
-Larsen & Toubro Ltd
-Industrials
-Equity
-1.99%
 Interglobe Aviation Ltd
 Industrials
 Equity
-1.97%
-State Bank of India
-Financial
+2.00%
+Larsen & Toubro Ltd
+Industrials
 Equity
-1.89%
+1.98%
+Tata Motors Ltd
+Industrials
+Equity
+1.94%
 NTPC Ltd
 Energy & Utilities
+Equity
+1.93%
+Mankind Pharma Ltd.
+Healthcare
+Equity
+1.84%
+State Bank of India
+Financial
 Equity
 1.83%
 United Spirits Ltd
 Consumer Staples
 Equity
-1.78%
+1.73%
 Max Healthcare Institute Ltd
 Healthcare
 Equity
-1.72%
-Mankind Pharma Ltd.
-Healthcare
-Equity
-1.66%
-Indusind Bank Ltd
-Financial
-Equity
-1.57%
+1.65%
 ICICI Prudential Asset Management Company Ltd.
 Financial
 Equity
-1.43%
+1.57%
+Indusind Bank Ltd
+Financial
+Equity
+1.49%
 Vishal Mega Mart Ltd.
 Consumer Staples
 Equity
-1.37%
-Havells India Ltd
-Consumer Discretionary
-Equity
-1.35%
+1.33%
 Tata Consumer Products Ltd
 Consumer Staples
 Equity
-1.31%
+1.29%
 Swiggy Ltd.
 Technology
 Equity
-1.30%
+1.24%
 Hyundai Motor India Ltd.
 Consumer Discretionary
 Equity
-1.21%
+1.19%
 Repo
 Unspecified
 Repo
-1.04%
-Eicher Motors Ltd
+1.19%
+Havells India Ltd
 Consumer Discretionary
 Equity
-1.03%
-SRF Ltd
-Materials
-Equity
-0.89%
+1.18%
 Adani Ports and Special Economic Zone Ltd
 Industrials
 Equity
-0.87%
+1.05%
+Eicher Motors Ltd
+Consumer Discretionary
+Equity
+0.99%
+SRF Ltd
+Materials
+Equity
+0.92%
 TATA CAPITAL LIMITED EQ
 Financial
 Equity
-0.75%
-SBI Funds Management Ltd
-Financial
-Equity
-0.67%
+0.72%
 Dabur India Ltd
 Consumer Staples
 Equity
-0.66%
-Mahindra & Mahindra Ltd
-Consumer Discretionary
+0.70%
+SBI Funds Management Ltd
+Financial
 Equity
-0.65%
+0.64%
 CG Power & Industrial Solutions Ltd
 Industrials
+Equity
+0.62%
+Mahindra & Mahindra Ltd
+Consumer Discretionary
 Equity
 0.62%
 GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100
 Entities
 GOI Securities
-0.48%
+0.51%
 Bharat Electronics Ltd
 Industrials
 Equity
@@ -295,11 +295,11 @@ Equity
 Tata Motors Ltd
 Consumer Discretionary
 Equity
-0.41%
+0.40%
 DLF Ltd
 Real Estate
 Equity
-0.37%
+0.38%
 Cummins India Ltd
 Industrials
 Equity
@@ -308,22 +308,18 @@ Billionbrains Garage Ventures Ltd.
 Financial
 Equity
 0.28%
-Maruti Suzuki India Ltd
-Consumer Discretionary
+National Stock Exchange Of India Ltd Equity
+Financial
 Equity
-0.24%
+0.25%
 Hindalco Industries Ltd
 Materials
 Equity
 0.23%
-SBI Life Insurance Company Ltd
-Financial
-Equity
-0.17%
 Net Payables
 Unspecified
 Net Payables
--0.10%
+-0.07%
 See All
 Minimum investments
 Min. for 1st investment
@@ -351,10 +347,10 @@ Fund returns
 +11.5%
 +12.4%
 Category average (Equity Large Cap)
-+9.1%
-+8.4%
-+11.8%
-+12.4%
++8.7%
++7.7%
++11.5%
++12.3%
 Rank (Equity Large Cap)
 44
 19
@@ -400,15 +396,15 @@ Bandhan Large Cap Fund Direct Growth
 Nippon India Large Cap Fund Direct Growth
 -8.14%
 +9.14%
-54,133.66
+51,296.06
 ICICI Prudential Large Cap Fund Direct Growth
 -8.86%
 +9.00%
-80,206.20
+76,352.23
 HDFC Large Cap Fund Direct Growth
 -7.54%
 +7.16%
-39,933.36
+37,293.95
 Compare
 Fund management
 RB
@@ -478,7 +474,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About HDFC Large Cap Fund Direct Growth
 HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,8
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 08 Oct 2026 is ₹1,140.67.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹1,152.95.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
@@ -534,11 +530,11 @@ The term
 Expense Ratio
 used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.04% as of 09 Oct 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.04% as of 10 Oct 2026...
 What is the AUM of HDFC Large Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Large Cap Fund Direct Growth is ₹39,933.36Cr as of 09 Oct 2026.
+of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 10 Oct 2026.
 How to Redeem HDFC Large Cap Fund Direct Growth?
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -551,7 +547,7 @@ Lumpsum
 investment of HDFC Large Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Large Cap Fund Direct Growth?
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,140.67 as of 08 Oct 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,152.95 as of 09 Oct 2026.
 What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 The
 PE ratio
