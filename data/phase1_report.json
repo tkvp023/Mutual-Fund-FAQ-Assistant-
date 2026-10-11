@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-10-10T10:59:25.054977",
-  "end_time": "2026-10-10T11:00:21.351492",
-  "duration_seconds": 56.3,
+  "start_time": "2026-10-11T11:16:19.658998",
+  "end_time": "2026-10-11T11:17:25.075915",
+  "duration_seconds": 65.4,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -15,7 +15,7 @@
       {
         "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-        "raw_text_length": 19565,
+        "raw_text_length": 19566,
         "nav_data": 46.2688,
         "returns_found": 10,
         "holdings_found": 3,
@@ -42,7 +42,7 @@
       {
         "fund_name": "HDFC Silver ETF FoF Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "raw_text_length": 19380,
+        "raw_text_length": 19382,
         "nav_data": 36.1739,
         "returns_found": 8,
         "holdings_found": 3,
@@ -51,7 +51,7 @@
       {
         "fund_name": "HDFC Mid Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "raw_text_length": 22028,
+        "raw_text_length": 22029,
         "nav_data": 219.816,
         "returns_found": 10,
         "holdings_found": 81,
