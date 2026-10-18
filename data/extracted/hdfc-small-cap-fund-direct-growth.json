@@ -2,7 +2,7 @@
   "fund_name": "HDFC Small Cap Fund Direct Growth",
   "fund_slug": "hdfc-small-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-  "scraped_at": "2026-10-17T09:04:01.034218",
+  "scraped_at": "2026-10-18T09:23:27.401215",
   "isin": "INF179KA1RW5",
   "scheme_code": "130503",
   "nav": 155.056,
@@ -27,20 +27,20 @@
     "1m": -1.88,
     "3m": -3.5,
     "6m": 2.79,
-    "1y": -3.71,
-    "3y": 9.22,
+    "1y": -4.02,
+    "3y": 9.21,
     "5y": 12.71,
     "10y": 16.95,
-    "since_inception": 17.95
+    "since_inception": 17.94
   },
   "returns_sip": {
-    "3m": -22.46,
-    "6m": -3.86,
-    "1y": -0.13,
+    "3m": -21.95,
+    "6m": -3.78,
+    "1y": -0.11,
     "3y": 3.11,
-    "5y": 11.79,
-    "10y": 17.35,
-    "since_inception": 17.86
+    "5y": 11.78,
+    "10y": 17.34,
+    "since_inception": 17.85
   },
   "stats": {
     "risk": "Very High",
@@ -51,13 +51,13 @@
     "standard_deviation": 17.61,
     "sortino_ratio": 0.45,
     "mean_return": 11.08,
-    "cat_return_1y": 8.28,
+    "cat_return_1y": 7.94,
     "cat_return_3y": 14.46,
-    "cat_return_5y": 14.29,
+    "cat_return_5y": 14.3,
     "rank_1y": 46,
     "rank_3y": 34,
     "rank_5y": 17,
-    "rank_10y": 6
+    "rank_10y": 4
   },
   "holdings": [
     {
@@ -826,32 +826,32 @@
   "peers": [
     {
       "name": "Bandhan Small Cap Fund Direct Growth",
-      "return_1y": 10.2,
-      "return_3y": 22.63,
+      "return_1y": 9.98,
+      "return_3y": 22.67,
       "aum_cr": 35855.6047
     },
     {
       "name": "ITI Small Cap Fund Direct Growth",
-      "return_1y": 15.95,
-      "return_3y": 21.79,
+      "return_1y": 16.07,
+      "return_3y": 21.91,
       "aum_cr": 3666.31531703
     },
     {
       "name": "Invesco India Small Cap Fund Direct Growth",
-      "return_1y": 9.86,
+      "return_1y": 9.02,
       "return_3y": 20.5,
       "aum_cr": 16130.6449
     },
     {
       "name": "Sundaram Small Cap Fund Direct Growth",
-      "return_1y": 11.37,
-      "return_3y": 14.92,
+      "return_1y": 10.23,
+      "return_3y": 14.91,
       "aum_cr": 4106.98586013
     },
     {
       "name": "Nippon India Small Cap Fund Direct Growth",
-      "return_1y": 7.12,
-      "return_3y": 13.77,
+      "return_1y": 6.32,
+      "return_3y": 13.68,
       "aum_cr": 80905.5508
     }
   ],
@@ -872,15 +872,15 @@
     },
     {
       "question": "What kind of returns does HDFC Small Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.95% since its inception."
+      "answer": "The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.94% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.79% as of 17 Oct 2026..."
+      "answer": "The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.79% as of 18 Oct 2026..."
     },
     {
       "question": "What is the AUM of HDFC Small Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.80Cr as of 17 Oct 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.80Cr as of 18 Oct 2026."
     },
     {
       "question": "How to Redeem HDFC Small Cap Fund Direct Growth?",
@@ -906,7 +906,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 22695,
+  "raw_text_length": 22694,
   "section_names": [
     "fund_house",
     "overview",
