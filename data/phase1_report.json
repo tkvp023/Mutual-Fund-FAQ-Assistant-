@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-10-20T09:51:02.177414",
-  "end_time": "2026-10-20T09:52:15.069106",
-  "duration_seconds": 72.9,
+  "start_time": "2026-10-21T09:52:36.275235",
+  "end_time": "2026-10-21T09:53:25.545804",
+  "duration_seconds": 49.3,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -15,7 +15,7 @@
       {
         "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-        "raw_text_length": 19345,
+        "raw_text_length": 19308,
         "nav_data": 45.2043,
         "returns_found": 10,
         "holdings_found": 3,
