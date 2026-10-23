@@ -2,11 +2,11 @@
   "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-10-22T09:54:02.546847",
+  "scraped_at": "2026-10-23T09:50:27.221318",
   "isin": "INF179K01VX0",
   "scheme_code": "119132",
-  "nav": 44.5504,
-  "nav_date": "21-Oct-2026",
+  "nav": 44.2472,
+  "nav_date": "22-Oct-2026",
   "aum_cr": 12013.27,
   "expense_ratio": "0.2",
   "category": "Commodities",
@@ -22,25 +22,25 @@
   "lock_in": "None",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "returns_annualised": {
-    "1d": -1.45,
-    "1w": -1.44,
-    "1m": -5.96,
-    "3m": 0.28,
-    "6m": -5.68,
-    "1y": 11.88,
-    "3y": 31.76,
-    "5y": 23.46,
-    "10y": 15.72,
-    "since_inception": 10.62
+    "1d": -0.68,
+    "1w": -2.09,
+    "1m": -6.19,
+    "3m": -1.48,
+    "6m": -6.14,
+    "1y": 11.06,
+    "3y": 31.42,
+    "5y": 23.18,
+    "10y": 15.64,
+    "since_inception": 10.56
   },
   "returns_sip": {
-    "3m": -17.97,
-    "6m": -10.24,
-    "1y": 0.05,
-    "3y": 30.91,
-    "5y": 27.54,
-    "10y": 20.04,
-    "since_inception": 16.14
+    "3m": -21.63,
+    "6m": -12.45,
+    "1y": -1.28,
+    "3y": 30.33,
+    "5y": 27.23,
+    "10y": 19.91,
+    "since_inception": 16.05
   },
   "stats": {
     "risk": "High",
@@ -54,9 +54,9 @@
     "cat_return_1y": 13.9,
     "cat_return_3y": 34.7,
     "cat_return_5y": 24.91,
-    "rank_1y": 15,
-    "rank_3y": 4,
-    "rank_5y": 5,
+    "rank_1y": 16,
+    "rank_3y": 5,
+    "rank_5y": 6,
     "rank_10y": 4
   },
   "holdings": [
@@ -190,15 +190,15 @@
     },
     {
       "question": "What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?",
-      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.62% since its inception."
+      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.56% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 22 Oct 2026..."
+      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 23 Oct 2026..."
     },
     {
       "question": "What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 22 Oct 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 23 Oct 2026."
     },
     {
       "question": "How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -210,7 +210,7 @@
     },
     {
       "question": "What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.55 as of 21 Oct 2026."
+      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.25 as of 22 Oct 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -224,7 +224,7 @@
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
   },
-  "raw_text_length": 19308,
+  "raw_text_length": 19264,
   "section_names": [
     "fund_house",
     "overview",
