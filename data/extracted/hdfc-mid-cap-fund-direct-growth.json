@@ -2,7 +2,7 @@
   "fund_name": "HDFC Mid Cap Fund Direct Growth",
   "fund_slug": "hdfc-mid-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-10-24T09:22:12.121862",
+  "scraped_at": "2026-10-25T09:38:10.556777",
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
   "nav": 213.423,
@@ -27,20 +27,20 @@
     "1m": -7.64,
     "3m": -5.94,
     "6m": -3.26,
-    "1y": -1.61,
-    "3y": 14.94,
-    "5y": 16.83,
-    "10y": 16.2,
-    "since_inception": 19.35
+    "1y": -3.17,
+    "3y": 15.26,
+    "5y": 16.49,
+    "10y": 16.03,
+    "since_inception": 19.22
   },
   "returns_sip": {
-    "3m": -36.56,
-    "6m": -14.93,
-    "1y": -5.14,
-    "3y": 5.63,
-    "5y": 15.12,
-    "10y": 18.22,
-    "since_inception": 18.64
+    "3m": -42.22,
+    "6m": -19.29,
+    "1y": -7.73,
+    "3y": 4.65,
+    "5y": 14.52,
+    "10y": 17.95,
+    "since_inception": 18.45
   },
   "stats": {
     "risk": "Very High",
@@ -51,12 +51,12 @@
     "standard_deviation": 16.13,
     "sortino_ratio": 0.77,
     "mean_return": 15.65,
-    "cat_return_1y": -2.62,
-    "cat_return_3y": 13.39,
-    "cat_return_5y": 13.33,
-    "rank_1y": 14,
+    "cat_return_1y": -4.55,
+    "cat_return_3y": 13.55,
+    "cat_return_5y": 12.87,
+    "rank_1y": 10,
     "rank_3y": 12,
-    "rank_5y": 3,
+    "rank_5y": 2,
     "rank_10y": 6
   },
   "holdings": [
@@ -778,32 +778,32 @@
   "peers": [
     {
       "name": "Invesco India Mid Cap Fund Direct Growth",
-      "return_1y": -2.24,
-      "return_3y": 20.27,
+      "return_1y": -4.01,
+      "return_3y": 20.34,
       "aum_cr": 15748.83
     },
     {
       "name": "HSBC Midcap Fund Direct Growth",
-      "return_1y": 7.51,
-      "return_3y": 20.15,
+      "return_1y": 6.26,
+      "return_3y": 20.19,
       "aum_cr": 16799.59
     },
     {
       "name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "return_1y": 3.44,
-      "return_3y": 19.02,
+      "return_1y": 1.49,
+      "return_3y": 19.16,
       "aum_cr": 8399.71
     },
     {
       "name": "Edelweiss Mid Cap Direct Plan Growth",
-      "return_1y": -1.82,
-      "return_3y": 18.16,
+      "return_1y": -3.68,
+      "return_3y": 18.17,
       "aum_cr": 19230.16
     },
     {
       "name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "return_1y": -1.5,
-      "return_3y": 15.46,
+      "return_1y": -3.33,
+      "return_3y": 15.63,
       "aum_cr": 50176.01
     }
   ],
@@ -825,15 +825,15 @@
     },
     {
       "question": "What kind of returns does HDFC Mid Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.35% since its inception."
+      "answer": "The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.22% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 24 Oct 2026..."
+      "answer": "The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 25 Oct 2026..."
     },
     {
       "question": "What is the AUM of HDFC Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 24 Oct 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 25 Oct 2026."
     },
     {
       "question": "How to Redeem HDFC Mid Cap Fund Direct Growth?",
