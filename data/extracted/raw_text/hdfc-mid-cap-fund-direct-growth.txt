@@ -1,6 +1,6 @@
 Fund: HDFC Mid Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
-Scraped: 2026-10-26T10:50:57.598579
+Scraped: 2026-10-27T10:16:53.124668
 ================================================================================
 
 HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -76,7 +76,7 @@ Equity
 Mid Cap
 Very High Risk
 3Y annualised
--1.42%
++0.57%
 1D
 1M
 6M
@@ -84,8 +84,8 @@ Very High Risk
 3Y
 5Y
 All
-NAV: 23 Oct '26
-₹213.42
+NAV: 26 Oct '26
+₹214.64
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -105,20 +105,20 @@ Historic returns
 Returns
 1 year
 ₹1,200
-₹1,157
--3.58%
+₹1,163
+-3.08%
 3 years
 ₹3,600
-₹3,850
-+6.94%
+₹3,869
++7.47%
 5 years
 ₹6,000
-₹8,535
-+42.25%
+₹8,573
++42.88%
 10 years
 ₹12,000
-₹30,404
-+153.37%
+₹30,533
++154.44%
 Holdings (81)
 Name
 Sector
@@ -470,10 +470,10 @@ Name
 10Y
 All
 Fund returns
-+15.3%
++16.1%
 +16.5%
-+16.0%
-+19.2%
++16.2%
++19.3%
 Category average (Equity Mid Cap)
 +13.6%
 +12.9%
@@ -507,25 +507,25 @@ Name
 1Y
 3Y
 Fund Size(Cr)
-Invesco India Mid Cap Fund Direct Growth
--4.01%
-+20.34%
-15,748.83
 HSBC Midcap Fund Direct Growth
-+6.26%
-+20.19%
++8.80%
++21.50%
 16,799.59
+Invesco India Mid Cap Fund Direct Growth
+-2.41%
++21.45%
+15,748.83
 WhiteOak Capital Mid Cap Fund Direct Growth
-+1.49%
-+19.16%
++3.23%
++20.52%
 8,399.71
 Edelweiss Mid Cap Direct Plan Growth
--3.68%
-+18.17%
+-2.48%
++19.04%
 19,230.16
 Nippon India Growth Mid Cap Fund Direct Growth
--3.33%
-+15.63%
+-2.01%
++16.62%
 50,176.01
 Compare
 Fund management
@@ -599,7 +599,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About HDFC Mid Cap Fund Direct Growth
 HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 23 Oct 2026 is ₹213.42.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 26 Oct 2026 is ₹214.64.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ...Read more
 Investment Objective
@@ -649,17 +649,17 @@ and take a few minutes to complete
 Once you are done with that, you can start investing in HDFC Mid Cap Fund Direct Growth as SIP or lumpsum as per your
 investment objective and risk tolerance
 What kind of returns does HDFC Mid Cap Fund Direct Growth provide?
-The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.22% since its inception.
+The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.26% since its inception.
 How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?
 The term
 Expense Ratio
 used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 26 Oct 2026...
+The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 27 Oct 2026...
 What is the AUM of HDFC Mid Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 26 Oct 2026.
+of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 27 Oct 2026.
 How to Redeem HDFC Mid Cap Fund Direct Growth?
 If you want to sell your HDFC Mid Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -672,7 +672,7 @@ Lumpsum
 investment of HDFC Mid Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Mid Cap Fund Direct Growth?
-The NAV of HDFC Mid Cap Fund Direct Growth is ₹213.42 as of 23 Oct 2026.
+The NAV of HDFC Mid Cap Fund Direct Growth is ₹214.64 as of 26 Oct 2026.
 What is the PE and PB ratio of HDFC Mid Cap Fund Direct Growth?
 The
 PE ratio
