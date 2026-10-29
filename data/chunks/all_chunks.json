@@ -1,991 +1,11 @@
 [
   {
-    "content": "Fund: HDFC Large Cap Fund Direct Growth\nCategory: Equity > Large Cap\nNAV: ₹1148.345 (as of 27-Oct-2026)\nAUM: ₹37,293.95 Cr\nExpense Ratio: 1.02%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY 100 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01YV8",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "overview",
-      "chunk_type": "overview_card",
-      "chunk_index": 0
-    }
-  },
-  {
-    "content": "About HDFC Large Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.\nStrengths: Lower expense ratio: 1.02%; Lower base expense ratio: 0.84%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "about_fund",
-      "chunk_type": "about",
-      "chunk_index": 1
-    }
-  },
-  {
-    "content": "Returns for HDFC Large Cap Fund Direct Growth:\n  1M: | Annualised -3.43%\n  3M: | Annualised -6.61% | SIP XIRR -31.77%\n  6M: | Annualised -4.14% | SIP XIRR -15.64%\n  1Y: | Annualised -9.39% | SIP XIRR -10.79%\n  3Y: | Annualised +8.24% | SIP XIRR -1.34%\n  5Y: | Annualised +8.52% | SIP XIRR +6.44%\n  10Y: | Annualised +11.70% | SIP XIRR +11.21%\n  Since Inception: | Annualised +12.37% | SIP XIRR +11.92%\nVs Category:\n  Category avg 1Y: -9.14%\n  Category avg 3Y: +9.56%\n  Category avg 5Y: +7.62%\nCategory Ranking:\n  Rank 1Y: #55 in Large Cap\n  Rank 3Y: #50 in Large Cap\n  Rank 5Y: #22 in Large Cap\n  Rank 10Y: #15 in Large Cap",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "returns",
-      "chunk_type": "returns_table",
-      "chunk_index": 2
-    }
-  },
-  {
-    "content": "Exit Load & Tax for HDFC Large Cap Fund Direct Growth\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1% if redeemed within 1 year\nExit load of 1% if redeemed within 18 months\nExit load of 1% if redeemed within 1 year\nExit load, stamp duty and tax\nExit load of 1% if redeemed within 1 year\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "exit_load_tax",
-      "chunk_type": "exit_load_tax",
-      "chunk_index": 3
-    }
-  },
-  {
-    "content": "Investment Details for HDFC Large Cap Fund Direct Growth\nMinimum SIP: ₹100\nMinimum Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nLock-in: None",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "investment_info",
-      "chunk_type": "investment_info",
-      "chunk_index": 4
-    }
-  },
-  {
-    "content": "Performance & Rankings for HDFC Large Cap Fund Direct Growth\n  1Y: Fund -9.39% | Category avg -9.14%\n  3Y: Fund +8.24% | Category avg +9.56%\n  5Y: Fund +8.52% | Category avg +7.62%\n  Rank 1Y: #55 in Large Cap\n  Rank 3Y: #50 in Large Cap\n  Rank 5Y: #22 in Large Cap\n  Rank 10Y: #15 in Large Cap\nSharpe Ratio: 0.1900\nAlpha: 0.0300\nBeta: 0.9500",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "performance_ranking",
-      "chunk_type": "performance_ranking",
-      "chunk_index": 5
-    }
-  },
-  {
-    "content": "Peer Comparison — HDFC Large Cap Fund Direct Growth vs Similar Funds (Large Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Large Cap Fund Direct Growth           -3.88%  +13.66%    ₹1,925.14\n  Bandhan Large Cap Fund Direct Growth                 -6.61%  +12.65%    ₹2,097.65\n  Nippon India Large Cap Fund Direct Growth            -9.80%  +10.64%   ₹51,296.06\n  ICICI Prudential Large Cap Fund Direct Growth       -10.76%  +10.13%   ₹76,352.23\n  HDFC Large Cap Fund Direct Growth                    -9.39%   +8.24%   ₹37,293.95",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "peer_comparison",
-      "chunk_type": "peer_comparison",
-      "chunk_index": 6
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  ICICI Bank Ltd (Equity) — 9.79%\n  HDFC Bank Ltd (Equity) — 7.36%\n  Kotak Mahindra Bank Ltd (Equity) — 6.08%\n  Axis Bank Ltd (Equity) — 3.52%\n  Bajaj Finserv Ltd (Equity) — 3.05%\n  Cholamandalam Investment & Finance Company Ltd (Equity) — 2.28%\n  State Bank of India (Equity) — 1.83%\n  ICICI Prudential Asset Management Company Ltd. (Equity) — 1.57%\n  Indusind Bank Ltd (Equity) — 1.49%\n  TATA CAPITAL LIMITED EQ (Equity) — 0.72%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 7,
-      "holdings_sector": "Financial"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  SBI Funds Management Ltd (Equity) — 0.64%\n  Life Insurance Corporation of India (Equity) — 0.41%\n  Billionbrains Garage Ventures Ltd. (Equity) — 0.28%\n  National Stock Exchange Of India Ltd Equity (Equity) — 0.25%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 8,
-      "holdings_sector": "Financial"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Technology Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Bharti Airtel Ltd (Equity) — 6.46%\n  Zomato Ltd (Equity) — 2.60%\n  Infosys Ltd (Equity) — 2.59%\n  Swiggy Ltd. (Equity) — 1.24%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 9,
-      "holdings_sector": "Technology"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Titan Company Ltd (Equity) — 5.07%\n  Bajaj Auto Ltd (Equity) — 2.81%\n  Hyundai Motor India Ltd. (Equity) — 1.19%\n  Havells India Ltd (Equity) — 1.18%\n  Eicher Motors Ltd (Equity) — 0.99%\n  Mahindra & Mahindra Ltd (Equity) — 0.62%\n  Tata Motors Ltd (Equity) — 0.40%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 10,
-      "holdings_sector": "Consumer Discretionary"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Energy & Utilities Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Reliance Industries Ltd (Equity) — 4.76%\n  NTPC Ltd (Equity) — 1.93%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 11,
-      "holdings_sector": "Energy & Utilities"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Healthcare Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Torrent Pharmaceuticals Ltd (Equity) — 4.09%\n  Lupin Ltd (Equity) — 2.51%\n  Mankind Pharma Ltd. (Equity) — 1.84%\n  Max Healthcare Institute Ltd (Equity) — 1.65%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 12,
-      "holdings_sector": "Healthcare"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Materials Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Ambuja Cements Ltd (Equity) — 2.24%\n  SRF Ltd (Equity) — 0.92%\n  Hindalco Industries Ltd (Equity) — 0.23%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 13,
-      "holdings_sector": "Materials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Interglobe Aviation Ltd (Equity) — 2.00%\n  Larsen & Toubro Ltd (Equity) — 1.98%\n  Tata Motors Ltd (Equity) — 1.94%\n  Adani Ports and Special Economic Zone Ltd (Equity) — 1.05%\n  CG Power & Industrial Solutions Ltd (Equity) — 0.62%\n  Bharat Electronics Ltd (Equity) — 0.47%\n  Cummins India Ltd (Equity) — 0.29%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 14,
-      "holdings_sector": "Industrials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Consumer Staples Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  United Spirits Ltd (Equity) — 1.73%\n  Vishal Mega Mart Ltd. (Equity) — 1.33%\n  Tata Consumer Products Ltd (Equity) — 1.29%\n  Dabur India Ltd (Equity) — 0.70%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 15,
-      "holdings_sector": "Consumer Staples"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Repo (Repo) — 1.19%\n  Net Payables (Net Payables) — -0.07%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 16,
-      "holdings_sector": "Unspecified"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Entities Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 (GOI Securities) — 0.51%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 17,
-      "holdings_sector": "Entities"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Real Estate Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  DLF Ltd (Equity) — 0.38%",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 18,
-      "holdings_sector": "Real Estate"
-    }
-  },
-  {
-    "content": "Fund Manager: Rahul Baijal — HDFC Large Cap Fund Direct Growth\nManaging since: 2022\nEducation: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering\nExperience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 19,
-      "manager_name": "Rahul Baijal"
-    }
-  },
-  {
-    "content": "Fund Manager: Dhruv Muchhal — HDFC Large Cap Fund Direct Growth\nManaging since: 2023\nEducation: Mr. Dhruv has done B.Com, CA and CFA\nExperience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 20,
-      "manager_name": "Dhruv Muchhal"
-    }
-  },
-  {
-    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "fund_house",
-      "chunk_type": "fund_house",
-      "chunk_index": 21
-    }
-  },
-  {
-    "content": "Q: How to Invest in HDFC Large Cap Fund Direct Growth?\nA: You can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Large Cap Fund Direct Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 22
-    }
-  },
-  {
-    "content": "Q: What kind of returns does HDFC Large Cap Fund Direct Growth provide?\nA: The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.37% since its inception.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 23
-    }
-  },
-  {
-    "content": "Q: How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 28 Oct 2026...",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 24
-    }
-  },
-  {
-    "content": "Q: What is the AUM of HDFC Large Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 28 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 25
-    }
-  },
-  {
-    "content": "Q: How to Redeem HDFC Large Cap Fund Direct Growth?\nA: If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 26
-    }
-  },
-  {
-    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Large Cap Fund Direct Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on your investment objective and risk tolerance.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 27
-    }
-  },
-  {
-    "content": "Q: What is the NAV of HDFC Large Cap Fund Direct Growth?\nA: The NAV of HDFC Large Cap Fund Direct Growth is ₹1,148.35 as of 27 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 28
-    }
-  },
-  {
-    "content": "Q: What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?\nA: The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
-    "metadata": {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "fund_slug": "hdfc-large-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.189821",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 29
-    }
-  },
-  {
-    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹150.714 (as of 27-Oct-2026)\nAUM: ₹40,800.81 Cr\nExpense Ratio: 0.8%\nRisk: Very High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "overview",
-      "chunk_type": "overview_card",
-      "chunk_index": 0
-    }
-  },
-  {
-    "content": "About HDFC Small Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.\nStrengths: Lower expense ratio: 0.8%; 10Y annualised returns higher than category average by 0.52%; Lower base expense ratio: 0.65%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "about_fund",
-      "chunk_type": "about",
-      "chunk_index": 1
-    }
-  },
-  {
-    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised -5.70%\n  3M: | Annualised -5.56% | SIP XIRR -32.05%\n  6M: | Annualised -1.05% | SIP XIRR -12.82%\n  1Y: | Annualised -8.18% | SIP XIRR -5.36%\n  3Y: | Annualised +9.31% | SIP XIRR +1.17%\n  5Y: | Annualised +12.88% | SIP XIRR +10.49%\n  10Y: | Annualised +16.59% | SIP XIRR +16.72%\n  Since Inception: | Annualised +17.66% | SIP XIRR +17.43%\nVs Category:\n  Category avg 1Y: +0.10%\n  Category avg 3Y: +13.35%\n  Category avg 5Y: +13.85%\nCategory Ranking:\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #33 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #5 in Small Cap",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "returns",
-      "chunk_type": "returns_table",
-      "chunk_index": 2
-    }
-  },
-  {
-    "content": "Exit Load & Tax for HDFC Small Cap Fund Direct Growth\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1% if redeemed within 1 year\nExit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months\nExit load of 2% if redeemed within 12 months and 1% if redeemed after 12 months but before 18 months\nExit load of 1% if redeemed within 1 year\nExit load, stamp duty and tax\nExit load of 1% if redeemed within 1 year\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "exit_load_tax",
-      "chunk_type": "exit_load_tax",
-      "chunk_index": 3
-    }
-  },
-  {
-    "content": "Investment Details for HDFC Small Cap Fund Direct Growth\nMinimum SIP: ₹100\nMinimum Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nLock-in: None",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "investment_info",
-      "chunk_type": "investment_info",
-      "chunk_index": 4
-    }
-  },
-  {
-    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -8.18% | Category avg +0.10%\n  3Y: Fund +9.31% | Category avg +13.35%\n  5Y: Fund +12.88% | Category avg +13.85%\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #33 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #5 in Small Cap\nSharpe Ratio: 0.3100\nAlpha: -1.0500\nBeta: 0.7800",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "performance_ranking",
-      "chunk_type": "performance_ranking",
-      "chunk_index": 5
-    }
-  },
-  {
-    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Bandhan Small Cap Fund Direct Growth                 +2.79%  +22.42%   ₹35,855.60\n  ITI Small Cap Fund Direct Growth                    +11.49%  +22.03%    ₹3,666.32\n  Invesco India Small Cap Fund Direct Growth           +5.50%  +20.13%   ₹16,130.64\n  Sundaram Small Cap Fund Direct Growth                +3.98%  +14.30%    ₹4,106.99\n  Nippon India Small Cap Fund Direct Growth            +0.85%  +13.28%   ₹80,905.55",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "peer_comparison",
-      "chunk_type": "peer_comparison",
-      "chunk_index": 6
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Repo (Repo) — 10.03%\n  Net Payables (Net Payables) — -0.10%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 7,
-      "holdings_sector": "Unspecified"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Firstsource Solutions Ltd (Equity) — 3.68%\n  Kalpataru Power Transmission Ltd (Equity) — 1.57%\n  Power Mech Projects Ltd (Equity) — 1.34%\n  Timken India Ltd (Equity) — 1.34%\n  Tega Industries Ltd (Equity) — 1.20%\n  Blue Dart Express Ltd (Equity) — 1.18%\n  LG Balakrishnan & Brothers Ltd (Equity) — 1.18%\n  NRB Bearings Ltd (Equity) — 1.12%\n  Voltamp Transformers Ltd (Equity) — 1.03%\n  Transport Corporation Of India Ltd (Equity) — 1.02%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 8,
-      "holdings_sector": "Industrials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  VRL Logistics Ltd (Equity) — 1.01%\n  GMM Pfaudler Ltd (Equity) — 0.76%\n  SKF India (Industrial) Ltd (Equity) — 0.75%\n  The Anup Engineering Ltd (Equity) — 0.58%\n  Ion Exchange (India) Ltd (Equity) — 0.48%\n  PNC Infratech Ltd (Equity) — 0.43%\n  Gateway Distriparks Ltd (Equity) — 0.43%\n  SKF India Ltd (Equity) — 0.41%\n  Vesuvius India Ltd (Equity) — 0.41%\n  Awfis Space Solutions Ltd. (Equity) — 0.40%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 9,
-      "holdings_sector": "Industrials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Gujarat Pipavav Port Ltd (Equity) — 0.36%\n  Kei Industries Ltd (Equity) — 0.33%\n  IFGL Refractories Ltd (Equity) — 0.31%\n  G R Infraprojects Ltd (Equity) — 0.29%\n  DB Corp Ltd (Equity) — 0.20%\n  BEML Ltd (Equity) — 0.20%\n  TCI Express Ltd (Equity) — 0.06%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 10,
-      "holdings_sector": "Industrials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Healthcare Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Aster DM Healthcare Ltd (Equity) — 3.37%\n  Krishna Institute Of Medical Sciences Ltd (Equity) — 2.04%\n  Eris Lifesciences Ltd (Equity) — 1.89%\n  Vijaya Diagnostic Centre Ltd (Equity) — 1.63%\n  Fortis Healthcare Ltd (Equity) — 0.94%\n  Unichem Laboratories Ltd (Equity) — 0.66%\n  Jupiter Life Line Hospitals Ltd. (Equity) — 0.26%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 11,
-      "holdings_sector": "Healthcare"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Gabriel India Ltd (Equity) — 3.09%\n  Pearl Global Industries Ltd (Equity) — 1.90%\n  PVR Ltd (Equity) — 1.75%\n  Chalet Hotels Ltd (Equity) — 1.62%\n  Suprajit Engineering Ltd (Equity) — 1.40%\n  Aditya Vision Ltd (Equity) — 1.28%\n  Vardhman Textiles Ltd (Equity) — 1.22%\n  Fiem Industries Ltd (Equity) — 1.04%\n  JK Tyre & Industries Ltd (Equity) — 1.03%\n  Mahindra CIE Automotive Ltd (Equity) — 1.03%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 12,
-      "holdings_sector": "Consumer Discretionary"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Shoppers Stop Ltd (Equity) — 1.02%\n  Lumax Industries Ltd (Equity) — 0.83%\n  Redtape Ltd (Equity) — 0.65%\n  Wakefit Innovations Ltd. (Equity) — 0.57%\n  Vedant Fashions Ltd (Equity) — 0.54%\n  GNA Axles Ltd (Equity) — 0.48%\n  Bajaj Electricals Ltd (Equity) — 0.47%\n  La Opala RG Ltd (Equity) — 0.35%\n  Goodyear India Ltd (Equity) — 0.22%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 13,
-      "holdings_sector": "Consumer Discretionary"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Technology Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  eClerx Services Ltd (Equity) — 2.92%\n  Redington Ltd (Equity) — 1.35%\n  Sonata Software Ltd (Equity) — 1.28%\n  Zensar Technologies Ltd (Equity) — 0.90%\n  Mastek Ltd (Equity) — 0.61%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 14,
-      "holdings_sector": "Technology"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Bank Of Baroda (Equity) — 2.65%\n  Indian Bank (Equity) — 1.91%\n  Home First Finance Company India Ltd (Equity) — 1.76%\n  The Federal Bank Ltd (Equity) — 1.61%\n  City Union Bank Ltd (Equity) — 1.48%\n  Equitas Small Finance Bank Ltd (Equity) — 1.15%\n  UTI Asset Management Company Ltd (Equity) — 1.01%\n  DHFL VYSYA HOUSING FINANCE LIMITED EQ (Equity) — 0.72%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 15,
-      "holdings_sector": "Financial"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Diversified Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Apar Industries Ltd (Equity) — 1.92%\n  KEC International Ltd (Equity) — 0.46%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 16,
-      "holdings_sector": "Diversified"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Energy & Utilities Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  The Great Eastern Shipping Company Ltd (Equity) — 1.73%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 17,
-      "holdings_sector": "Energy & Utilities"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Materials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Sudarshan Chemical Industries Ltd (Equity) — 1.71%\n  Akzo Nobel India Ltd (Equity) — 1.32%\n  Indigo Paints Ltd (Equity) — 1.03%\n  Sharda Cropchem Ltd (Equity) — 0.97%\n  Kirloskar Ferrous Industries Ltd (Equity) — 0.91%\n  Chambal Fertilisers & Chemicals Ltd (Equity) — 0.86%\n  Tata Steel Ltd (Equity) — 0.70%\n  Usha Martin Ltd (Equity) — 0.57%\n  Insecticides (India) Ltd (Equity) — 0.37%\n  Carborundum Universal Ltd (Equity) — 0.20%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 18,
-      "holdings_sector": "Materials"
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Staples Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Dodla Dairy Ltd (Equity) — 1.24%\n  Godrej Consumer Products Ltd (Equity) — 1.23%\n  Vishal Mega Mart Ltd. (Equity) — 1.02%\n  Bajaj Consumer Care Ltd (Equity) — 0.62%\n  Emami Ltd (Equity) — 0.31%\n  Sula Vineyards Ltd (Equity) — 0.20%",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 19,
-      "holdings_sector": "Consumer Staples"
-    }
-  },
-  {
-    "content": "Fund Manager: Dhruv Muchhal — HDFC Small Cap Fund Direct Growth\nManaging since: 2023\nEducation: Mr. Dhruv has done B.Com, CA and CFA\nExperience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 20,
-      "manager_name": "Dhruv Muchhal"
-    }
-  },
-  {
-    "content": "Fund Manager: Chirag Setalvad — HDFC Small Cap Fund Direct Growth\nManaging since: 2014\nEducation: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.\nExperience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 21,
-      "manager_name": "Chirag Setalvad"
-    }
-  },
-  {
-    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "fund_house",
-      "chunk_type": "fund_house",
-      "chunk_index": 22
-    }
-  },
-  {
-    "content": "Q: How to Invest in HDFC Small Cap Fund Direct Growth?\nA: You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Small Cap Fund Direct Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 23
-    }
-  },
-  {
-    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.66% since its inception.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 24
-    }
-  },
-  {
-    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.80% as of 28 Oct 2026...",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 25
-    }
-  },
-  {
-    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 28 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 26
-    }
-  },
-  {
-    "content": "Q: How to Redeem HDFC Small Cap Fund Direct Growth?\nA: If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 27
-    }
-  },
-  {
-    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Small Cap Fund Direct Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Small Cap Fund Direct Growth based on your investment objective and risk tolerance.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 28
-    }
-  },
-  {
-    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹150.71 as of 27 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 29
-    }
-  },
-  {
-    "content": "Q: What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?\nA: The PE ratio ratio of HDFC Small Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
-    "metadata": {
-      "fund_name": "HDFC Small Cap Fund Direct Growth",
-      "fund_slug": "hdfc-small-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.400379",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 30
-    }
-  },
-  {
-    "content": "Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth\nCategory: Commodities > Gold\nNAV: ₹43.6073 (as of 27-Oct-2026)\nAUM: ₹12,013.27 Cr\nExpense Ratio: 0.2%\nRisk: High (Rating: 3/5)\nMin SIP: ₹0 | Min Lumpsum: ₹0\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Gold\nLaunch Date: 01-Jan-2013\nISIN: INF179K01VX0",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "overview",
-      "chunk_type": "overview_card",
-      "chunk_index": 0
-    }
-  },
-  {
-    "content": "About HDFC Gold ETF Fund of Fund Direct Plan Growth\nThe Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.\nStrengths: 5Y annualised returns higher than category average by 2.64%; Lower expense ratio: 0.2%; Lower base expense ratio: 0.17%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y and 3Y",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "about_fund",
-      "chunk_type": "about",
-      "chunk_index": 1
-    }
-  },
-  {
-    "content": "Returns for HDFC Gold ETF Fund of Fund Direct Plan Growth:\n  1M: | Annualised -7.09%\n  3M: | Annualised -2.53% | SIP XIRR -27.24%\n  6M: | Annualised -6.97% | SIP XIRR -16.42%\n  1Y: | Annualised +15.58% | SIP XIRR -3.94%\n  3Y: | Annualised +30.68% | SIP XIRR +28.96%\n  5Y: | Annualised +22.83% | SIP XIRR +26.47%\n  10Y: | Annualised +15.52% | SIP XIRR +19.59%\n  Since Inception: | Annualised +10.43% | SIP XIRR +15.83%\nVs Category:\n  Category avg 1Y: +17.58%\n  Category avg 3Y: +32.66%\n  Category avg 5Y: +23.78%\nCategory Ranking:\n  Rank 1Y: #9 in Gold\n  Rank 3Y: #5 in Gold\n  Rank 5Y: #5 in Gold\n  Rank 10Y: #3 in Gold",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "returns",
-      "chunk_type": "returns_table",
-      "chunk_index": 2
-    }
-  },
-  {
-    "content": "Exit Load & Tax for HDFC Gold ETF Fund of Fund Direct Plan Growth\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1%, if redeemed within 15 days.\nExit load of 1%, if redeemed within 15 days.\nExit load of 1%, if redeemed within 15 days.\nExit load of 2% if redeemed within 6 months and 1% if redeemed after 6 months but within 1 year.\nExit load, stamp duty and tax\nExit load of 1%, if redeemed within 15 days.\nTax implication\nIf you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "exit_load_tax",
-      "chunk_type": "exit_load_tax",
-      "chunk_index": 3
-    }
-  },
-  {
-    "content": "Investment Details for HDFC Gold ETF Fund of Fund Direct Plan Growth\nMinimum SIP: ₹0\nMinimum Lumpsum: ₹0\nExit Load: Exit load of 1%, if redeemed within 15 days.\nLock-in: None",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "investment_info",
-      "chunk_type": "investment_info",
-      "chunk_index": 4
-    }
-  },
-  {
-    "content": "Performance & Rankings for HDFC Gold ETF Fund of Fund Direct Plan Growth\n  1Y: Fund +15.58% | Category avg +17.58%\n  3Y: Fund +30.68% | Category avg +32.66%\n  5Y: Fund +22.83% | Category avg +23.78%\n  Rank 1Y: #9 in Gold\n  Rank 3Y: #5 in Gold\n  Rank 5Y: #5 in Gold\n  Rank 10Y: #3 in Gold\nSharpe Ratio: 1.4000\nAlpha: 1.0000\nBeta: 0.9100",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "performance_ranking",
-      "chunk_type": "performance_ranking",
-      "chunk_index": 5
-    }
-  },
-  {
-    "content": "Portfolio Holdings for HDFC Gold ETF Fund of Fund Direct Plan Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 3)\n  HDFC Gold ETF (Mutual Fund) — 100.12%\n  Repo (Repo) — 0.13%\n  Net Payables (Net Payables) — -0.25%",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "holdings",
-      "chunk_type": "holdings_batch",
-      "chunk_index": 6,
-      "holdings_sector": "Unspecified"
-    }
-  },
-  {
-    "content": "Fund Manager: Arun Agarwal — HDFC Gold ETF Fund of Fund Direct Plan Growth\nManaging since: 2023\nEducation: Mr. Agarwal is a B.Com. and Chartered Accountant\nExperience: Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 7,
-      "manager_name": "Arun Agarwal"
-    }
-  },
-  {
-    "content": "Fund Manager: Nandita Menezes — HDFC Gold ETF Fund of Fund Direct Plan Growth\nManaging since: 2025\nEducation: CA (ICAI, INDIA), B.Com (University of Mumbai)\nExperience: Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "fund_management",
-      "chunk_type": "fund_manager",
-      "chunk_index": 8,
-      "manager_name": "Nandita Menezes"
-    }
-  },
-  {
-    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "fund_house",
-      "chunk_type": "fund_house",
-      "chunk_index": 9
-    }
-  },
-  {
-    "content": "Q: How to Invest in HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: You can easily invest in HDFC Gold ETF Fund of Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Gold ETF Fund of Fund Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 10
-    }
-  },
-  {
-    "content": "Q: What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?\nA: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.43% since its inception.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 11
-    }
-  },
-  {
-    "content": "Q: How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 28 Oct 2026...",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 12
-    }
-  },
-  {
-    "content": "Q: What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 28 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 13
-    }
-  },
-  {
-    "content": "Q: How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 14
-    }
-  },
-  {
-    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on your investment objective and risk tolerance.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 15
-    }
-  },
-  {
-    "content": "Q: What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.61 as of 27 Oct 2026.",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 16
-    }
-  },
-  {
-    "content": "Q: What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
-    "metadata": {
-      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
-      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "scraped_at": "2026-10-28T11:03:02.536959",
-      "section": "faq",
-      "chunk_type": "faq",
-      "chunk_index": 17
-    }
-  },
-  {
-    "content": "Fund: HDFC Silver ETF FoF Direct Growth\nCategory: Commodities > Silver\nNAV: ₹31.3074 (as of 27-Oct-2026)\nAUM: ₹4,497.00 Cr\nExpense Ratio: 0.21%\nRisk: Very High (Rating: None/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Silver\nLaunch Date: 28-Oct-2022\nISIN: INF179KC1DU7",
+    "content": "Fund: HDFC Silver ETF FoF Direct Growth\nCategory: Commodities > Silver\nNAV: ₹31.7062 (as of 28-Oct-2026)\nAUM: ₹4,497.00 Cr\nExpense Ratio: 0.21%\nRisk: Very High (Rating: None/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Silver\nLaunch Date: 28-Oct-2022\nISIN: INF179KC1DU7",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
@@ -997,19 +17,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Silver ETF FoF Direct Growth:\n  1M: | Annualised -17.06%\n  3M: | Annualised -14.92% | SIP XIRR -63.36%\n  6M: | Annualised -21.47% | SIP XIRR -50.93%\n  1Y: | Annualised +30.16% | SIP XIRR -23.74%\n  3Y: | Annualised +36.72% | SIP XIRR +36.84%\n  Since Inception: | Annualised +33.29% | SIP XIRR +34.01%\nVs Category:\n  Category avg 1Y: +33.27%\n  Category avg 3Y: +37.91%\nCategory Ranking:\n  Rank 1Y: #9 in Silver\n  Rank 3Y: #5 in Silver",
+    "content": "Returns for HDFC Silver ETF FoF Direct Growth:\n  1M: | Annualised -12.68%\n  3M: | Annualised -10.90% | SIP XIRR -59.43%\n  6M: | Annualised -18.27% | SIP XIRR -48.17%\n  1Y: | Annualised +37.05% | SIP XIRR -21.71%\n  3Y: | Annualised +37.26% | SIP XIRR +37.75%\n  Since Inception: | Annualised +33.69% | SIP XIRR +34.67%\nVs Category:\n  Category avg 1Y: +33.27%\n  Category avg 3Y: +37.91%\nCategory Ranking:\n  Rank 1Y: #7 in Silver\n  Rank 3Y: #5 in Silver",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -1021,7 +41,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -1033,19 +53,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Silver ETF FoF Direct Growth\n  1Y: Fund +30.16% | Category avg +33.27%\n  3Y: Fund +36.72% | Category avg +37.91%\n  Rank 1Y: #9 in Silver\n  Rank 3Y: #5 in Silver\nSharpe Ratio: 0.9500\nAlpha: 0.9200\nBeta: 0.9000",
+    "content": "Performance & Rankings for HDFC Silver ETF FoF Direct Growth\n  1Y: Fund +37.05% | Category avg +33.27%\n  3Y: Fund +37.26% | Category avg +37.91%\n  Rank 1Y: #7 in Silver\n  Rank 3Y: #5 in Silver\nSharpe Ratio: 0.9500\nAlpha: 0.9200\nBeta: 0.9000",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
@@ -1057,7 +77,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 6,
@@ -1070,7 +90,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 7,
@@ -1083,7 +103,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 8,
@@ -1096,7 +116,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 9
@@ -1108,43 +128,43 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 10
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Silver ETF FoF Direct Growth provide?\nA: The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 33.29% since its inception.",
+    "content": "Q: What kind of returns does HDFC Silver ETF FoF Direct Growth provide?\nA: The HDFC Silver ETF FoF Direct Growth has been there from 28 Oct 2022 and the average annual returns provided by this fund is 33.69% since its inception.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 11
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?\nA: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 28 Oct 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?\nA: The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 29 Oct 2026...",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 12
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Silver ETF FoF Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 28 Oct 2026.",
+    "content": "Q: What is the AUM of HDFC Silver ETF FoF Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 29 Oct 2026.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 13
@@ -1156,7 +176,7 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 14
@@ -1168,19 +188,19 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 15
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Silver ETF FoF Direct Growth?\nA: The NAV of HDFC Silver ETF FoF Direct Growth is ₹31.31 as of 27 Oct 2026.",
+    "content": "Q: What is the NAV of HDFC Silver ETF FoF Direct Growth?\nA: The NAV of HDFC Silver ETF FoF Direct Growth is ₹31.71 as of 28 Oct 2026.",
     "metadata": {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 16
@@ -1192,43 +212,636 @@
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "fund_slug": "hdfc-silver-etf-fof-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.681350",
+      "scraped_at": "2026-10-29T11:21:42.991098",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 17
     }
   },
   {
-    "content": "Fund: HDFC Mid Cap Fund Direct Growth\nCategory: Equity > Mid Cap\nNAV: ₹216.123 (as of 27-Oct-2026)\nAUM: ₹101,856.06 Cr\nExpense Ratio: 0.75%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY Midcap 150 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01XQ0",
+    "content": "Fund: HDFC Large Cap Fund Direct Growth\nCategory: Equity > Large Cap\nNAV: ₹1147.897 (as of 28-Oct-2026)\nAUM: ₹37,293.95 Cr\nExpense Ratio: 1.02%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY 100 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01YV8",
     "metadata": {
-      "fund_name": "HDFC Mid Cap Fund Direct Growth",
-      "fund_slug": "hdfc-mid-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
     }
   },
   {
-    "content": "About HDFC Mid Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.\nStrengths: 10Y annualised returns higher than category average by 0.39%; Lower expense ratio: 0.75%; Higher alpha: 2.44 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ; Lower base expense ratio: 0.61%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
+    "content": "About HDFC Large Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.\nStrengths: Lower expense ratio: 1.02%; Lower base expense ratio: 0.84%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y, 5Y and 10Y",
     "metadata": {
-      "fund_name": "HDFC Mid Cap Fund Direct Growth",
-      "fund_slug": "hdfc-mid-cap-fund-direct-growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Mid Cap Fund Direct Growth:\n  1M: | Annualised -4.53%\n  3M: | Annualised -5.88% | SIP XIRR -34.62%\n  6M: | Annualised -2.05% | SIP XIRR -14.78%\n  1Y: | Annualised -2.48% | SIP XIRR -5.32%\n  3Y: | Annualised +15.69% | SIP XIRR +5.46%\n  5Y: | Annualised +16.58% | SIP XIRR +14.97%\n  10Y: | Annualised +16.39% | SIP XIRR +18.15%\n  Since Inception: | Annualised +19.32% | SIP XIRR +18.59%\nVs Category:\n  Category avg 1Y: -4.55%\n  Category avg 3Y: +13.55%\n  Category avg 5Y: +12.87%\nCategory Ranking:\n  Rank 1Y: #20 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #4 in Mid Cap\n  Rank 10Y: #6 in Mid Cap",
+    "content": "Returns for HDFC Large Cap Fund Direct Growth:\n  1M: | Annualised -1.90%\n  3M: | Annualised -6.61% | SIP XIRR -31.47%\n  6M: | Annualised -3.56% | SIP XIRR -15.61%\n  1Y: | Annualised -9.28% | SIP XIRR -10.80%\n  3Y: | Annualised +8.22% | SIP XIRR -1.36%\n  5Y: | Annualised +9.05% | SIP XIRR +6.42%\n  10Y: | Annualised +11.64% | SIP XIRR +11.20%\n  Since Inception: | Annualised +12.36% | SIP XIRR +11.91%\nVs Category:\n  Category avg 1Y: -9.14%\n  Category avg 3Y: +9.56%\n  Category avg 5Y: +7.62%\nCategory Ranking:\n  Rank 1Y: #56 in Large Cap\n  Rank 3Y: #50 in Large Cap\n  Rank 5Y: #21 in Large Cap\n  Rank 10Y: #13 in Large Cap",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "returns",
+      "chunk_type": "returns_table",
+      "chunk_index": 2
+    }
+  },
+  {
+    "content": "Exit Load & Tax for HDFC Large Cap Fund Direct Growth\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1% if redeemed within 1 year\nExit load of 1% if redeemed within 18 months\nExit load of 1% if redeemed within 1 year\nExit load, stamp duty and tax\nExit load of 1% if redeemed within 1 year\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "exit_load_tax",
+      "chunk_type": "exit_load_tax",
+      "chunk_index": 3
+    }
+  },
+  {
+    "content": "Investment Details for HDFC Large Cap Fund Direct Growth\nMinimum SIP: ₹100\nMinimum Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nLock-in: None",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "investment_info",
+      "chunk_type": "investment_info",
+      "chunk_index": 4
+    }
+  },
+  {
+    "content": "Performance & Rankings for HDFC Large Cap Fund Direct Growth\n  1Y: Fund -9.28% | Category avg -9.14%\n  3Y: Fund +8.22% | Category avg +9.56%\n  5Y: Fund +9.05% | Category avg +7.62%\n  Rank 1Y: #56 in Large Cap\n  Rank 3Y: #50 in Large Cap\n  Rank 5Y: #21 in Large Cap\n  Rank 10Y: #13 in Large Cap\nSharpe Ratio: 0.1900\nAlpha: 0.0300\nBeta: 0.9500",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "performance_ranking",
+      "chunk_type": "performance_ranking",
+      "chunk_index": 5
+    }
+  },
+  {
+    "content": "Peer Comparison — HDFC Large Cap Fund Direct Growth vs Similar Funds (Large Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Large Cap Fund Direct Growth           -3.76%  +13.61%    ₹1,925.14\n  Bandhan Large Cap Fund Direct Growth                 -6.55%  +12.62%    ₹2,097.65\n  Nippon India Large Cap Fund Direct Growth            -9.70%  +10.65%   ₹51,296.06\n  ICICI Prudential Large Cap Fund Direct Growth       -10.63%  +10.12%   ₹76,352.23\n  HDFC Large Cap Fund Direct Growth                    -9.28%   +8.22%   ₹37,293.95",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "peer_comparison",
+      "chunk_type": "peer_comparison",
+      "chunk_index": 6
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  ICICI Bank Ltd (Equity) — 9.79%\n  HDFC Bank Ltd (Equity) — 7.36%\n  Kotak Mahindra Bank Ltd (Equity) — 6.08%\n  Axis Bank Ltd (Equity) — 3.52%\n  Bajaj Finserv Ltd (Equity) — 3.05%\n  Cholamandalam Investment & Finance Company Ltd (Equity) — 2.28%\n  State Bank of India (Equity) — 1.83%\n  ICICI Prudential Asset Management Company Ltd. (Equity) — 1.57%\n  Indusind Bank Ltd (Equity) — 1.49%\n  TATA CAPITAL LIMITED EQ (Equity) — 0.72%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 7,
+      "holdings_sector": "Financial"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  SBI Funds Management Ltd (Equity) — 0.64%\n  Life Insurance Corporation of India (Equity) — 0.41%\n  Billionbrains Garage Ventures Ltd. (Equity) — 0.28%\n  National Stock Exchange Of India Ltd Equity (Equity) — 0.25%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 8,
+      "holdings_sector": "Financial"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Technology Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Bharti Airtel Ltd (Equity) — 6.46%\n  Zomato Ltd (Equity) — 2.60%\n  Infosys Ltd (Equity) — 2.59%\n  Swiggy Ltd. (Equity) — 1.24%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 9,
+      "holdings_sector": "Technology"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Titan Company Ltd (Equity) — 5.07%\n  Bajaj Auto Ltd (Equity) — 2.81%\n  Hyundai Motor India Ltd. (Equity) — 1.19%\n  Havells India Ltd (Equity) — 1.18%\n  Eicher Motors Ltd (Equity) — 0.99%\n  Mahindra & Mahindra Ltd (Equity) — 0.62%\n  Tata Motors Ltd (Equity) — 0.40%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 10,
+      "holdings_sector": "Consumer Discretionary"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Energy & Utilities Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Reliance Industries Ltd (Equity) — 4.76%\n  NTPC Ltd (Equity) — 1.93%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 11,
+      "holdings_sector": "Energy & Utilities"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Healthcare Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Torrent Pharmaceuticals Ltd (Equity) — 4.09%\n  Lupin Ltd (Equity) — 2.51%\n  Mankind Pharma Ltd. (Equity) — 1.84%\n  Max Healthcare Institute Ltd (Equity) — 1.65%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 12,
+      "holdings_sector": "Healthcare"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Materials Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Ambuja Cements Ltd (Equity) — 2.24%\n  SRF Ltd (Equity) — 0.92%\n  Hindalco Industries Ltd (Equity) — 0.23%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 13,
+      "holdings_sector": "Materials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Interglobe Aviation Ltd (Equity) — 2.00%\n  Larsen & Toubro Ltd (Equity) — 1.98%\n  Tata Motors Ltd (Equity) — 1.94%\n  Adani Ports and Special Economic Zone Ltd (Equity) — 1.05%\n  CG Power & Industrial Solutions Ltd (Equity) — 0.62%\n  Bharat Electronics Ltd (Equity) — 0.47%\n  Cummins India Ltd (Equity) — 0.29%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 14,
+      "holdings_sector": "Industrials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Consumer Staples Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  United Spirits Ltd (Equity) — 1.73%\n  Vishal Mega Mart Ltd. (Equity) — 1.33%\n  Tata Consumer Products Ltd (Equity) — 1.29%\n  Dabur India Ltd (Equity) — 0.70%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 15,
+      "holdings_sector": "Consumer Staples"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  Repo (Repo) — 1.19%\n  Net Payables (Net Payables) — -0.07%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 16,
+      "holdings_sector": "Unspecified"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Entities Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 (GOI Securities) — 0.51%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 17,
+      "holdings_sector": "Entities"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Large Cap Fund Direct Growth — Real Estate Sector\n(Portfolio date: 2026-09-29, Total holdings: 49)\n  DLF Ltd (Equity) — 0.38%",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 18,
+      "holdings_sector": "Real Estate"
+    }
+  },
+  {
+    "content": "Fund Manager: Rahul Baijal — HDFC Large Cap Fund Direct Growth\nManaging since: 2022\nEducation: Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering\nExperience: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 19,
+      "manager_name": "Rahul Baijal"
+    }
+  },
+  {
+    "content": "Fund Manager: Dhruv Muchhal — HDFC Large Cap Fund Direct Growth\nManaging since: 2023\nEducation: Mr. Dhruv has done B.Com, CA and CFA\nExperience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 20,
+      "manager_name": "Dhruv Muchhal"
+    }
+  },
+  {
+    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "fund_house",
+      "chunk_type": "fund_house",
+      "chunk_index": 21
+    }
+  },
+  {
+    "content": "Q: How to Invest in HDFC Large Cap Fund Direct Growth?\nA: You can easily invest in HDFC Large Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Large Cap Fund Direct Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Large Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 22
+    }
+  },
+  {
+    "content": "Q: What kind of returns does HDFC Large Cap Fund Direct Growth provide?\nA: The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.36% since its inception.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 23
+    }
+  },
+  {
+    "content": "Q: How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.02% as of 29 Oct 2026...",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 24
+    }
+  },
+  {
+    "content": "Q: What is the AUM of HDFC Large Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 29 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 25
+    }
+  },
+  {
+    "content": "Q: How to Redeem HDFC Large Cap Fund Direct Growth?\nA: If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 26
+    }
+  },
+  {
+    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Large Cap Fund Direct Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Large Cap Fund Direct Growth based on your investment objective and risk tolerance.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 27
+    }
+  },
+  {
+    "content": "Q: What is the NAV of HDFC Large Cap Fund Direct Growth?\nA: The NAV of HDFC Large Cap Fund Direct Growth is ₹1,147.90 as of 28 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 28
+    }
+  },
+  {
+    "content": "Q: What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?\nA: The PE ratio ratio of HDFC Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
+    "metadata": {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "fund_slug": "hdfc-large-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.170980",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 29
+    }
+  },
+  {
+    "content": "Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth\nCategory: Commodities > Gold\nNAV: ₹44.1363 (as of 28-Oct-2026)\nAUM: ₹12,013.27 Cr\nExpense Ratio: 0.2%\nRisk: High (Rating: 3/5)\nMin SIP: ₹0 | Min Lumpsum: ₹0\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: Domestic Price of Gold\nLaunch Date: 01-Jan-2013\nISIN: INF179K01VX0",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "overview",
+      "chunk_type": "overview_card",
+      "chunk_index": 0
+    }
+  },
+  {
+    "content": "About HDFC Gold ETF Fund of Fund Direct Plan Growth\nThe Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.\nStrengths: 5Y annualised returns higher than category average by 2.64%; Lower expense ratio: 0.2%; Lower base expense ratio: 0.17%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y and 3Y",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "about_fund",
+      "chunk_type": "about",
+      "chunk_index": 1
+    }
+  },
+  {
+    "content": "Returns for HDFC Gold ETF Fund of Fund Direct Plan Growth:\n  1M: | Annualised -3.55%\n  3M: | Annualised +0.12% | SIP XIRR -20.87%\n  6M: | Annualised -4.69% | SIP XIRR -12.55%\n  1Y: | Annualised +21.08% | SIP XIRR -1.70%\n  3Y: | Annualised +31.17% | SIP XIRR +29.82%\n  5Y: | Annualised +23.05% | SIP XIRR +26.95%\n  10Y: | Annualised +15.55% | SIP XIRR +19.81%\n  Since Inception: | Annualised +10.53% | SIP XIRR +15.98%\nVs Category:\n  Category avg 1Y: +17.58%\n  Category avg 3Y: +32.66%\n  Category avg 5Y: +23.78%\nCategory Ranking:\n  Rank 1Y: #12 in Gold\n  Rank 3Y: #6 in Gold\n  Rank 5Y: #6 in Gold\n  Rank 10Y: #2 in Gold",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "returns",
+      "chunk_type": "returns_table",
+      "chunk_index": 2
+    }
+  },
+  {
+    "content": "Exit Load & Tax for HDFC Gold ETF Fund of Fund Direct Plan Growth\nExit Load: Exit load of 1%, if redeemed within 15 days.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1%, if redeemed within 15 days.\nExit load of 1%, if redeemed within 15 days.\nExit load of 1%, if redeemed within 15 days.\nExit load of 2% if redeemed within 6 months and 1% if redeemed after 6 months but within 1 year.\nExit load, stamp duty and tax\nExit load of 1%, if redeemed within 15 days.\nTax implication\nIf you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "exit_load_tax",
+      "chunk_type": "exit_load_tax",
+      "chunk_index": 3
+    }
+  },
+  {
+    "content": "Investment Details for HDFC Gold ETF Fund of Fund Direct Plan Growth\nMinimum SIP: ₹0\nMinimum Lumpsum: ₹0\nExit Load: Exit load of 1%, if redeemed within 15 days.\nLock-in: None",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "investment_info",
+      "chunk_type": "investment_info",
+      "chunk_index": 4
+    }
+  },
+  {
+    "content": "Performance & Rankings for HDFC Gold ETF Fund of Fund Direct Plan Growth\n  1Y: Fund +21.08% | Category avg +17.58%\n  3Y: Fund +31.17% | Category avg +32.66%\n  5Y: Fund +23.05% | Category avg +23.78%\n  Rank 1Y: #12 in Gold\n  Rank 3Y: #6 in Gold\n  Rank 5Y: #6 in Gold\n  Rank 10Y: #2 in Gold\nSharpe Ratio: 1.4000\nAlpha: 1.0000\nBeta: 0.9100",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "performance_ranking",
+      "chunk_type": "performance_ranking",
+      "chunk_index": 5
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Gold ETF Fund of Fund Direct Plan Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 3)\n  HDFC Gold ETF (Mutual Fund) — 100.12%\n  Repo (Repo) — 0.13%\n  Net Payables (Net Payables) — -0.25%",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 6,
+      "holdings_sector": "Unspecified"
+    }
+  },
+  {
+    "content": "Fund Manager: Arun Agarwal — HDFC Gold ETF Fund of Fund Direct Plan Growth\nManaging since: 2023\nEducation: Mr. Agarwal is a B.Com. and Chartered Accountant\nExperience: Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 7,
+      "manager_name": "Arun Agarwal"
+    }
+  },
+  {
+    "content": "Fund Manager: Nandita Menezes — HDFC Gold ETF Fund of Fund Direct Plan Growth\nManaging since: 2025\nEducation: CA (ICAI, INDIA), B.Com (University of Mumbai)\nExperience: Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 8,
+      "manager_name": "Nandita Menezes"
+    }
+  },
+  {
+    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "fund_house",
+      "chunk_type": "fund_house",
+      "chunk_index": 9
+    }
+  },
+  {
+    "content": "Q: How to Invest in HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: You can easily invest in HDFC Gold ETF Fund of Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Gold ETF Fund of Fund Direct Plan Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Gold ETF Fund of Fund Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 10
+    }
+  },
+  {
+    "content": "Q: What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?\nA: The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.53% since its inception.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 11
+    }
+  },
+  {
+    "content": "Q: How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 29 Oct 2026...",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 12
+    }
+  },
+  {
+    "content": "Q: What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 29 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 13
+    }
+  },
+  {
+    "content": "Q: How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 14
+    }
+  },
+  {
+    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Gold ETF Fund of Fund Direct Plan Growth based on your investment objective and risk tolerance.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 15
+    }
+  },
+  {
+    "content": "Q: What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.14 as of 28 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 16
+    }
+  },
+  {
+    "content": "Q: What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?\nA: The PE ratio ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
+    "metadata": {
+      "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
+      "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+      "scraped_at": "2026-10-29T11:21:43.327675",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 17
+    }
+  },
+  {
+    "content": "Fund: HDFC Mid Cap Fund Direct Growth\nCategory: Equity > Mid Cap\nNAV: ₹216.183 (as of 28-Oct-2026)\nAUM: ₹101,856.06 Cr\nExpense Ratio: 0.74%\nRisk: Very High (Rating: 4/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year.\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: NIFTY Midcap 150 Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179K01XQ0",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
+      "section": "overview",
+      "chunk_type": "overview_card",
+      "chunk_index": 0
+    }
+  },
+  {
+    "content": "About HDFC Mid Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.\nStrengths: 10Y annualised returns higher than category average by 0.31%; Lower expense ratio: 0.74%; Higher alpha: 2.44 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ; Lower base expense ratio: 0.6%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
+    "metadata": {
+      "fund_name": "HDFC Mid Cap Fund Direct Growth",
+      "fund_slug": "hdfc-mid-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.520134",
+      "section": "about_fund",
+      "chunk_type": "about",
+      "chunk_index": 1
+    }
+  },
+  {
+    "content": "Returns for HDFC Mid Cap Fund Direct Growth:\n  1M: | Annualised -3.13%\n  3M: | Annualised -6.38% | SIP XIRR -34.00%\n  6M: | Annualised -1.83% | SIP XIRR -14.56%\n  1Y: | Annualised -2.54% | SIP XIRR -5.24%\n  3Y: | Annualised +15.69% | SIP XIRR +5.47%\n  5Y: | Annualised +17.02% | SIP XIRR +14.97%\n  10Y: | Annualised +16.31% | SIP XIRR +18.15%\n  Since Inception: | Annualised +19.31% | SIP XIRR +18.59%\nVs Category:\n  Category avg 1Y: -4.55%\n  Category avg 3Y: +13.55%\n  Category avg 5Y: +12.87%\nCategory Ranking:\n  Rank 1Y: #24 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #4 in Mid Cap\n  Rank 10Y: #7 in Mid Cap",
+    "metadata": {
+      "fund_name": "HDFC Mid Cap Fund Direct Growth",
+      "fund_slug": "hdfc-mid-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -1240,7 +853,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -1252,31 +865,31 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Mid Cap Fund Direct Growth\n  1Y: Fund -2.48% | Category avg -4.55%\n  3Y: Fund +15.69% | Category avg +13.55%\n  5Y: Fund +16.58% | Category avg +12.87%\n  Rank 1Y: #20 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #4 in Mid Cap\n  Rank 10Y: #6 in Mid Cap\nSharpe Ratio: 0.6200\nAlpha: 2.4400\nBeta: 0.8600",
+    "content": "Performance & Rankings for HDFC Mid Cap Fund Direct Growth\n  1Y: Fund -2.54% | Category avg -4.55%\n  3Y: Fund +15.69% | Category avg +13.55%\n  5Y: Fund +17.02% | Category avg +12.87%\n  Rank 1Y: #24 in Mid Cap\n  Rank 3Y: #13 in Mid Cap\n  Rank 5Y: #4 in Mid Cap\n  Rank 10Y: #7 in Mid Cap\nSharpe Ratio: 0.6200\nAlpha: 2.4400\nBeta: 0.8600",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
     }
   },
   {
-    "content": "Peer Comparison — HDFC Mid Cap Fund Direct Growth vs Similar Funds (Mid Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  HSBC Midcap Fund Direct Growth                      +10.07%  +21.71%   ₹16,799.59\n  Invesco India Mid Cap Fund Direct Growth             -1.63%  +21.40%   ₹15,748.83\n  WhiteOak Capital Mid Cap Fund Direct Growth          +3.72%  +20.28%    ₹8,399.71\n  Edelweiss Mid Cap Direct Plan Growth                 -2.04%  +18.85%   ₹19,230.16\n  Nippon India Growth Mid Cap Fund Direct Growth       -1.55%  +16.42%   ₹50,176.01",
+    "content": "Peer Comparison — HDFC Mid Cap Fund Direct Growth vs Similar Funds (Mid Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  HSBC Midcap Fund Direct Growth                      +10.52%  +21.82%   ₹16,799.59\n  Invesco India Mid Cap Fund Direct Growth             -0.76%  +21.66%   ₹15,748.83\n  WhiteOak Capital Mid Cap Fund Direct Growth          +3.98%  +20.37%    ₹8,399.71\n  Edelweiss Mid Cap Direct Plan Growth                 -1.69%  +18.92%   ₹19,230.16\n  Nippon India Growth Mid Cap Fund Direct Growth       -1.16%  +16.51%   ₹50,176.01",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "peer_comparison",
       "chunk_type": "peer_comparison",
       "chunk_index": 6
@@ -1288,7 +901,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 7,
@@ -1301,7 +914,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 8,
@@ -1314,7 +927,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 9,
@@ -1327,7 +940,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 10,
@@ -1340,7 +953,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 11,
@@ -1353,7 +966,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 12,
@@ -1366,7 +979,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 13,
@@ -1379,7 +992,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 14,
@@ -1392,7 +1005,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 15,
@@ -1405,7 +1018,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 16,
@@ -1418,7 +1031,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 17,
@@ -1431,7 +1044,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 18,
@@ -1444,7 +1057,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 19,
@@ -1457,7 +1070,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 20,
@@ -1470,7 +1083,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 21,
@@ -1483,7 +1096,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 22
@@ -1495,43 +1108,43 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 23
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Mid Cap Fund Direct Growth provide?\nA: The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.32% since its inception.",
+    "content": "Q: What kind of returns does HDFC Mid Cap Fund Direct Growth provide?\nA: The HDFC Mid Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 19.31% since its inception.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 24
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.75% as of 28 Oct 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Mid Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Mid Cap Fund Direct Growth is 0.74% as of 29 Oct 2026...",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 25
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Mid Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 28 Oct 2026.",
+    "content": "Q: What is the AUM of HDFC Mid Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Mid Cap Fund Direct Growth is ₹1,01,856.06Cr as of 29 Oct 2026.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 26
@@ -1543,7 +1156,7 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 27
@@ -1555,19 +1168,19 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 28
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Mid Cap Fund Direct Growth?\nA: The NAV of HDFC Mid Cap Fund Direct Growth is ₹216.12 as of 27 Oct 2026.",
+    "content": "Q: What is the NAV of HDFC Mid Cap Fund Direct Growth?\nA: The NAV of HDFC Mid Cap Fund Direct Growth is ₹216.18 as of 28 Oct 2026.",
     "metadata": {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 29
@@ -1579,7 +1192,394 @@
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "fund_slug": "hdfc-mid-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "scraped_at": "2026-10-28T11:03:02.879640",
+      "scraped_at": "2026-10-29T11:21:43.520134",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 30
+    }
+  },
+  {
+    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹150.9 (as of 28-Oct-2026)\nAUM: ₹40,800.81 Cr\nExpense Ratio: 0.8%\nRisk: Very High (Rating: 3/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "overview",
+      "chunk_type": "overview_card",
+      "chunk_index": 0
+    }
+  },
+  {
+    "content": "About HDFC Small Cap Fund Direct Growth\nThe scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies.\nStrengths: Lower expense ratio: 0.8%; 10Y annualised returns higher than category average by 0.49%; Lower base expense ratio: 0.65%\nWeaknesses: Consistently lower annualised returns than category average for the past 1Y, 3Y and 5Y",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "about_fund",
+      "chunk_type": "about",
+      "chunk_index": 1
+    }
+  },
+  {
+    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised -4.04%\n  3M: | Annualised -5.17% | SIP XIRR -31.03%\n  6M: | Annualised -0.49% | SIP XIRR -12.31%\n  1Y: | Annualised -8.02% | SIP XIRR -5.12%\n  3Y: | Annualised +9.35% | SIP XIRR +1.25%\n  5Y: | Annualised +13.26% | SIP XIRR +10.53%\n  10Y: | Annualised +16.56% | SIP XIRR +16.74%\n  Since Inception: | Annualised +17.66% | SIP XIRR +17.44%\nVs Category:\n  Category avg 1Y: +0.10%\n  Category avg 3Y: +13.35%\n  Category avg 5Y: +13.85%\nCategory Ranking:\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #33 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #5 in Small Cap",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "returns",
+      "chunk_type": "returns_table",
+      "chunk_index": 2
+    }
+  },
+  {
+    "content": "Exit Load & Tax for HDFC Small Cap Fund Direct Growth\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in Period: None\nA form of tax payable for the purchase or sale of an asset or security.\nExit load of 1% if redeemed within 1 year\nExit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months\nExit load of 2% if redeemed within 12 months and 1% if redeemed after 12 months but before 18 months\nExit load of 1% if redeemed within 1 year\nExit load, stamp duty and tax\nExit load of 1% if redeemed within 1 year\nTax implication\nIf you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "exit_load_tax",
+      "chunk_type": "exit_load_tax",
+      "chunk_index": 3
+    }
+  },
+  {
+    "content": "Investment Details for HDFC Small Cap Fund Direct Growth\nMinimum SIP: ₹100\nMinimum Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nLock-in: None",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "investment_info",
+      "chunk_type": "investment_info",
+      "chunk_index": 4
+    }
+  },
+  {
+    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -8.02% | Category avg +0.10%\n  3Y: Fund +9.35% | Category avg +13.35%\n  5Y: Fund +13.26% | Category avg +13.85%\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #33 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #5 in Small Cap\nSharpe Ratio: 0.3100\nAlpha: -1.0500\nBeta: 0.7800",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "performance_ranking",
+      "chunk_type": "performance_ranking",
+      "chunk_index": 5
+    }
+  },
+  {
+    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Bandhan Small Cap Fund Direct Growth                 +2.58%  +22.34%   ₹35,855.60\n  ITI Small Cap Fund Direct Growth                    +11.47%  +22.09%    ₹3,666.32\n  Invesco India Small Cap Fund Direct Growth           +6.37%  +20.32%   ₹16,130.64\n  Sundaram Small Cap Fund Direct Growth                +4.79%  +14.59%    ₹4,106.99\n  Nippon India Small Cap Fund Direct Growth            +1.33%  +13.44%   ₹80,905.55",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "peer_comparison",
+      "chunk_type": "peer_comparison",
+      "chunk_index": 6
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Unspecified Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Repo (Repo) — 10.03%\n  Net Payables (Net Payables) — -0.10%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 7,
+      "holdings_sector": "Unspecified"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Firstsource Solutions Ltd (Equity) — 3.68%\n  Kalpataru Power Transmission Ltd (Equity) — 1.57%\n  Power Mech Projects Ltd (Equity) — 1.34%\n  Timken India Ltd (Equity) — 1.34%\n  Tega Industries Ltd (Equity) — 1.20%\n  Blue Dart Express Ltd (Equity) — 1.18%\n  LG Balakrishnan & Brothers Ltd (Equity) — 1.18%\n  NRB Bearings Ltd (Equity) — 1.12%\n  Voltamp Transformers Ltd (Equity) — 1.03%\n  Transport Corporation Of India Ltd (Equity) — 1.02%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 8,
+      "holdings_sector": "Industrials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  VRL Logistics Ltd (Equity) — 1.01%\n  GMM Pfaudler Ltd (Equity) — 0.76%\n  SKF India (Industrial) Ltd (Equity) — 0.75%\n  The Anup Engineering Ltd (Equity) — 0.58%\n  Ion Exchange (India) Ltd (Equity) — 0.48%\n  PNC Infratech Ltd (Equity) — 0.43%\n  Gateway Distriparks Ltd (Equity) — 0.43%\n  SKF India Ltd (Equity) — 0.41%\n  Vesuvius India Ltd (Equity) — 0.41%\n  Awfis Space Solutions Ltd. (Equity) — 0.40%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 9,
+      "holdings_sector": "Industrials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Industrials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Gujarat Pipavav Port Ltd (Equity) — 0.36%\n  Kei Industries Ltd (Equity) — 0.33%\n  IFGL Refractories Ltd (Equity) — 0.31%\n  G R Infraprojects Ltd (Equity) — 0.29%\n  DB Corp Ltd (Equity) — 0.20%\n  BEML Ltd (Equity) — 0.20%\n  TCI Express Ltd (Equity) — 0.06%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 10,
+      "holdings_sector": "Industrials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Healthcare Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Aster DM Healthcare Ltd (Equity) — 3.37%\n  Krishna Institute Of Medical Sciences Ltd (Equity) — 2.04%\n  Eris Lifesciences Ltd (Equity) — 1.89%\n  Vijaya Diagnostic Centre Ltd (Equity) — 1.63%\n  Fortis Healthcare Ltd (Equity) — 0.94%\n  Unichem Laboratories Ltd (Equity) — 0.66%\n  Jupiter Life Line Hospitals Ltd. (Equity) — 0.26%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 11,
+      "holdings_sector": "Healthcare"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Gabriel India Ltd (Equity) — 3.09%\n  Pearl Global Industries Ltd (Equity) — 1.90%\n  PVR Ltd (Equity) — 1.75%\n  Chalet Hotels Ltd (Equity) — 1.62%\n  Suprajit Engineering Ltd (Equity) — 1.40%\n  Aditya Vision Ltd (Equity) — 1.28%\n  Vardhman Textiles Ltd (Equity) — 1.22%\n  Fiem Industries Ltd (Equity) — 1.04%\n  JK Tyre & Industries Ltd (Equity) — 1.03%\n  Mahindra CIE Automotive Ltd (Equity) — 1.03%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 12,
+      "holdings_sector": "Consumer Discretionary"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Discretionary Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Shoppers Stop Ltd (Equity) — 1.02%\n  Lumax Industries Ltd (Equity) — 0.83%\n  Redtape Ltd (Equity) — 0.65%\n  Wakefit Innovations Ltd. (Equity) — 0.57%\n  Vedant Fashions Ltd (Equity) — 0.54%\n  GNA Axles Ltd (Equity) — 0.48%\n  Bajaj Electricals Ltd (Equity) — 0.47%\n  La Opala RG Ltd (Equity) — 0.35%\n  Goodyear India Ltd (Equity) — 0.22%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 13,
+      "holdings_sector": "Consumer Discretionary"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Technology Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  eClerx Services Ltd (Equity) — 2.92%\n  Redington Ltd (Equity) — 1.35%\n  Sonata Software Ltd (Equity) — 1.28%\n  Zensar Technologies Ltd (Equity) — 0.90%\n  Mastek Ltd (Equity) — 0.61%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 14,
+      "holdings_sector": "Technology"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Financial Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Bank Of Baroda (Equity) — 2.65%\n  Indian Bank (Equity) — 1.91%\n  Home First Finance Company India Ltd (Equity) — 1.76%\n  The Federal Bank Ltd (Equity) — 1.61%\n  City Union Bank Ltd (Equity) — 1.48%\n  Equitas Small Finance Bank Ltd (Equity) — 1.15%\n  UTI Asset Management Company Ltd (Equity) — 1.01%\n  DHFL VYSYA HOUSING FINANCE LIMITED EQ (Equity) — 0.72%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 15,
+      "holdings_sector": "Financial"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Diversified Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Apar Industries Ltd (Equity) — 1.92%\n  KEC International Ltd (Equity) — 0.46%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 16,
+      "holdings_sector": "Diversified"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Energy & Utilities Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  The Great Eastern Shipping Company Ltd (Equity) — 1.73%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 17,
+      "holdings_sector": "Energy & Utilities"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Materials Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Sudarshan Chemical Industries Ltd (Equity) — 1.71%\n  Akzo Nobel India Ltd (Equity) — 1.32%\n  Indigo Paints Ltd (Equity) — 1.03%\n  Sharda Cropchem Ltd (Equity) — 0.97%\n  Kirloskar Ferrous Industries Ltd (Equity) — 0.91%\n  Chambal Fertilisers & Chemicals Ltd (Equity) — 0.86%\n  Tata Steel Ltd (Equity) — 0.70%\n  Usha Martin Ltd (Equity) — 0.57%\n  Insecticides (India) Ltd (Equity) — 0.37%\n  Carborundum Universal Ltd (Equity) — 0.20%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 18,
+      "holdings_sector": "Materials"
+    }
+  },
+  {
+    "content": "Portfolio Holdings for HDFC Small Cap Fund Direct Growth — Consumer Staples Sector\n(Portfolio date: 2026-09-29, Total holdings: 87)\n  Dodla Dairy Ltd (Equity) — 1.24%\n  Godrej Consumer Products Ltd (Equity) — 1.23%\n  Vishal Mega Mart Ltd. (Equity) — 1.02%\n  Bajaj Consumer Care Ltd (Equity) — 0.62%\n  Emami Ltd (Equity) — 0.31%\n  Sula Vineyards Ltd (Equity) — 0.20%",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "holdings",
+      "chunk_type": "holdings_batch",
+      "chunk_index": 19,
+      "holdings_sector": "Consumer Staples"
+    }
+  },
+  {
+    "content": "Fund Manager: Dhruv Muchhal — HDFC Small Cap Fund Direct Growth\nManaging since: 2023\nEducation: Mr. Dhruv has done B.Com, CA and CFA\nExperience: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 20,
+      "manager_name": "Dhruv Muchhal"
+    }
+  },
+  {
+    "content": "Fund Manager: Chirag Setalvad — HDFC Small Cap Fund Direct Growth\nManaging since: 2014\nEducation: Mr. Setalvad is a B. Sc and MBA from University of North Carolina.\nExperience: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "fund_management",
+      "chunk_type": "fund_manager",
+      "chunk_index": 21,
+      "manager_name": "Chirag Setalvad"
+    }
+  },
+  {
+    "content": "Total AUM: ₹934,075.66 Cr\nPhone: 022 – 66316333\nEmail: shareholders.relations@hdfcfund.com",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "fund_house",
+      "chunk_type": "fund_house",
+      "chunk_index": 22
+    }
+  },
+  {
+    "content": "Q: How to Invest in HDFC Small Cap Fund Direct Growth?\nA: You can easily invest in HDFC Small Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps: Log on to your Groww account Search for HDFC Small Cap Fund Direct Growth from the search box In order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to complete Once you are done with that, you can start investing in HDFC Small Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 23
+    }
+  },
+  {
+    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.66% since its inception.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 24
+    }
+  },
+  {
+    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.80% as of 29 Oct 2026...",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 25
+    }
+  },
+  {
+    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹40,800.81Cr as of 29 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 26
+    }
+  },
+  {
+    "content": "Q: How to Redeem HDFC Small Cap Fund Direct Growth?\nA: If you want to sell your HDFC Small Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 27
+    }
+  },
+  {
+    "content": "Q: Can I invest in SIP and Lump Sum of HDFC Small Cap Fund Direct Growth?\nA: You can select either SIP or Lumpsum investment of HDFC Small Cap Fund Direct Growth based on your investment objective and risk tolerance.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 28
+    }
+  },
+  {
+    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹150.90 as of 28 Oct 2026.",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
+      "section": "faq",
+      "chunk_type": "faq",
+      "chunk_index": 29
+    }
+  },
+  {
+    "content": "Q: What is the PE and PB ratio of HDFC Small Cap Fund Direct Growth?\nA: The PE ratio ratio of HDFC Small Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and the PB ratio of the same is evaluated by dividing the stock price per share by its book value per share (BVPS).",
+    "metadata": {
+      "fund_name": "HDFC Small Cap Fund Direct Growth",
+      "fund_slug": "hdfc-small-cap-fund-direct-growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "scraped_at": "2026-10-29T11:21:43.722375",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 30
