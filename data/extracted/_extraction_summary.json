@@ -1,119 +1,119 @@
 {
-  "extraction_timestamp": "2026-10-29T11:21:43.729428",
+  "extraction_timestamp": "2026-10-30T11:14:28.770973",
   "total_documents": 5,
   "documents_summary": [
     {
       "fund_name": "HDFC Silver ETF FoF Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "nav": 31.7062,
-      "nav_date": "28-Oct-2026",
+      "nav": 31.0209,
+      "nav_date": "29-Oct-2026",
       "aum_cr": 4497,
       "expense_ratio": "0.21",
       "holdings_count": 3,
       "faq_count": 8,
       "returns": {
-        "1d": 1.27,
-        "1w": -5.78,
-        "1m": -12.68,
-        "3m": -10.9,
-        "6m": -18.27,
-        "1y": 37.05,
-        "3y": 37.26,
-        "since_inception": 33.69
+        "1d": -2.16,
+        "1w": -5.23,
+        "1m": -14.03,
+        "3m": -13.09,
+        "6m": -19.95,
+        "1y": 26.51,
+        "3y": 36.23,
+        "since_inception": 32.94
       },
-      "raw_text_length": 19383
+      "raw_text_length": 20554
     },
     {
       "fund_name": "HDFC Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "nav": 1147.897,
-      "nav_date": "28-Oct-2026",
+      "nav": 1161.81,
+      "nav_date": "29-Oct-2026",
       "aum_cr": 37293.95,
       "expense_ratio": "1.02",
       "holdings_count": 49,
       "faq_count": 8,
       "returns": {
-        "1d": -0.04,
-        "1w": -0.21,
-        "1m": -1.9,
-        "3m": -6.61,
-        "6m": -3.56,
-        "1y": -9.28,
-        "3y": 8.22,
-        "5y": 9.05,
-        "10y": 11.64,
-        "since_inception": 12.36
+        "1d": 1.21,
+        "1w": 1.46,
+        "1m": -0.34,
+        "3m": -6.3,
+        "6m": -2.72,
+        "1y": -8.76,
+        "3y": 8.64,
+        "5y": 9.52,
+        "10y": 11.77,
+        "since_inception": 12.46
       },
-      "raw_text_length": 20522
+      "raw_text_length": 21869
     },
     {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-      "nav": 44.1363,
-      "nav_date": "28-Oct-2026",
+      "nav": 43.866,
+      "nav_date": "29-Oct-2026",
       "aum_cr": 12013.27,
       "expense_ratio": "0.2",
       "holdings_count": 3,
       "faq_count": 8,
       "returns": {
-        "1d": 1.21,
-        "1w": -0.93,
-        "1m": -3.55,
-        "3m": 0.12,
-        "6m": -4.69,
-        "1y": 21.08,
-        "3y": 31.17,
-        "5y": 23.05,
-        "10y": 15.55,
-        "since_inception": 10.53
+        "1d": -0.61,
+        "1w": -0.86,
+        "1m": -3.64,
+        "3m": -0.46,
+        "6m": -4.3,
+        "1y": 16.63,
+        "3y": 30.87,
+        "5y": 22.89,
+        "10y": 15.47,
+        "since_inception": 10.47
       },
-      "raw_text_length": 19226
+      "raw_text_length": 20397
     },
     {
       "fund_name": "HDFC Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "nav": 216.183,
-      "nav_date": "28-Oct-2026",
+      "nav": 217.641,
+      "nav_date": "29-Oct-2026",
       "aum_cr": 101856.06,
       "expense_ratio": "0.74",
       "holdings_count": 81,
       "faq_count": 8,
       "returns": {
-        "1d": 0.03,
-        "1w": -0.73,
-        "1m": -3.13,
-        "3m": -6.38,
-        "6m": -1.83,
-        "1y": -2.54,
-        "3y": 15.69,
-        "5y": 17.02,
-        "10y": 16.31,
-        "since_inception": 19.31
+        "1d": 0.67,
+        "1w": 0.53,
+        "1m": -1.68,
+        "3m": -6.51,
+        "6m": -0.89,
+        "1y": -2.19,
+        "3y": 15.93,
+        "5y": 17.25,
+        "10y": 16.38,
+        "since_inception": 19.37
       },
-      "raw_text_length": 22028
+      "raw_text_length": 23259
     },
     {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "nav": 150.9,
-      "nav_date": "28-Oct-2026",
+      "nav": 151.377,
+      "nav_date": "29-Oct-2026",
       "aum_cr": 40800.81,
       "expense_ratio": "0.8",
       "holdings_count": 87,
       "faq_count": 8,
       "returns": {
-        "1d": 0.12,
-        "1w": -0.68,
-        "1m": -4.04,
-        "3m": -5.17,
-        "6m": -0.49,
-        "1y": -8.02,
-        "3y": 9.35,
-        "5y": 13.26,
-        "10y": 16.56,
-        "since_inception": 17.66
+        "1d": 0.32,
+        "1w": 0.38,
+        "1m": -2.93,
+        "3m": -5.99,
+        "6m": -0.09,
+        "1y": -8.29,
+        "3y": 9.46,
+        "5y": 13.48,
+        "10y": 16.59,
+        "since_inception": 17.69
       },
-      "raw_text_length": 22693
+      "raw_text_length": 23924
     }
   ]
 }
