@@ -2,11 +2,11 @@
   "fund_name": "HDFC Silver ETF FoF Direct Growth",
   "fund_slug": "hdfc-silver-etf-fof-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-  "scraped_at": "2026-11-03T12:41:10.193064",
+  "scraped_at": "2026-11-04T12:50:44.677390",
   "isin": "INF179KC1DU7",
   "scheme_code": "150737",
-  "nav": 29.5892,
-  "nav_date": "02-Nov-2026",
+  "nav": 28.7897,
+  "nav_date": "03-Nov-2026",
   "aum_cr": 4497,
   "expense_ratio": "0.21",
   "category": "Commodities",
@@ -22,11 +22,11 @@
   "lock_in": "None",
   "description": "The scheme is seek to capital appreciation by investing in units of HDFC Silver ETF (HSETF).",
   "returns_annualised": {
-    "1d": -0.97,
-    "1w": -7.17,
-    "1m": -17.88,
-    "3m": -17.06,
-    "6m": -24.81,
+    "1d": -2.7,
+    "1w": -8.04,
+    "1m": -20.1,
+    "3m": -19.37,
+    "6m": -26.84,
     "1y": 19.17,
     "3y": 33.78,
     "since_inception": 31.28
@@ -47,10 +47,10 @@
     "standard_deviation": 41.56,
     "sortino_ratio": 1.51,
     "mean_return": 37.4,
-    "cat_return_1y": 25.99,
-    "cat_return_3y": 35.4,
+    "cat_return_1y": 22.67,
+    "cat_return_3y": 34.88,
     "cat_return_5y": null,
-    "rank_1y": 10,
+    "rank_1y": 11,
     "rank_3y": 5,
     "rank_5y": null,
     "rank_10y": null
@@ -189,11 +189,11 @@
     },
     {
       "question": "How much expense ratio is charged by HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 03 Nov 2026..."
+      "answer": "The term Expense Ratio used for HDFC Silver ETF FoF Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Silver ETF FoF Direct Growth is 0.21% as of 04 Nov 2026..."
     },
     {
       "question": "What is the AUM of HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 03 Nov 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Silver ETF FoF Direct Growth is ₹4,497.00Cr as of 04 Nov 2026."
     },
     {
       "question": "How to Redeem HDFC Silver ETF FoF Direct Growth?",
@@ -205,7 +205,7 @@
     },
     {
       "question": "What is the NAV of HDFC Silver ETF FoF Direct Growth?",
-      "answer": "The NAV of HDFC Silver ETF FoF Direct Growth is ₹29.59 as of 02 Nov 2026."
+      "answer": "The NAV of HDFC Silver ETF FoF Direct Growth is ₹28.79 as of 03 Nov 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Silver ETF FoF Direct Growth?",
