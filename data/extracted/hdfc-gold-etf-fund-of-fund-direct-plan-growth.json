@@ -2,11 +2,11 @@
   "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-11-06T12:46:17.601895",
+  "scraped_at": "2026-11-07T11:34:13.831916",
   "isin": "INF179K01VX0",
   "scheme_code": "119132",
-  "nav": 44.5323,
-  "nav_date": "05-Nov-2026",
+  "nav": 43.806,
+  "nav_date": "06-Nov-2026",
   "aum_cr": 12013.27,
   "expense_ratio": "0.2",
   "category": "Commodities",
@@ -22,25 +22,25 @@
   "lock_in": "None",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "returns_annualised": {
-    "1d": 1.54,
-    "1w": 1.52,
-    "1m": -2.92,
-    "3m": -1.16,
-    "6m": -3.36,
-    "1y": 16.52,
-    "3y": 30.84,
-    "5y": 23.05,
-    "10y": 15.38,
-    "since_inception": 10.46
+    "1d": -1.63,
+    "1w": 0.81,
+    "1m": -4.42,
+    "3m": -5.08,
+    "6m": -6.32,
+    "1y": 18.31,
+    "3y": 31.47,
+    "5y": 23.42,
+    "10y": 15.55,
+    "since_inception": 10.58
   },
   "returns_sip": {
-    "3m": -27.22,
-    "6m": -12.81,
-    "1y": -5.57,
-    "3y": 28.89,
-    "5y": 26.67,
-    "10y": 19.73,
-    "since_inception": 15.87
+    "3m": -13.41,
+    "6m": -6.3,
+    "1y": -2.39,
+    "3y": 30.02,
+    "5y": 27.3,
+    "10y": 20.0,
+    "since_inception": 16.06
   },
   "stats": {
     "risk": "High",
@@ -51,10 +51,10 @@
     "standard_deviation": 19.34,
     "sortino_ratio": 1.91,
     "mean_return": 28.49,
-    "cat_return_1y": 20.29,
-    "cat_return_3y": 32.65,
-    "cat_return_5y": 24.16,
-    "rank_1y": 14,
+    "cat_return_1y": 21.97,
+    "cat_return_3y": 33.23,
+    "cat_return_5y": 24.48,
+    "rank_1y": 13,
     "rank_3y": 7,
     "rank_5y": 8,
     "rank_10y": 2
@@ -190,15 +190,15 @@
     },
     {
       "question": "What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?",
-      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.46% since its inception."
+      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.58% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 06 Nov 2026..."
+      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 07 Nov 2026..."
     },
     {
       "question": "What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 06 Nov 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 07 Nov 2026."
     },
     {
       "question": "How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -210,7 +210,7 @@
     },
     {
       "question": "What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹44.53 as of 05 Nov 2026."
+      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.81 as of 06 Nov 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
