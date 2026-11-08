@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-11-07T11:33:18.890565",
-  "end_time": "2026-11-07T11:34:13.219116",
-  "duration_seconds": 54.3,
+  "start_time": "2026-11-08T11:44:37.535196",
+  "end_time": "2026-11-08T11:45:25.075254",
+  "duration_seconds": 47.5,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -42,7 +42,7 @@
       {
         "fund_name": "HDFC Silver ETF FoF Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-        "raw_text_length": 20554,
+        "raw_text_length": 20553,
         "nav_data": 30.1432,
         "returns_found": 8,
         "holdings_found": 3,

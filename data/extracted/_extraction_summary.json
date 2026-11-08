@@ -1,50 +1,29 @@
 {
-  "extraction_timestamp": "2026-11-07T11:34:14.201084",
+  "extraction_timestamp": "2026-11-08T11:45:26.147167",
   "total_documents": 5,
   "documents_summary": [
     {
-      "fund_name": "HDFC Silver ETF FoF Direct Growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
-      "nav": 30.1432,
+      "fund_name": "HDFC Mid Cap Fund Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "nav": 226.045,
       "nav_date": "06-Nov-2026",
-      "aum_cr": 4497,
-      "expense_ratio": "0.21",
-      "holdings_count": 3,
+      "aum_cr": 101856.06,
+      "expense_ratio": "0.74",
+      "holdings_count": 81,
       "faq_count": 8,
       "returns": {
-        "1d": -1.93,
-        "1w": 0.88,
-        "1m": -17.1,
-        "3m": -18.71,
-        "6m": -25.71,
-        "1y": 26.51,
-        "3y": 35.97,
-        "since_inception": 32.45
+        "1d": -0.04,
+        "1w": 4.66,
+        "1m": 1.81,
+        "3m": -4.18,
+        "6m": 1.58,
+        "1y": 2.21,
+        "3y": 16.38,
+        "5y": 17.83,
+        "10y": 17.25,
+        "since_inception": 19.66
       },
-      "raw_text_length": 20554
-    },
-    {
-      "fund_name": "HDFC Large Cap Fund Direct Growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-      "nav": 1257.172,
-      "nav_date": "06-Nov-2026",
-      "aum_cr": 37293.95,
-      "expense_ratio": "1.01",
-      "holdings_count": 49,
-      "faq_count": 8,
-      "returns": {
-        "1d": 1.91,
-        "1w": 7.92,
-        "1m": 7.58,
-        "3m": -0.23,
-        "6m": 4.16,
-        "1y": -1.79,
-        "3y": 10.36,
-        "5y": 10.55,
-        "10y": 12.84,
-        "since_inception": 12.93
-      },
-      "raw_text_length": 21858
+      "raw_text_length": 23260
     },
     {
       "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
@@ -61,36 +40,13 @@
         "1m": -4.42,
         "3m": -5.08,
         "6m": -6.32,
-        "1y": 18.31,
-        "3y": 31.47,
-        "5y": 23.42,
-        "10y": 15.55,
-        "since_inception": 10.58
+        "1y": 15.96,
+        "3y": 30.83,
+        "5y": 23.0,
+        "10y": 15.36,
+        "since_inception": 10.45
       },
       "raw_text_length": 20397
-    },
-    {
-      "fund_name": "HDFC Mid Cap Fund Direct Growth",
-      "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-      "nav": 226.045,
-      "nav_date": "06-Nov-2026",
-      "aum_cr": 101856.06,
-      "expense_ratio": "0.74",
-      "holdings_count": 81,
-      "faq_count": 8,
-      "returns": {
-        "1d": -0.04,
-        "1w": 4.66,
-        "1m": 1.81,
-        "3m": -4.18,
-        "6m": 1.58,
-        "1y": 1.18,
-        "3y": 16.64,
-        "5y": 17.85,
-        "10y": 17.26,
-        "since_inception": 19.67
-      },
-      "raw_text_length": 23260
     },
     {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
@@ -107,13 +63,57 @@
         "1m": -2.53,
         "3m": -7.21,
         "6m": -1.78,
-        "1y": -6.68,
-        "3y": 9.64,
-        "5y": 13.31,
-        "10y": 17.29,
-        "since_inception": 17.77
+        "1y": -6.24,
+        "3y": 9.08,
+        "5y": 13.13,
+        "10y": 17.19,
+        "since_inception": 17.7
       },
       "raw_text_length": 23925
+    },
+    {
+      "fund_name": "HDFC Large Cap Fund Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "nav": 1257.172,
+      "nav_date": "06-Nov-2026",
+      "aum_cr": 37293.95,
+      "expense_ratio": "1.01",
+      "holdings_count": 49,
+      "faq_count": 8,
+      "returns": {
+        "1d": 1.91,
+        "1w": 7.92,
+        "1m": 7.58,
+        "3m": -0.23,
+        "6m": 4.16,
+        "1y": 0.81,
+        "3y": 10.77,
+        "5y": 10.96,
+        "10y": 13.05,
+        "since_inception": 13.08
+      },
+      "raw_text_length": 21858
+    },
+    {
+      "fund_name": "HDFC Silver ETF FoF Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+      "nav": 30.1432,
+      "nav_date": "06-Nov-2026",
+      "aum_cr": 4497,
+      "expense_ratio": "0.21",
+      "holdings_count": 3,
+      "faq_count": 8,
+      "returns": {
+        "1d": -1.93,
+        "1w": 0.88,
+        "1m": -17.1,
+        "3m": -18.71,
+        "6m": -25.71,
+        "1y": 22.26,
+        "3y": 34.61,
+        "since_inception": 31.78
+      },
+      "raw_text_length": 20553
     }
   ]
 }

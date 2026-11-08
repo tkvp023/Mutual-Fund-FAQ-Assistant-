@@ -2,7 +2,7 @@
   "fund_name": "HDFC Large Cap Fund Direct Growth",
   "fund_slug": "hdfc-large-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-11-07T11:34:13.700537",
+  "scraped_at": "2026-11-08T11:45:25.991226",
   "isin": "INF179K01YV8",
   "scheme_code": "119018",
   "nav": 1257.172,
@@ -27,20 +27,20 @@
     "1m": 7.58,
     "3m": -0.23,
     "6m": 4.16,
-    "1y": -1.79,
-    "3y": 10.36,
-    "5y": 10.55,
-    "10y": 12.84,
-    "since_inception": 12.93
+    "1y": 0.81,
+    "3y": 10.77,
+    "5y": 10.96,
+    "10y": 13.05,
+    "since_inception": 13.08
   },
   "returns_sip": {
-    "3m": 49.37,
-    "6m": 12.96,
-    "1y": 3.85,
-    "3y": 2.92,
-    "5y": 9.2,
-    "10y": 12.51,
-    "since_inception": 12.81
+    "3m": 78.77,
+    "6m": 22.65,
+    "1y": 8.03,
+    "3y": 4.23,
+    "5y": 9.97,
+    "10y": 12.86,
+    "since_inception": 13.05
   },
   "stats": {
     "risk": "Very High",
@@ -51,12 +51,12 @@
     "standard_deviation": 14.24,
     "sortino_ratio": 0.32,
     "mean_return": 9.43,
-    "cat_return_1y": -0.72,
-    "cat_return_3y": 12.32,
-    "cat_return_5y": 9.53,
-    "rank_1y": 55,
+    "cat_return_1y": 1.24,
+    "cat_return_3y": 12.54,
+    "cat_return_5y": 9.82,
+    "rank_1y": 54,
     "rank_3y": 50,
-    "rank_5y": 20,
+    "rank_5y": 18,
     "rank_10y": 12
   },
   "holdings": [
@@ -519,32 +519,32 @@
   "peers": [
     {
       "name": "Invesco India Large Cap Fund Direct Growth",
-      "return_1y": 4.46,
-      "return_3y": 15.84,
+      "return_1y": 6.81,
+      "return_3y": 16.16,
       "aum_cr": 1995.07
     },
     {
       "name": "Bandhan Large Cap Fund Direct Growth",
-      "return_1y": 1.63,
-      "return_3y": 15.06,
+      "return_1y": 3.82,
+      "return_3y": 15.33,
       "aum_cr": 2097.65
     },
     {
       "name": "DSP Large Cap Fund Direct Growth",
-      "return_1y": -1.98,
-      "return_3y": 13,
+      "return_1y": 0.62,
+      "return_3y": 13.47,
       "aum_cr": 6642.38
     },
     {
       "name": "Nippon India Large Cap Fund Direct Growth",
-      "return_1y": -2.81,
-      "return_3y": 12.56,
+      "return_1y": -0.78,
+      "return_3y": 12.79,
       "aum_cr": 51296.06
     },
     {
       "name": "HDFC Large Cap Fund Direct Growth",
-      "return_1y": -1.79,
-      "return_3y": 10.36,
+      "return_1y": 0.81,
+      "return_3y": 10.77,
       "aum_cr": 37293.95
     }
   ],
@@ -565,15 +565,15 @@
     },
     {
       "question": "What kind of returns does HDFC Large Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 12.93% since its inception."
+      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.08% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.01% as of 07 Nov 2026..."
+      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 1.01% as of 08 Nov 2026..."
     },
     {
       "question": "What is the AUM of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 07 Nov 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,293.95Cr as of 08 Nov 2026."
     },
     {
       "question": "How to Redeem HDFC Large Cap Fund Direct Growth?",
