@@ -1,6 +1,6 @@
 Fund: HDFC Gold ETF Fund of Fund Direct Plan Growth
 Source: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
-Scraped: 2026-11-10T13:18:14.522910
+Scraped: 2026-11-11T12:29:58.689017
 ================================================================================
 
 HDFC Gold ETF Fund of Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
@@ -78,129 +78,6 @@ High Risk
 3Y annualised
 +0.61%
 1D
-NAV by date, 3Y range
-Date
-NAV
-09 Nov 2023
-₹19.37
-29 Nov 2023
-₹20.04
-18 Dec 2023
-₹19.83
-04 Jan 2024
-₹20.07
-24 Jan 2024
-₹19.92
-12 Feb 2024
-₹19.96
-29 Feb 2024
-₹19.95
-19 Mar 2024
-₹21.05
-08 Apr 2024
-₹23.00
-28 Apr 2024
-₹23.14
-16 May 2024
-₹23.40
-04 Jun 2024
-₹22.96
-24 Jun 2024
-₹22.94
-10 Jul 2024
-₹23.26
-30 Jul 2024
-₹22.30
-18 Aug 2024
-₹22.77
-04 Sep 2024
-₹22.85
-22 Sep 2024
-₹23.74
-10 Oct 2024
-₹23.98
-28 Oct 2024
-₹25.00
-18 Nov 2024
-₹24.02
-05 Dec 2024
-₹24.15
-25 Dec 2024
-₹24.11
-12 Jan 2025
-₹24.97
-29 Jan 2025
-₹25.70
-16 Feb 2025
-₹27.05
-06 Mar 2025
-₹27.24
-25 Mar 2025
-₹27.65
-15 Apr 2025
-₹29.86
-05 May 2025
-₹30.83
-22 May 2025
-₹30.06
-09 Jun 2025
-₹30.40
-26 Jun 2025
-₹30.13
-14 Jul 2025
-₹30.83
-31 Jul 2025
-₹30.91
-19 Aug 2025
-₹30.99
-08 Sep 2025
-₹34.42
-24 Sep 2025
-₹35.60
-14 Oct 2025
-₹39.79
-03 Nov 2025
-₹37.64
-23 Nov 2025
-₹38.57
-09 Dec 2025
-₹40.10
-29 Dec 2025
-₹42.01
-15 Jan 2026
-₹44.47
-04 Feb 2026
-₹47.44
-22 Feb 2026
-₹49.03
-12 Mar 2026
-₹49.25
-31 Mar 2026
-₹46.51
-21 Apr 2026
-₹47.14
-10 May 2026
-₹46.49
-28 May 2026
-₹48.49
-15 Jun 2026
-₹46.83
-05 Jul 2026
-₹45.12
-21 Jul 2026
-₹44.91
-09 Aug 2026
-₹47.00
-25 Aug 2026
-₹49.90
-14 Sep 2026
-₹46.67
-30 Sep 2026
-₹45.82
-21 Oct 2026
-₹44.25
-08 Nov 2026
-₹44.07
 1M
 6M
 1Y
@@ -214,8 +91,7 @@ Min. for SIP
 Fund size (AUM)
 ₹12,013.27 Cr
 Expense ratio
-0.17%
-Exclusive of GST & statutory charges
+0.20%
 Rating
 Holdings (3)
 Name
@@ -260,9 +136,9 @@ Fund returns
 +15.4%
 +10.5%
 Category average (Commodities Gold)
-+32.6%
-+24.1%
-+16.3%
++33.5%
++23.9%
++16.2%
 +12.4%
 Rank (Commodities Gold)
 --
@@ -437,11 +313,11 @@ The term
 Expense Ratio
 used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.17% as of 10 Nov 2026...
+The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 11 Nov 2026...
 What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 10 Nov 2026.
+of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 11 Nov 2026.
 How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?
 If you want to sell your HDFC Gold ETF Fund of Fund Direct Plan Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -503,8 +379,9 @@ Groww AMC
 PMS
 Bonds
 Credit
+US Stocks
 © 2016-2026 Groww. All rights reserved.
-Version: 8.1.7
+Version: 8.1.3
 Share Market
 Indices
 F&O
