@@ -2,12 +2,12 @@
   "fund_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
   "fund_slug": "hdfc-gold-etf-fund-of-fund-direct-plan-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
-  "scraped_at": "2026-11-12T13:34:47.161582",
+  "scraped_at": "2026-11-13T12:55:03.093503",
   "isin": "INF179K01VX0",
   "scheme_code": "119132",
-  "nav": 43.4947,
-  "nav_date": "11-Nov-2026",
-  "aum_cr": 12013.27,
+  "nav": 42.5058,
+  "nav_date": "12-Nov-2026",
+  "aum_cr": 11488.11,
   "expense_ratio": "0.2",
   "category": "Commodities",
   "sub_category": "Gold",
@@ -22,25 +22,25 @@
   "lock_in": "None",
   "description": "The Scheme seeks to generate capital appreciation by investing in units of HDFC Gold Exchange Traded Fund.",
   "returns_annualised": {
-    "1d": -1.31,
-    "1w": -0.83,
-    "1m": -6.0,
-    "3m": -8.13,
-    "6m": -6.43,
-    "1y": 16.72,
-    "3y": 31.71,
-    "5y": 22.91,
-    "10y": 15.39,
-    "since_inception": 10.49
+    "1d": -2.27,
+    "1w": -4.55,
+    "1m": -7.11,
+    "3m": -10.83,
+    "6m": -9.51,
+    "1y": 9.66,
+    "3y": 29.87,
+    "5y": 21.58,
+    "10y": 15.26,
+    "since_inception": 10.19
   },
   "returns_sip": {
-    "3m": -20.44,
-    "6m": -10.19,
-    "1y": -4.44,
-    "3y": 28.99,
-    "5y": 26.74,
-    "10y": 19.77,
-    "since_inception": 15.9
+    "3m": -41.52,
+    "6m": -22.71,
+    "1y": -11.28,
+    "3y": 26.07,
+    "5y": 25.12,
+    "10y": 19.07,
+    "since_inception": 15.43
   },
   "stats": {
     "risk": "High",
@@ -54,9 +54,9 @@
     "cat_return_1y": 20.23,
     "cat_return_3y": 33.52,
     "cat_return_5y": 23.92,
-    "rank_1y": 13,
+    "rank_1y": 12,
     "rank_3y": 7,
-    "rank_5y": 7,
+    "rank_5y": 5,
     "rank_10y": 3
   },
   "holdings": [
@@ -190,15 +190,15 @@
     },
     {
       "question": "What kind of returns does HDFC Gold ETF Fund of Fund Direct Plan Growth provide?",
-      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.49% since its inception."
+      "answer": "The HDFC Gold ETF Fund of Fund Direct Plan Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 10.19% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 12 Nov 2026..."
+      "answer": "The term Expense Ratio used for HDFC Gold ETF Fund of Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth is 0.20% as of 13 Nov 2026..."
     },
     {
       "question": "What is the AUM of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹12,013.27Cr as of 12 Nov 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹11,488.11Cr as of 13 Nov 2026."
     },
     {
       "question": "How to Redeem HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -210,7 +210,7 @@
     },
     {
       "question": "What is the NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
-      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹43.49 as of 11 Nov 2026."
+      "answer": "The NAV of HDFC Gold ETF Fund of Fund Direct Plan Growth is ₹42.51 as of 12 Nov 2026."
     },
     {
       "question": "What is the PE and PB ratio of HDFC Gold ETF Fund of Fund Direct Plan Growth?",
@@ -219,7 +219,7 @@
   ],
   "amc_info": {
     "name": "",
-    "aum_cr": 934075.65943461,
+    "aum_cr": 933671.13933074,
     "website": "",
     "phone": "022 – 66316333",
     "email": "shareholders.relations@hdfcfund.com"
