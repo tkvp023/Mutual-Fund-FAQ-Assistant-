@@ -1,8 +1,8 @@
 {
   "phase": "Phase 1: Web Scraping & Content Extraction",
-  "start_time": "2026-11-14T11:58:28.284317",
-  "end_time": "2026-11-14T11:59:14.447730",
-  "duration_seconds": 46.2,
+  "start_time": "2026-11-15T12:32:25.164561",
+  "end_time": "2026-11-15T12:33:20.684141",
+  "duration_seconds": 55.5,
   "scraping": {
     "total_urls": 5,
     "successful": 5,
@@ -51,7 +51,7 @@
       {
         "fund_name": "HDFC Mid Cap Fund Direct Growth",
         "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "raw_text_length": 23297,
+        "raw_text_length": 23298,
         "nav_data": 229.697,
         "returns_found": 10,
         "holdings_found": 81,
