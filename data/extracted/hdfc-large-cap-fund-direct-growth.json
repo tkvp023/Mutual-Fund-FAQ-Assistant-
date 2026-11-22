@@ -2,7 +2,7 @@
   "fund_name": "HDFC Large Cap Fund Direct Growth",
   "fund_slug": "hdfc-large-cap-fund-direct-growth",
   "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-11-21T13:17:43.320372",
+  "scraped_at": "2026-11-22T13:08:14.153256",
   "isin": "INF179K01YV8",
   "scheme_code": "119018",
   "nav": 1298.571,
@@ -27,20 +27,20 @@
     "1m": 12.08,
     "3m": 4.33,
     "6m": 10.47,
-    "1y": 0.83,
-    "3y": 10.67,
-    "5y": 11.64,
-    "10y": 13.46,
-    "since_inception": 13.21
+    "1y": 1.66,
+    "3y": 11.14,
+    "5y": 11.91,
+    "10y": 13.59,
+    "since_inception": 13.31
   },
   "returns_sip": {
-    "3m": 78.26,
-    "6m": 28.89,
-    "1y": 11.77,
-    "3y": 5.5,
-    "5y": 10.66,
-    "10y": 13.16,
-    "since_inception": 13.26
+    "3m": 92.36,
+    "6m": 34.53,
+    "1y": 14.33,
+    "3y": 6.32,
+    "5y": 11.14,
+    "10y": 13.38,
+    "since_inception": 13.41
   },
   "stats": {
     "risk": "Very High",
@@ -51,13 +51,13 @@
     "standard_deviation": 14.24,
     "sortino_ratio": 0.32,
     "mean_return": 9.43,
-    "cat_return_1y": 1.47,
-    "cat_return_3y": 12.3,
-    "cat_return_5y": 10.27,
-    "rank_1y": 55,
+    "cat_return_1y": 2.06,
+    "cat_return_3y": 12.72,
+    "cat_return_5y": 10.46,
+    "rank_1y": 56,
     "rank_3y": 50,
     "rank_5y": 8,
-    "rank_10y": 16
+    "rank_10y": 15
   },
   "holdings": [
     {
@@ -511,32 +511,32 @@
   "peers": [
     {
       "name": "Invesco India Large Cap Fund Direct Growth",
-      "return_1y": 6.54,
-      "return_3y": 15.88,
+      "return_1y": 7.25,
+      "return_3y": 16.3,
       "aum_cr": 1994.91
     },
     {
       "name": "Bandhan Large Cap Fund Direct Growth",
-      "return_1y": 4.72,
-      "return_3y": 15.16,
+      "return_1y": 5.13,
+      "return_3y": 15.5,
       "aum_cr": 2134.77
     },
     {
       "name": "DSP Large Cap Fund Direct Growth",
-      "return_1y": 0.71,
-      "return_3y": 13.32,
+      "return_1y": 1.82,
+      "return_3y": 13.97,
       "aum_cr": 6792.75
     },
     {
       "name": "Nippon India Large Cap Fund Direct Growth",
-      "return_1y": 0.29,
-      "return_3y": 13.23,
+      "return_1y": 0.85,
+      "return_3y": 13.68,
       "aum_cr": 52108.86
     },
     {
       "name": "HDFC Large Cap Fund Direct Growth",
-      "return_1y": 0.83,
-      "return_3y": 10.67,
+      "return_1y": 1.66,
+      "return_3y": 11.14,
       "aum_cr": 37466.3
     }
   ],
@@ -558,15 +558,15 @@
     },
     {
       "question": "What kind of returns does HDFC Large Cap Fund Direct Growth provide?",
-      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.21% since its inception."
+      "answer": "The HDFC Large Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 13.31% since its inception."
     },
     {
       "question": "How much expense ratio is charged by HDFC Large Cap Fund Direct Growth?",
-      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.99% as of 21 Nov 2026..."
+      "answer": "The term Expense Ratio used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.99% as of 22 Nov 2026..."
     },
     {
       "question": "What is the AUM of HDFC Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 21 Nov 2026."
+      "answer": "The AUM, short for Assets Under Management of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 22 Nov 2026."
     },
     {
       "question": "How to Redeem HDFC Large Cap Fund Direct Growth?",
