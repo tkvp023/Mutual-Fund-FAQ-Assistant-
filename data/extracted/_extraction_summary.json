@@ -1,5 +1,5 @@
 {
-  "extraction_timestamp": "2026-11-24T15:36:01.191292",
+  "extraction_timestamp": "2026-11-25T15:21:09.866531",
   "total_documents": 5,
   "documents_summary": [
     {
@@ -54,7 +54,7 @@
       "nav": 1277.914,
       "nav_date": "23-Nov-2026",
       "aum_cr": 37466.3,
-      "expense_ratio": "0.99",
+      "expense_ratio": "0.98",
       "holdings_count": 48,
       "faq_count": 8,
       "returns": {

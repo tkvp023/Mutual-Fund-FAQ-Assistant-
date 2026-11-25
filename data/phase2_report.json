@@ -1,7 +1,7 @@
 {
   "phase": "Phase 2: Re-Extract + Chunk",
-  "timestamp": "2026-11-24T15:36:01.205408",
-  "duration_seconds": 0.5,
+  "timestamp": "2026-11-25T15:21:09.872756",
+  "duration_seconds": 0.9,
   "documents": 5,
   "total_chunks": 128,
   "chunks_per_fund": {
@@ -72,7 +72,7 @@
       "nav": 1277.914,
       "nav_date": "23-Nov-2026",
       "aum_cr": 37466.3,
-      "expense_ratio": "0.99",
+      "expense_ratio": "0.98",
       "holdings": 48,
       "faq": 8,
       "returns": {
