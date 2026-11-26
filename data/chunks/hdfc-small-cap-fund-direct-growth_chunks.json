@@ -1,11 +1,11 @@
 [
   {
-    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹155.307 (as of 23-Nov-2026)\nAUM: ₹38,960.36 Cr\nExpense Ratio: 0.79%\nRisk: Very High (Rating: 2/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
+    "content": "Fund: HDFC Small Cap Fund Direct Growth\nCategory: Equity > Small Cap\nNAV: ₹155.104 (as of 25-Nov-2026)\nAUM: ₹38,960.36 Cr\nExpense Ratio: 0.79%\nRisk: Very High (Rating: 2/5)\nMin SIP: ₹100 | Min Lumpsum: ₹100\nExit Load: Exit load of 1% if redeemed within 1 year\nStamp Duty: 0.005% (from July 1st, 2020)\nLock-in: None\nBenchmark: BSE 250 SmallCap Total Return Index\nLaunch Date: 01-Jan-2013\nISIN: INF179KA1RW5",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "overview",
       "chunk_type": "overview_card",
       "chunk_index": 0
@@ -17,19 +17,19 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "about_fund",
       "chunk_type": "about",
       "chunk_index": 1
     }
   },
   {
-    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised +4.66%\n  3M: | Annualised -3.81% | SIP XIRR -0.35%\n  6M: | Annualised +1.75% | SIP XIRR -2.20%\n  1Y: | Annualised -3.11% | SIP XIRR +1.68%\n  3Y: | Annualised +8.35% | SIP XIRR +2.60%\n  5Y: | Annualised +14.01% | SIP XIRR +11.31%\n  10Y: | Annualised +18.00% | SIP XIRR +17.07%\n  Since Inception: | Annualised +17.81% | SIP XIRR +17.66%\nVs Category:\n  Category avg 1Y: +9.91%\n  Category avg 3Y: +13.24%\n  Category avg 5Y: +15.26%\nCategory Ranking:\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #35 in Small Cap\n  Rank 5Y: #15 in Small Cap\n  Rank 10Y: #6 in Small Cap",
+    "content": "Returns for HDFC Small Cap Fund Direct Growth:\n  1M: | Annualised +4.52%\n  3M: | Annualised -3.40% | SIP XIRR -1.21%\n  6M: | Annualised +0.82% | SIP XIRR -2.62%\n  1Y: | Annualised -2.98% | SIP XIRR +1.41%\n  3Y: | Annualised +8.38% | SIP XIRR +2.50%\n  5Y: | Annualised +13.62% | SIP XIRR +11.23%\n  10Y: | Annualised +17.80% | SIP XIRR +17.03%\n  Since Inception: | Annualised +17.79% | SIP XIRR +17.63%\nVs Category:\n  Category avg 1Y: +9.91%\n  Category avg 3Y: +13.24%\n  Category avg 5Y: +15.26%\nCategory Ranking:\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #35 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #7 in Small Cap",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "returns",
       "chunk_type": "returns_table",
       "chunk_index": 2
@@ -41,7 +41,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "exit_load_tax",
       "chunk_type": "exit_load_tax",
       "chunk_index": 3
@@ -53,31 +53,31 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "investment_info",
       "chunk_type": "investment_info",
       "chunk_index": 4
     }
   },
   {
-    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -3.11% | Category avg +9.91%\n  3Y: Fund +8.35% | Category avg +13.24%\n  5Y: Fund +14.01% | Category avg +15.26%\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #35 in Small Cap\n  Rank 5Y: #15 in Small Cap\n  Rank 10Y: #6 in Small Cap\nSharpe Ratio: 0.2600\nAlpha: -1.0600\nBeta: 0.7800",
+    "content": "Performance & Rankings for HDFC Small Cap Fund Direct Growth\n  1Y: Fund -2.98% | Category avg +9.91%\n  3Y: Fund +8.38% | Category avg +13.24%\n  5Y: Fund +13.62% | Category avg +15.26%\n  Rank 1Y: #46 in Small Cap\n  Rank 3Y: #35 in Small Cap\n  Rank 5Y: #16 in Small Cap\n  Rank 10Y: #7 in Small Cap\nSharpe Ratio: 0.2600\nAlpha: -1.0600\nBeta: 0.7800",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "performance_ranking",
       "chunk_type": "performance_ranking",
       "chunk_index": 5
     }
   },
   {
-    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Small Cap Fund Direct Growth          +20.54%  +21.04%   ₹16,319.58\n  Bandhan Small Cap Fund Direct Growth                 +8.76%  +20.68%   ₹35,203.84\n  ITI Small Cap Fund Direct Growth                    +19.27%  +20.40%    ₹3,597.03\n  Sundaram Small Cap Fund Direct Growth               +10.15%  +13.22%    ₹3,862.20\n  Nippon India Small Cap Fund Direct Growth            +6.88%  +12.30%   ₹76,902.83",
+    "content": "Peer Comparison — HDFC Small Cap Fund Direct Growth vs Similar Funds (Small Cap)\n  Fund                                                     1Y       3Y      AUM(Cr)\n  --------------------------------------------------------------------------------\n  Invesco India Small Cap Fund Direct Growth          +21.51%  +21.29%   ₹16,319.58\n  Bandhan Small Cap Fund Direct Growth                 +9.08%  +20.71%   ₹35,203.84\n  ITI Small Cap Fund Direct Growth                    +19.09%  +20.20%    ₹3,597.03\n  Sundaram Small Cap Fund Direct Growth               +10.23%  +13.31%    ₹3,862.20\n  Nippon India Small Cap Fund Direct Growth            +7.25%  +12.24%   ₹76,902.83",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "peer_comparison",
       "chunk_type": "peer_comparison",
       "chunk_index": 6
@@ -89,7 +89,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 7,
@@ -102,7 +102,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 8,
@@ -115,7 +115,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 9,
@@ -128,7 +128,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 10,
@@ -141,7 +141,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 11,
@@ -154,7 +154,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 12,
@@ -167,7 +167,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 13,
@@ -180,7 +180,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 14,
@@ -193,7 +193,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 15,
@@ -206,7 +206,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 16,
@@ -219,7 +219,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 17,
@@ -232,7 +232,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 18,
@@ -245,7 +245,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "holdings",
       "chunk_type": "holdings_batch",
       "chunk_index": 19,
@@ -258,7 +258,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 20,
@@ -271,7 +271,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "fund_management",
       "chunk_type": "fund_manager",
       "chunk_index": 21,
@@ -284,7 +284,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "fund_house",
       "chunk_type": "fund_house",
       "chunk_index": 22
@@ -296,43 +296,43 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 23
     }
   },
   {
-    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.81% since its inception.",
+    "content": "Q: What kind of returns does HDFC Small Cap Fund Direct Growth provide?\nA: The HDFC Small Cap Fund Direct Growth has been there from 01 Jan 2013 and the average annual returns provided by this fund is 17.79% since its inception.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 24
     }
   },
   {
-    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.79% as of 25 Nov 2026...",
+    "content": "Q: How much expense ratio is charged by HDFC Small Cap Fund Direct Growth?\nA: The term Expense Ratio used for HDFC Small Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund. The Expense Ratio of HDFC Small Cap Fund Direct Growth is 0.79% as of 26 Nov 2026...",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 25
     }
   },
   {
-    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹38,960.36Cr as of 25 Nov 2026.",
+    "content": "Q: What is the AUM of HDFC Small Cap Fund Direct Growth?\nA: The AUM, short for Assets Under Management of HDFC Small Cap Fund Direct Growth is ₹38,960.36Cr as of 26 Nov 2026.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 26
@@ -344,7 +344,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 27
@@ -356,19 +356,19 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 28
     }
   },
   {
-    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹155.31 as of 23 Nov 2026.",
+    "content": "Q: What is the NAV of HDFC Small Cap Fund Direct Growth?\nA: The NAV of HDFC Small Cap Fund Direct Growth is ₹155.10 as of 25 Nov 2026.",
     "metadata": {
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 29
@@ -380,7 +380,7 @@
       "fund_name": "HDFC Small Cap Fund Direct Growth",
       "fund_slug": "hdfc-small-cap-fund-direct-growth",
       "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
-      "scraped_at": "2026-11-25T15:21:09.859699",
+      "scraped_at": "2026-11-26T14:47:17.895167",
       "section": "faq",
       "chunk_type": "faq",
       "chunk_index": 30
