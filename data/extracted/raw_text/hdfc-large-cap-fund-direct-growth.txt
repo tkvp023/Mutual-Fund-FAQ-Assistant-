@@ -1,6 +1,6 @@
 Fund: HDFC Large Cap Fund Direct Growth
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
-Scraped: 2026-11-27T14:46:18.280546
+Scraped: 2026-11-28T13:57:44.895982
 ================================================================================
 
 HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
@@ -76,7 +76,7 @@ Equity
 Large Cap
 Very High Risk
 3Y annualised
--0.20%
+-0.99%
 1D
 NAV by date, 3Y range
 Date
@@ -121,94 +121,94 @@ NAV
 ₹1,204.37
 13 Nov 2024
 ₹1,172.43
-03 Dec 2024
-₹1,217.77
+04 Dec 2024
+₹1,228.75
 22 Dec 2024
 ₹1,180.47
-08 Jan 2025
-₹1,170.39
+09 Jan 2025
+₹1,160.51
 27 Jan 2025
 ₹1,135.50
-12 Feb 2025
-₹1,141.26
+13 Feb 2025
+₹1,133.58
 04 Mar 2025
 ₹1,108.37
-23 Mar 2025
-₹1,173.81
+24 Mar 2025
+₹1,171.43
 10 Apr 2025
 ₹1,130.70
-01 May 2025
-₹1,196.67
+04 May 2025
+₹1,200.05
 20 May 2025
 ₹1,215.73
-05 Jun 2025
-₹1,221.77
+08 Jun 2025
+₹1,227.77
 24 Jun 2025
 ₹1,232.15
-10 Jul 2025
-₹1,231.99
+13 Jul 2025
+₹1,233.17
 29 Jul 2025
 ₹1,228.61
-17 Aug 2025
-₹1,227.63
+18 Aug 2025
+₹1,235.04
 04 Sep 2025
 ₹1,221.90
-22 Sep 2025
-₹1,245.98
+23 Sep 2025
+₹1,238.50
 12 Oct 2025
 ₹1,240.66
-30 Oct 2025
-₹1,256.68
+02 Nov 2025
+₹1,262.31
 19 Nov 2025
 ₹1,277.35
-07 Dec 2025
-₹1,264.81
-25 Dec 2025
-₹1,274.41
-12 Jan 2026
-₹1,271.50
-02 Feb 2026
-₹1,268.66
-18 Feb 2026
-₹1,262.62
-10 Mar 2026
-₹1,189.55
-29 Mar 2026
-₹1,107.31
-19 Apr 2026
-₹1,207.10
-06 May 2026
-₹1,208.78
-25 May 2026
-₹1,188.50
-11 Jun 2026
-₹1,186.88
-01 Jul 2026
-₹1,228.50
-19 Jul 2026
-₹1,236.57
-05 Aug 2026
-₹1,260.09
-23 Aug 2026
-₹1,243.69
-09 Sep 2026
-₹1,210.98
-28 Sep 2026
-₹1,165.78
-18 Oct 2026
-₹1,158.61
-04 Nov 2026
-₹1,233.61
-25 Nov 2026
-₹1,296.58
+08 Dec 2025
+₹1,264.46
+28 Dec 2025
+₹1,270.02
+13 Jan 2026
+₹1,272.84
+03 Feb 2026
+₹1,274.20
+19 Feb 2026
+₹1,266.82
+11 Mar 2026
+₹1,177.04
+30 Mar 2026
+₹1,107.29
+20 Apr 2026
+₹1,218.19
+07 May 2026
+₹1,205.37
+26 May 2026
+₹1,193.44
+14 Jun 2026
+₹1,198.74
+02 Jul 2026
+₹1,234.16
+20 Jul 2026
+₹1,238.22
+06 Aug 2026
+₹1,251.73
+24 Aug 2026
+₹1,249.86
+10 Sep 2026
+₹1,208.62
+29 Sep 2026
+₹1,161.71
+20 Oct 2026
+₹1,150.29
+05 Nov 2026
+₹1,257.17
+26 Nov 2026
+₹1,283.74
 1M
 6M
 1Y
 3Y
 5Y
 All
-NAV: 26 Nov '26
-₹1,296.58
+NAV: 27 Nov '26
+₹1,283.74
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -466,10 +466,10 @@ Fund returns
 +13.6%
 +13.3%
 Category average (Equity Large Cap)
-+12.0%
-+10.4%
++12.6%
++11.4%
 +13.8%
-+13.1%
++13.2%
 Rank (Equity Large Cap)
 50
 13
@@ -592,7 +592,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About HDFC Large Cap Fund Direct Growth
 HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,3
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 26 Nov 2026 is ₹1,296.58.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 09 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,33,671 Cr and the Latest NAV as of 27 Nov 2026 is ₹1,283.74.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ...Read more
 Investment Objective
@@ -648,11 +648,11 @@ The term
 Expense Ratio
 used for HDFC Large Cap Fund Direct Growth or any other mutual fund is the annual
 charges one needs to pay to the Mutual Fund company for managing your investments in that fund.
-The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.98% as of 27 Nov 2026...
+The Expense Ratio of HDFC Large Cap Fund Direct Growth is 0.98% as of 28 Nov 2026...
 What is the AUM of HDFC Large Cap Fund Direct Growth?
 The AUM, short for
 Assets Under Management
-of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 27 Nov 2026.
+of HDFC Large Cap Fund Direct Growth is ₹37,466.30Cr as of 28 Nov 2026.
 How to Redeem HDFC Large Cap Fund Direct Growth?
 If you want to sell your HDFC Large Cap Fund Direct Growth holdings, go to your holding on the app or
 web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your
@@ -665,7 +665,7 @@ Lumpsum
 investment of HDFC Large Cap Fund Direct Growth based on
 your investment objective and risk tolerance.
 What is the NAV of HDFC Large Cap Fund Direct Growth?
-The NAV of HDFC Large Cap Fund Direct Growth is ₹1,296.58 as of 26 Nov 2026.
+The NAV of HDFC Large Cap Fund Direct Growth is ₹1,283.74 as of 27 Nov 2026.
 What is the PE and PB ratio of HDFC Large Cap Fund Direct Growth?
 The
 PE ratio
